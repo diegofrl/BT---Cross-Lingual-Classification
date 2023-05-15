@@ -1,0 +1,57 @@
+L'Angstrom è un'unità di misura molto piccola, utilizzata per esprimere lunghezze d'onda e dimensioni atomiche.
+
+L'effetto Doppler è un fenomeno fisico che provoca un cambiamento nella frequenza delle onde a causa del moto relativo tra la sorgente e l'osservatore.
+
+La scala Fahrenheit è un sistema di misurazione della temperatura utilizzato principalmente negli Stati Uniti.
+
+L'Hertz è l'unità di misura della frequenza e rappresenta il numero di cicli al secondo.
+
+I raggi Röntgen, o raggi X, sono usati in ambito medico per esaminare l'interno del corpo umano.
+
+La Spektroskopie è una tecnica scientifica utilizzata per analizzare la composizione chimica delle sostanze.
+
+Volkswagen è un'azienda automobilistica tedesca che produce auto, camion e autobus.
+
+La cache del computer memorizza temporaneamente i dati per consentire un accesso più veloce alle informazioni.
+
+Un firewall protegge la rete di un'organizzazione da intrusioni esterne e attacchi informatici.
+
+L'hardware di un computer comprende tutti i componenti fisici, come processore, scheda madre e memoria RAM.
+
+Il kernel è il cuore del sistema operativo, responsabile della gestione delle risorse hardware e software.
+
+Un Megabyte è composto da un milione di byte e rappresenta una quantità di dati digitale.
+
+Un pixel è il singolo punto di un'immagine digitale che forma la sua risoluzione.
+
+Un router è un dispositivo di rete che permette la comunicazione tra dispositivi e la connessione a Internet.
+
+Il software di un computer consiste nei programmi che ne gestiscono le funzioni e le operazioni.
+
+L'upload di un file consiste nel trasferirlo dal proprio dispositivo a un server remoto.
+
+Il web è la rete di pagine internet accessibili tramite un browser.
+
+L'algorithme è alla base dei programmi informatici e permette di risolvere problemi specifici.
+
+La biodiversité è la varietà di specie viventi presenti sulla Terra e rappresenta la ricchezza del nostro ecosistema.
+
+Il camouflage è una tecnica di mimetizzazione utilizzata sia dagli animali che dai militari per confondersi con l'ambiente circostante.
+
+Il pensiero cartésien è un metodo di analisi razionale basato sulla filosofia di René Descartes.
+
+Il cinéma è un'arte che combina tecnologia e creatività per raccontare storie attraverso immagini in movimento.
+
+La fissure è una crepa o frattura in un materiale solido, spesso causata da stress meccanico o cambiamenti termici.
+
+La géologie è la scienza che studia la composizione, la struttura e la storia della Terra.
+
+Un hôpital è un'istituzione sanitaria dove i pazienti ricevono cure mediche e chirurgiche.
+
+L'ingénieur è un professionista che applica principi scientifici e tecnologici per risolvere problemi pratici.
+
+Il mètre è un'unità di misura della lunghezza utilizzata nel sistema metrico.
+
+La tecnologia numérique è alla base di dispositivi e sistemi che trattano informazioni in formato digitale.
+
+Un prototype è un modello sperimentale utilizzato per testare nuove idee e tecnologie prima della loro produzione in serie.

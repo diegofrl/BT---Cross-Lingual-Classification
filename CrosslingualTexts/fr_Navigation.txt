@@ -1,0 +1,59 @@
+Départ en direction de la rue High Street.
+Tournez à droite sur la rue Queen's Road.
+Continuez tout droit sur la rue King's Avenue.
+Prenez à gauche sur la rue Windsor Road.
+Continuez sur la rue Victoria Street.
+Tournez à droite sur la rue Albert Road.
+Continuez sur la rue Main Street.
+Tournez à gauche sur la rue Park Avenue.
+Prenez à droite sur la rue Elm Street.
+Tournez à droite sur la rue Oak Avenue.
+Continuez tout droit sur la rue Church Street.
+Prenez à droite sur la rue Highfield Road.
+Continuez sur la rue Hillcrest Avenue.
+Tournez à gauche sur la rue Sunnydale Drive.
+Prenez à droite sur la rue Woodland Drive.
+Continuez sur la rue Broad Street.
+Tournez à gauche sur la rue Market Square.
+Continuez tout droit sur la rue Bridge Street.
+Prenez à droite sur la rue Station Road.
+
+Tournez à droite sur la rue Goethestraße.
+Continuez tout droit sur la rue Schillerstraße.
+Tournez à gauche sur la rue Hauptstraße.
+Continuez tout droit sur la rue Berliner Straße.
+Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.
+Restez sur l'autoroute A2 pendant 100 kilomètres.
+Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.
+Restez sur l'autoroute A33 pendant 45 kilomètres.
+Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.
+Continuez tout droit sur la route B64.
+Tournez à droite sur la rue Kasseler Straße.
+Tournez à gauche sur la rue Lütmarser Straße.
+Continuez tout droit sur la rue Im Sacke.
+Tournez à droite sur la rue Holsterfeld.
+Tournez à gauche sur la rue Bahnhofstraße.
+Tournez à droite sur la rue Bremer Straße.
+Tournez à gauche sur la rue Kasseler Straße.
+Continuez tout droit sur la rue B7.
+Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.
+
+Partez de Piazza del Popolo.
+Prenez la Via Flaminia en direction de nord-est.
+Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.
+Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.
+Restez sur l'A1/E35 pendant environ 150 kilomètres.
+Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.
+Restez sur l'A14/E45 pendant environ 100 kilomètres.
+Prenez la sortie pour la SS16 en direction de Pescara/Napoli.
+Continuez sur la SS16 pendant environ 35 kilomètres.
+Prenez la sortie pour la SP214 en direction de Vasto.
+Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.
+Tournez à droite sur la Via Torino.
+Tournez à gauche sur la Via Napoli.
+Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.
+Tournez à droite sur la Via Carducci.
+Tournez à gauche sur la Via D'Annunzio.
+Tournez à droite sur la Via San Francesco.
+Tournez à gauche sur la Via Genova.
+Tournez à droite sur la Via Regina Elena.

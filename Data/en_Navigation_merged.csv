@@ -1,0 +1,497 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word_x,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT,Word_y,Language
+0,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Start,5,0.0,0.57,1.0,0.0,0.0,0.0,0.0,0.43,Start,en
+1,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,at,2,1.0,0.57,0.0,0.0,0.0,0.0,0.0,0.43,at,en
+2,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Rome,4,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,Rome,en
+3,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Fiumicino,9,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,Fiumicino,it
+4,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Airport,7,1.0,0.57,0.0,0.0,0.0,0.0,0.0,0.43,Airport,en
+5,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,and,3,1.0,0.57,0.0,0.0,0.0,0.0,0.0,0.43,and,en
+6,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,head,4,1.0,0.57,0.0,0.0,0.0,0.0,0.0,0.43,head,en
+7,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,towards,7,1.0,0.57,0.0,0.0,0.0,0.0,0.0,0.43,towards,en
+8,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Via,3,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,Via,it
+9,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,dell,4,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,dell,it
+10,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Aeroporto,9,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,Aeroporto,it
+11,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,di,2,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,di,it
+12,en,Navigation,en_Navigation,0,Start at Rome Fiumicino Airport and head towards Via dell'Aeroporto di Fiumicino.,Fiumicino,9,0.0,0.57,0.0,0.0,0.0,0.0,1.0,0.43,Fiumicino,it
+13,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Turn,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turn,en
+14,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,left,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,left,en
+15,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,onto,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,onto,en
+16,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+17,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dell,it
+18,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Aeroporto,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Aeroporto,it
+19,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+20,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Fiumicino,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Fiumicino,it
+21,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,and,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,and,en
+22,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,continue,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,continue,en
+23,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,straight,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,straight,en
+24,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,until,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,until,en
+25,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,you,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,you,en
+26,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,reach,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,reach,en
+27,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+28,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dell,it
+29,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Aeroporto,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Aeroporto,it
+30,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+31,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Fiumicino,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Fiumicino,it
+32,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+33,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,Portuense,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Portuense,it
+34,en,Navigation,en_Navigation,1,Turn left onto Via dell' Aeroporto di Fiumicino and continue straight until you reach Via dell' Aeroporto di Fiumicino/Via Portuense/SS8.,SS,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,SS,en
+35,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+36,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+37,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,onto,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,onto,en
+38,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+39,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,Portuense,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Portuense,it
+40,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,SS,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,SS,en
+41,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+42,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,continue,en
+43,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+44,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,this,en
+45,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,road,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,road,en
+46,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+47,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+48,en,Navigation,en_Navigation,2,Turn right onto Via Portuense/SS8 and continue on this road for approximately 24 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+49,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Turn,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turn,en
+50,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,left,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,left,en
+51,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,onto,4,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0,onto,en
+52,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+53,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,della,it
+54,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Magliana,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Magliana,it
+55,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,SS,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,SS,en
+56,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,and,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,and,en
+57,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,continue,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,continue,en
+58,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,straight,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,straight,en
+59,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,until,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,until,en
+60,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,you,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,you,en
+61,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,reach,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,reach,en
+62,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Viale,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Viale,it
+63,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,dei,3,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0,dei,it
+64,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Quattro,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Quattro,it
+65,en,Navigation,en_Navigation,3,Turn left onto Via della Magliana/SS8 and continue straight until you reach Viale dei Quattro Venti.,Venti,5,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0,Venti,it
+66,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Turn,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Turn,en
+67,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,right,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,right,en
+68,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,onto,4,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0,onto,en
+69,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Viale,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Viale,it
+70,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0,dei,it
+71,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Quattro,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Quattro,it
+72,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Venti,5,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0,Venti,it
+73,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,and,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,and,en
+74,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,continue,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,continue,en
+75,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,until,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,until,en
+76,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,you,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,you,en
+77,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,reach,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,reach,en
+78,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+79,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+80,en,Navigation,en_Navigation,4,Turn right onto Viale dei Quattro Venti and continue until you reach Via di Boccea.,Boccea,6,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0,Boccea,it
+81,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+82,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,left,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,left,en
+83,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+84,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+85,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,di,2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,di,it
+86,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,Boccea,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Boccea,it
+87,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,SS,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,SS,en
+88,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+89,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,continue,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,continue,en
+90,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+91,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,this,en
+92,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,road,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,road,en
+93,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+94,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,approximately,13,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,approximately,en
+95,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+96,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,until,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,until,en
+97,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,you,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,you,en
+98,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,reach,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,reach,en
+99,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+100,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,city,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,city,en
+101,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+102,en,Navigation,en_Navigation,5,Turn left onto Via di Boccea/SS1 and continue on this road for approximately 24 kilometers until you reach the city of Civitavecchia.,Civitavecchia,13,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Civitavecchia,it
+103,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,Arrive,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Arrive,en
+104,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+105,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,Civitavecchia,13,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Civitavecchia,it
+106,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+107,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,check,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,check,en
+108,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+109,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+110,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,your,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,your,en
+111,en,Navigation,en_Navigation,6,Arrive at Civitavecchia and check-in to your hotel.,hotel,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,hotel,en
+112,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Start,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Start,en
+113,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+114,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Civitavecchia,13,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Civitavecchia,it
+115,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+116,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,head,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,head,en
+117,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,towards,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,towards,en
+118,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Strada,6,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,Strada,it
+119,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Statale,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Statale,it
+120,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+121,en,Navigation,en_Navigation,7,Start at Civitavecchia and head towards Strada Statale 1 Via Aurelia.,Aurelia,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Aurelia,it
+122,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+123,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",left,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,left,en
+124,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+125,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Strada,6,0.96,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Strada,it
+126,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Statale,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Statale,it
+127,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+128,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Aurelia,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Aurelia,it
+129,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+130,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",continue,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,continue,en
+131,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+132,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,this,en
+133,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",road,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,road,en
+134,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+135,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",approximately,13,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,approximately,en
+136,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+137,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",passing,7,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,passing,en
+138,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",through,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,through,en
+139,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Grosseto,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Grosseto,it
+140,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+141,en,Navigation,en_Navigation,8,"Turn left onto Strada Statale 1 Via Aurelia and continue on this road for approximately 250 kilometers, passing through Grosseto and Livorno.",Livorno,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Livorno,it
+142,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",After,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,After,en
+143,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Livorno,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Livorno,it
+144,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",continue,8,0.0,0.0,0.0,0.0,0.29,0.0,0.71,1.0,continue,en
+145,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",on,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,on,en
+146,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Strada,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Strada,it
+147,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Statale,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Statale,it
+148,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Via,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Via,it
+149,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Aurelia,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Aurelia,it
+150,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",until,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,until,en
+151,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",you,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,you,en
+152,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",reach,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,reach,en
+153,en,Navigation,en_Navigation,9,"After Livorno, continue on Strada Statale 1 Via Aurelia until you reach Viareggio.",Viareggio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Viareggio,it
+154,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+155,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+156,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+157,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+158,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,Aurelia,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Aurelia,it
+159,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,Sud,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Sud,en
+160,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+161,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,continue,en
+162,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,until,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,until,en
+163,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,you,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,you,en
+164,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,reach,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,reach,en
+165,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+166,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,city,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,city,en
+167,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+168,en,Navigation,en_Navigation,10,Turn right onto Via Aurelia Sud and continue until you reach the city of Lucca.,Lucca,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lucca,it
+169,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,Arrive,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Arrive,en
+170,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+171,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,Lucca,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lucca,it
+172,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+173,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,check,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,check,en
+174,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+175,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+176,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,your,4,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,your,en
+177,en,Navigation,en_Navigation,11,Arrive at Lucca and check-in to your hotel.,hotel,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,hotel,en
+178,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,Start,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Start,en
+179,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+180,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,Lucca,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Lucca,it
+181,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+182,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,head,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,head,en
+183,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,towards,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,towards,en
+184,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,Autostrada,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Autostrada,it
+185,en,Navigation,en_Navigation,12,Start at Lucca and head towards Autostrada A11.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+186,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,Take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Take,en
+187,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,Autostrada,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Autostrada,it
+188,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+189,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,towards,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,towards,en
+190,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,Florence,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Florence,en
+191,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+192,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,continue,en
+193,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+194,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+195,en,Navigation,en_Navigation,13,Take Autostrada A11 towards Florence and continue for approximately 76 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+196,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,Take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Take,en
+197,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+198,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,exit,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,exit,en
+199,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+200,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,Firenze,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Firenze,it
+201,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,Sud,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Sud,it
+202,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+203,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,merge,en
+204,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+205,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+206,en,Navigation,en_Navigation,14,Take the exit toward Firenze Sud and merge onto A1/E35.,E,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,E,en
+207,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+208,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+209,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+210,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,E,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,E,en
+211,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+212,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+213,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+214,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,until,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,until,en
+215,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,you,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,you,en
+216,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,reach,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,reach,en
+217,en,Navigation,en_Navigation,15,Continue on A1/E35 for approximately 230 kilometers until you reach Rome.,Rome,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Rome,en
+218,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Take,en
+219,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+220,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,exit,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,exit,en
+221,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+222,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Roma,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Roma,it
+223,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Centro,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Centro,it
+224,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+225,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,merge,en
+226,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,onto,4,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,onto,en
+227,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Grande,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Grande,it
+228,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Raccordo,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Raccordo,it
+229,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,Anulare,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Anulare,it
+230,en,Navigation,en_Navigation,16,Take the exit toward Roma Centro and merge onto Grande Raccordo Anulare/A90.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+231,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+232,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+233,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Grande,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Grande,it
+234,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Raccordo,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Raccordo,it
+235,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Anulare,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Anulare,it
+236,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+237,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+238,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,take,en
+239,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+240,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,exit,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,exit,en
+241,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+242,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Via,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Via,it
+243,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,Salaria,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Salaria,it
+244,en,Navigation,en_Navigation,17,Continue on Grande Raccordo Anulare/A90 and take the exit toward Via Salaria/SS4.,SS,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,SS,en
+245,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,Head,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Head,en
+246,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,south,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,south,en
+247,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+248,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,Rue,3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Rue,fr
+249,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,de,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,de,fr
+250,en,Navigation,en_Navigation,18,Head south on Rue de Rivoli.,Rivoli,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Rivoli,fr
+251,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+252,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+253,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+254,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,Quai,4,0.0,1.0,0.0,0.0,0.86,0.0,0.14,0.0,Quai,fr
+255,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,des,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,des,fr
+256,en,Navigation,en_Navigation,19,Turn right onto Quai des Tuileries.,Tuileries,9,0.71,1.0,0.29,0.0,0.0,0.0,0.0,0.0,Tuileries,fr
+257,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,Continue,8,0.0,0.43,0.0,0.0,1.0,0.57,0.0,0.0,Continue,en
+258,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,onto,4,1.0,0.43,0.0,0.0,0.0,0.57,0.0,0.0,onto,en
+259,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,Quai,4,0.0,0.43,0.0,0.0,0.71,0.57,0.29,0.0,Quai,fr
+260,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,des,3,0.0,0.43,0.0,0.0,1.0,0.57,0.0,0.0,des,fr
+261,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,Grands,6,0.0,0.43,1.0,0.0,0.0,0.57,0.0,0.0,Grands,fr
+262,en,Navigation,en_Navigation,20,Continue onto Quai des Grands Augustins.,Augustins,9,0.23,0.43,0.77,0.0,0.0,0.57,0.0,0.0,Augustins,fr
+263,en,Navigation,en_Navigation,21,Turn left onto Pont Neuf.,Turn,4,1.0,0.86,0.0,0.14,0.0,0.0,0.0,0.0,Turn,en
+264,en,Navigation,en_Navigation,21,Turn left onto Pont Neuf.,left,4,0.0,0.86,0.0,0.14,1.0,0.0,0.0,0.0,left,en
+265,en,Navigation,en_Navigation,21,Turn left onto Pont Neuf.,onto,4,0.57,0.86,0.0,0.14,0.0,0.0,0.43,0.0,onto,en
+266,en,Navigation,en_Navigation,21,Turn left onto Pont Neuf.,Pont,4,0.0,0.86,0.0,0.14,1.0,0.0,0.0,0.0,Pont,fr
+267,en,Navigation,en_Navigation,21,Turn left onto Pont Neuf.,Neuf,4,0.0,0.86,1.0,0.14,0.0,0.0,0.0,0.0,Neuf,fr
+268,en,Navigation,en_Navigation,22,Continue on Quai des Célestins.,Continue,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Continue,en
+269,en,Navigation,en_Navigation,22,Continue on Quai des Célestins.,on,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,on,en
+270,en,Navigation,en_Navigation,22,Continue on Quai des Célestins.,Quai,4,0.0,0.0,0.0,0.0,0.71,1.0,0.29,0.0,Quai,fr
+271,en,Navigation,en_Navigation,22,Continue on Quai des Célestins.,des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,des,fr
+272,en,Navigation,en_Navigation,22,Continue on Quai des Célestins.,Célestins,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Célestins,fr
+273,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+274,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+275,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+276,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,Boulevard,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Boulevard,fr
+277,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,Henri,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Henri,fr
+278,en,Navigation,en_Navigation,23,Turn right onto Boulevard Henri IV.,IV,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,IV,fr
+279,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,Continue,8,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,Continue,en
+280,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,onto,4,0.86,0.0,0.0,0.0,0.0,0.71,0.14,0.29,onto,en
+281,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,Boulevard,9,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,Boulevard,fr
+282,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,de,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,de,fr
+283,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,l,1,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,l,fr
+284,en,Navigation,en_Navigation,24,Continue onto Boulevard de l'Hôpital.,Hôpital,7,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29,Hôpital,fr
+285,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Follow,6,1.0,0.71,0.0,0.0,0.0,0.29,0.0,0.0,Follow,en
+286,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,signs,5,0.0,0.71,0.0,0.0,1.0,0.29,0.0,0.0,signs,en
+287,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,for,3,1.0,0.71,0.0,0.0,0.0,0.29,0.0,0.0,for,en
+288,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,A,1,1.0,0.71,0.0,0.0,0.0,0.29,0.0,0.0,A,en
+289,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,B,1,0.0,0.71,1.0,0.0,0.0,0.29,0.0,0.0,B,en
+290,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,E,1,0.0,0.71,1.0,0.0,0.0,0.29,0.0,0.0,E,en
+291,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,E,1,0.0,0.71,1.0,0.0,0.0,0.29,0.0,0.0,E,en
+292,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Aéroport,8,0.0,0.71,0.0,0.0,1.0,0.29,0.0,0.0,Aéroport,fr
+293,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Orly,4,1.0,0.71,0.0,0.0,0.0,0.29,0.0,0.0,Orly,fr
+294,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Lyon,4,0.86,0.71,0.0,0.0,0.14,0.29,0.0,0.0,Lyon,fr
+295,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Bordeaux,8,0.0,0.71,0.0,0.0,1.0,0.29,0.0,0.0,Bordeaux,fr
+296,en,Navigation,en_Navigation,25,Follow signs for A6B/E15/E50/Aéroport Orly/Lyon/Bordeaux/Nantes.,Nantes,6,0.0,0.71,0.0,0.0,1.0,0.29,0.0,0.0,Nantes,fr
+297,en,Navigation,en_Navigation,26,Merge onto A6B.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+298,en,Navigation,en_Navigation,26,Merge onto A6B.,onto,4,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,onto,en
+299,en,Navigation,en_Navigation,26,Merge onto A6B.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+300,en,Navigation,en_Navigation,26,Merge onto A6B.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+301,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+302,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+303,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+304,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+305,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+306,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+307,en,Navigation,en_Navigation,27,Continue on A6B for about 11 km.,km,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,km,en
+308,en,Navigation,en_Navigation,28,Merge onto A6 toward Lyon.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+309,en,Navigation,en_Navigation,28,Merge onto A6 toward Lyon.,onto,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,onto,en
+310,en,Navigation,en_Navigation,28,Merge onto A6 toward Lyon.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+311,en,Navigation,en_Navigation,28,Merge onto A6 toward Lyon.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+312,en,Navigation,en_Navigation,28,Merge onto A6 toward Lyon.,Lyon,4,0.86,1.0,0.0,0.0,0.14,0.0,0.0,0.0,Lyon,en
+313,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+314,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+315,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+316,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+317,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+318,en,Navigation,en_Navigation,29,Continue on A6 for approximately 420 km.,km,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,km,en
+319,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,Take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Take,en
+320,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,exit,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,exit,en
+321,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+322,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,Chalon,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Chalon,fr
+323,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,sur,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,sur,fr
+324,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,Saône,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Saône,fr
+325,en,Navigation,en_Navigation,30,Take exit 24 toward Chalon-sur-Saône/Tournus.,Tournus,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Tournus,en
+326,en,Navigation,en_Navigation,31,Merge onto A31.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+327,en,Navigation,en_Navigation,31,Merge onto A31.,onto,4,0.57,1.0,0.0,0.0,0.0,0.0,0.43,0.0,onto,en
+328,en,Navigation,en_Navigation,31,Merge onto A31.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+329,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+330,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+331,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+332,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+333,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+334,en,Navigation,en_Navigation,32,Continue on A31 for approximately 230 km.,km,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,km,en
+335,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,Take,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Take,en
+336,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,exit,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,exit,en
+337,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+338,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,merge,en
+339,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,onto,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,onto,en
+340,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+341,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,toward,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,toward,en
+342,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,Besançon,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Besançon,fr
+343,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,Lons,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Lons,fr
+344,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,le,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,le,fr
+345,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,Saunier,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Saunier,fr
+346,en,Navigation,en_Navigation,33,Take exit 23 to merge onto A36 toward Besançon/Lons-le-Saunier/Dijon.,Dijon,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Dijon,fr
+347,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+348,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+349,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+350,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+351,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+352,en,Navigation,en_Navigation,34,Continue on A36 for about 110 km.,km,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,km,en
+353,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,Take,4,1.0,0.86,0.0,0.0,0.0,0.14,0.0,0.0,Take,en
+354,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,exit,4,0.0,0.86,0.0,0.0,1.0,0.14,0.0,0.0,exit,en
+355,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,A,1,1.0,0.86,0.0,0.0,0.0,0.14,0.0,0.0,A,en
+356,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,toward,6,1.0,0.86,0.0,0.0,0.0,0.14,0.0,0.0,toward,en
+357,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,Beaune,6,0.0,0.86,0.0,0.0,1.0,0.14,0.0,0.0,Beaune,fr
+358,en,Navigation,en_Navigation,35,Take exit 1A toward Beaune-Centre.,Centre,6,0.0,0.86,0.0,0.0,1.0,0.14,0.0,0.0,Centre,fr
+359,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,Depart,6,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,Depart,en
+360,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,from,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,from,en
+361,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,Frankfurt,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Frankfurt,de
+362,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,International,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,International,en
+363,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,Airport,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Airport,en
+364,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+365,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,head,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,head,en
+366,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,north,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,north,en
+367,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+368,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,Autobahn,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Autobahn,de
+369,en,Navigation,en_Navigation,36,Depart from Frankfurt International Airport and head north on Autobahn A5.,A,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,A,en
+370,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,Take,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Take,en
+371,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,exit,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,exit,en
+372,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,toward,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,toward,en
+373,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,Heidelberg,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Heidelberg,de
+374,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,B,1,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,B,en
+375,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,Neckargemünd,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Neckargemünd,de
+376,en,Navigation,en_Navigation,37,Take exit 1 toward Heidelberg/B37/Neckargemünd/Leimen.,Leimen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Leimen,en
+377,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+378,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,onto,4,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,onto,en
+379,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+380,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+381,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,continue,en
+382,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+383,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+384,en,Navigation,en_Navigation,38,Merge onto B37 and continue for about 13 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+385,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+386,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+387,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+388,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,L,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,L,en
+389,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,Hauptstraße,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Hauptstraße,de
+390,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+391,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,follow,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,follow,en
+392,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+393,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,road,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,road,en
+394,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+395,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,approximately,13,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,approximately,en
+396,en,Navigation,en_Navigation,39,Turn right onto L 600/Hauptstraße and follow the road for approximately 3 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+397,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+398,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,left,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,left,en
+399,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+400,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,Friedrich,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Friedrich,de
+401,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,Ebert,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Ebert,de
+402,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,Anlage,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Anlage,de
+403,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+404,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+405,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.43,0.0,0.57,0.0,continue,en
+406,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+407,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+408,en,Navigation,en_Navigation,40,Turn left onto Friedrich-Ebert-Anlage/B37 and continue for about 3 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+409,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+410,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+411,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+412,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,Adenauerplatz,13,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Adenauerplatz,de
+413,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+414,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+415,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+416,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.16,0.0,0.84,0.0,continue,en
+417,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+418,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,approximately,13,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,approximately,en
+419,en,Navigation,en_Navigation,41,Turn right onto Adenauerplatz/B37/B535 and continue for approximately 5 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+420,en,Navigation,en_Navigation,42,Merge onto A5 toward Darmstadt.,Merge,5,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,Merge,en
+421,en,Navigation,en_Navigation,42,Merge onto A5 toward Darmstadt.,onto,4,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,onto,en
+422,en,Navigation,en_Navigation,42,Merge onto A5 toward Darmstadt.,A,1,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,A,en
+423,en,Navigation,en_Navigation,42,Merge onto A5 toward Darmstadt.,toward,6,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,toward,en
+424,en,Navigation,en_Navigation,42,Merge onto A5 toward Darmstadt.,Darmstadt,9,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,Darmstadt,de
+425,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,Take,4,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0,Take,en
+426,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,exit,4,0.0,0.43,0.0,0.57,1.0,0.0,0.0,0.0,exit,en
+427,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,toward,6,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0,toward,en
+428,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,Heppenheim,10,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0,Heppenheim,de
+429,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,Lorsch,6,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0,Lorsch,de
+430,en,Navigation,en_Navigation,43,Take exit 25 toward Heppenheim/Lorsch/B460.,B,1,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0,B,en
+431,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+432,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,onto,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,onto,en
+433,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+434,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+435,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,0.99,0.0,continue,en
+436,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+437,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+438,en,Navigation,en_Navigation,44,Merge onto B460 and continue for about 18 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+439,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+440,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,right,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,right,en
+441,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+442,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,Wormser,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Wormser,de
+443,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,Straße,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Straße,de
+444,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,L,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,L,en
+445,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+446,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,continue,en
+447,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+448,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+449,en,Navigation,en_Navigation,45,Turn right onto Wormser Straße/L3112 and continue for approximately 5 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+450,en,Navigation,en_Navigation,46,Turn left onto Friedrichstraße/L3112.,Turn,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Turn,en
+451,en,Navigation,en_Navigation,46,Turn left onto Friedrichstraße/L3112.,left,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,left,en
+452,en,Navigation,en_Navigation,46,Turn left onto Friedrichstraße/L3112.,onto,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,onto,en
+453,en,Navigation,en_Navigation,46,Turn left onto Friedrichstraße/L3112.,Friedrichstraße,15,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Friedrichstraße,de
+454,en,Navigation,en_Navigation,46,Turn left onto Friedrichstraße/L3112.,L,1,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,L,en
+455,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,Continue,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Continue,en
+456,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+457,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,L,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,L,en
+458,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+459,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+460,en,Navigation,en_Navigation,47,Continue on L3112 for about 20 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+461,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,Turn,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Turn,en
+462,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,left,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,left,en
+463,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,onto,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,onto,en
+464,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+465,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,Kurfürstenstraße,16,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Kurfürstenstraße,de
+466,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+467,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,continue,en
+468,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+469,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,approximately,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,approximately,en
+470,en,Navigation,en_Navigation,48,Turn left onto B44/Kurfürstenstraße and continue for approximately 25 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+471,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,Merge,5,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0,Merge,en
+472,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,onto,4,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0,onto,en
+473,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,A,1,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0,A,en
+474,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,toward,6,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0,toward,en
+475,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,Kaiserslautern,14,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0,Kaiserslautern,de
+476,en,Navigation,en_Navigation,49,Merge onto A6 toward Kaiserslautern/Mannheim.,Mannheim,8,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0,Mannheim,dee
+477,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,Take,4,1.0,0.57,0.0,0.43,0.0,0.0,0.0,0.0,Take,en
+478,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,exit,4,0.0,0.57,0.0,0.43,1.0,0.0,0.0,0.0,exit,en
+479,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,toward,6,1.0,0.57,0.0,0.43,0.0,0.0,0.0,0.0,toward,en
+480,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,Stuttgart,9,0.0,0.57,0.86,0.43,0.0,0.0,0.14,0.0,Stuttgart,de
+481,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,Ludwigshafen,12,0.0,0.57,1.0,0.43,0.0,0.0,0.0,0.0,Ludwigshafen,de
+482,en,Navigation,en_Navigation,50,Take exit 30 toward Stuttgart/Ludwigshafen/B9.,B,1,0.0,0.57,1.0,0.43,0.0,0.0,0.0,0.0,B,en
+483,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,Merge,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Merge,en
+484,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,onto,4,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,onto,en
+485,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,B,1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,B,en
+486,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+487,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,continue,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,continue,en
+488,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+489,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,about,en
+490,en,Navigation,en_Navigation,51,Merge onto B9 and continue for about 45 kilometers.,kilometers,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,kilometers,en
+491,en,Navigation,en_Navigation,52,Turn right onto Hauptstraße/L542.,Turn,4,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0,Turn,en
+492,en,Navigation,en_Navigation,52,Turn right onto Hauptstraße/L542.,right,5,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0,right,en
+493,en,Navigation,en_Navigation,52,Turn right onto Hauptstraße/L542.,onto,4,0.86,0.29,0.0,0.71,0.0,0.0,0.14,0.0,onto,en
+494,en,Navigation,en_Navigation,52,Turn right onto Hauptstraße/L542.,Hauptstraße,11,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0,Hauptstraße,de
+495,en,Navigation,en_Navigation,52,Turn right onto Hauptstraße/L542.,L,1,0.0,0.29,0.0,0.71,1.0,0.0,0.0,0.0,L,en

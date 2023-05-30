@@ -1,0 +1,1048 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",Sto,3,0.14,0.0,0.86,0.0,0.0,0.0,0.0,1.0
+1,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",avendo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+2,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+3,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",esperienza,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+4,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",incredibile,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+5,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+6,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+7,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",Workshop,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+8,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+9,it,PopCulture,it_PopCulture,0,"""Sto avendo un'esperienza incredibile al mio #Workshop di fotografia!",fotografia,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10,it,PopCulture,it_PopCulture,1,📸 Loving this!,Loving,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,it,PopCulture,it_PopCulture,1,📸 Loving this!,this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",Fotografia,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+13,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",Passione,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+14,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+15,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",riesco,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+16,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+17,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",smettere,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+18,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+19,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",ascoltare,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+21,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",ultimo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",Album,5,0.99,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+23,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+24,it,PopCulture,it_PopCulture,2,"❤️ #Fotografia #Passione""
+
+""Non riesco a smettere di ascoltare l'ultimo #Album di Adele!",Adele,5,0.0,0.0,0.57,0.0,0.0,0.0,0.43,1.0
+25,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+26,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",sua,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+27,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",voce,4,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+28,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+29,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",semplicemente,13,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+30,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",MindBlowing,11,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+31,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",MusicLover,10,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+32,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+33,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",appena,6,0.0,0.0,0.0,0.0,0.65,0.0,0.35,1.0
+34,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",iniziato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+35,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+36,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",nuova,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+37,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",Startup,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+38,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+39,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",i,1,0.99,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+40,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",miei,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+41,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",amici,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+42,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",non,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+43,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",vedo,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+44,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+45,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",ora,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+46,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+47,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",vedere,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+48,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",dove,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+49,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",ci,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50,it,PopCulture,it_PopCulture,3,"🎶 La sua voce è semplicemente #MindBlowing 🤯 #MusicLover""
+
+""Ho appena iniziato una nuova #Startup con i miei amici, non vedo l'ora di vedere dove ci porterà!",porterà,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+51,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",Innovazione,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+52,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",Business,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+53,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+54,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",posso,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+55,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",credere,7,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+56,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",che,3,0.43,0.0,0.29,0.0,0.0,0.0,0.29,1.0
+57,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",sia,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+58,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",già,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+59,it,PopCulture,it_PopCulture,4,"💼🚀 #Innovazione #Business""
+
+""Non posso credere che sia già #Friday!",Friday,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+60,it,PopCulture,it_PopCulture,5,🥳 Pronti per il #Weekend?,Pronti,6,0.0,0.29,0.0,0.43,0.0,0.0,1.0,0.29
+61,it,PopCulture,it_PopCulture,5,🥳 Pronti per il #Weekend?,per,3,0.0,0.29,0.0,0.43,0.0,0.0,1.0,0.29
+62,it,PopCulture,it_PopCulture,5,🥳 Pronti per il #Weekend?,il,2,0.0,0.29,0.0,0.43,0.0,0.0,1.0,0.29
+63,it,PopCulture,it_PopCulture,5,🥳 Pronti per il #Weekend?,Weekend,7,0.0,0.29,1.0,0.43,0.0,0.0,0.0,0.29
+64,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+65,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+66,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,programma,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+67,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+68,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,MovieNight,10,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+69,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,gli,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71,it,PopCulture,it_PopCulture,6,Ho in programma un #MovieNight con gli amici!,amici,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+72,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",L,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+73,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",altro,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+74,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",giorno,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+75,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+76,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",provato,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+77,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+78,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+79,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",Burger,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+80,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+81,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",ristorante,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+82,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",vicino,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+83,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",casa,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+84,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",era,3,0.0,0.0,0.71,0.0,0.0,0.0,0.29,1.0
+85,it,PopCulture,it_PopCulture,7,"🍿📽️""
+
+""L'altro giorno ho provato il nuovo #Burger del ristorante vicino casa, era #OutOfThisWorld!",OutOfThisWorld,14,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+86,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",Foodie,6,0.14,0.0,0.86,0.0,0.0,0.0,0.0,1.0
+87,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",Delizioso,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+88,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",Mi,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+89,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",mancano,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+90,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",tantissimo,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+91,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",i,1,0.94,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+92,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",miei,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+93,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",RoadTrips,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+94,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+95,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",gli,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+96,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",amici,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+97,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",spero,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+98,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+99,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",poterne,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+100,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",organizzare,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+101,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+102,it,PopCulture,it_PopCulture,8,"😋🍔 #Foodie #Delizioso""
+
+""Mi mancano tantissimo i miei #RoadTrips con gli amici, spero di poterne organizzare uno presto!",presto,6,0.0,0.0,0.0,0.0,0.57,0.0,0.43,1.0
+103,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",Travel,6,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+104,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",Memories,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+105,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+106,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+107,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",Workout,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+108,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+109,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",oggi,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+110,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+111,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",stato,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+112,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",davvero,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+113,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",intenso,7,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0
+114,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",ma,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+115,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",mi,2,0.0,0.0,0.36,0.0,0.0,0.0,0.64,1.0
+116,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",sento,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+117,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",così,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+118,it,PopCulture,it_PopCulture,9,"🚗🗺️ #Travel #Memories""
+
+""Il mio #Workout di oggi è stato davvero intenso, ma mi sento così #Energized!",Energized,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+119,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",Fitness,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+120,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",Motivazione,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+121,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+122,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",appena,6,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+123,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",visto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+124,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+125,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",trailer,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+126,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+127,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+128,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",Marvel,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+129,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",movie,5,0.0,0.0,0.0,0.0,0.0,0.0,0.94,1.0
+130,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",non,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+131,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",vedo,4,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+132,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+133,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",ora,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+134,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",che,3,0.43,0.0,0.14,0.0,0.0,0.0,0.43,1.0
+135,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",esca,4,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0
+136,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+137,it,PopCulture,it_PopCulture,10,"💪🔥 #Fitness #Motivazione""
+
+""Ho appena visto il trailer del nuovo #Marvel movie, non vedo l'ora che esca al cinema!",cinema,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+138,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",Superheroes,11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+139,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",Excited,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+140,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",Mi,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+141,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",sto,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+142,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",allenando,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+143,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+144,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+145,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",mia,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+146,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",prossima,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+147,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",Maratona,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+148,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+149,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",adrenalina,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+150,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",mi,2,0.0,0.0,0.22,0.0,0.0,0.0,0.78,1.0
+151,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",fa,2,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+152,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",sentire,7,0.0,0.0,0.0,0.0,0.57,0.0,0.43,1.0
+153,it,PopCulture,it_PopCulture,11,"🎞️💥 #Superheroes #Excited""
+
+""Mi sto allenando per la mia prossima #Maratona, l'adrenalina mi fa sentire #Alive!",Alive,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+154,it,PopCulture,it_PopCulture,12,"🏃‍♂️🏅 #Running #Sport""
+
+Buongiorno a tutti!",Running,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+155,it,PopCulture,it_PopCulture,12,"🏃‍♂️🏅 #Running #Sport""
+
+Buongiorno a tutti!",Sport,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+156,it,PopCulture,it_PopCulture,12,"🏃‍♂️🏅 #Running #Sport""
+
+Buongiorno a tutti!",Buongiorno,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+157,it,PopCulture,it_PopCulture,12,"🏃‍♂️🏅 #Running #Sport""
+
+Buongiorno a tutti!",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+158,it,PopCulture,it_PopCulture,12,"🏃‍♂️🏅 #Running #Sport""
+
+Buongiorno a tutti!",tutti,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+159,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",Oggi,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+160,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",mi,2,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+161,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",sento,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+162,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+163,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",po,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+164,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",flâneur,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+165,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",mi,2,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+166,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",perderò,7,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0
+167,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",tra,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+168,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+169,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",vie,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+170,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+171,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",città,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+172,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",senza,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+173,it,PopCulture,it_PopCulture,13,"Oggi mi sento un po' #flâneur, mi perderò tra le vie della città senza meta.",meta,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+174,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",vagabondando,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+175,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",Sono,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+176,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",andato,6,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+177,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+178,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+179,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",ristorante,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+180,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+181,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+182,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+183,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",ordinato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+184,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+185,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",delizioso,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+186,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",croissant,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+187,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+188,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+189,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",café,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+190,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",au,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+191,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",lait,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+192,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+193,it,PopCulture,it_PopCulture,14,"🚶‍♂️🏙️ #vagabondando
+
+Sono andato al nuovo ristorante francese e ho ordinato un delizioso #croissant 🥐 e un #café au lait ☕ per colazione.",colazione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+194,it,PopCulture,it_PopCulture,15,Bon appétit!,Bon,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+195,it,PopCulture,it_PopCulture,15,Bon appétit!,appétit,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+196,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+197,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+198,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+199,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",obiettivo,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+200,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+201,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",vivere,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+202,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+203,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",vita,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+204,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+205,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+206,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",po,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+207,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+208,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",joiedevivre,11,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+209,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+210,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",laissezfaire,12,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+211,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",senza,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+212,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",stressarmi,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+213,it,PopCulture,it_PopCulture,16,"😋
+
+Il mio nuovo obiettivo è vivere la vita con un po' di #joiedevivre e #laissezfaire, senza stressarmi troppo.",troppo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+214,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",Stamattina,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+215,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",mentre,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+216,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",facevo,6,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+217,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",jogging,7,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0
+218,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+219,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",parco,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+220,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+221,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",incontrato,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+222,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+223,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",adorabile,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+224,it,PopCulture,it_PopCulture,17,"😌🍃
+
+Stamattina, mentre facevo jogging nel parco, ho incontrato un adorabile #bichonfrisé!",bichonfrisé,11,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+225,it,PopCulture,it_PopCulture,18,🐩 Che tenero!,Che,3,1.0,0.43,0.0,0.0,0.0,0.0,0.0,0.57
+226,it,PopCulture,it_PopCulture,18,🐩 Che tenero!,tenero,6,0.0,0.43,0.0,0.0,0.0,0.0,1.0,0.57
+227,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+228,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",vedo,4,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+229,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+230,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",ora,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+231,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+232,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",leggere,7,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+233,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+234,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+235,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",libro,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+236,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",preferito,9,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+237,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+238,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",Piccolo,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+239,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",Principe,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+240,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",nella,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+241,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",lingua,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+242,it,PopCulture,it_PopCulture,19,"😍
+
+Non vedo l'ora di leggere il mio libro preferito ""Il Piccolo Principe"" nella lingua originale.",originale,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+243,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",LePetitPrince,13,0.28,0.0,0.0,0.0,0.72,0.0,0.0,1.0
+244,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",amoreperlalingua,16,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+245,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+246,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",appena,6,0.0,0.0,0.0,0.0,0.29,0.0,0.71,1.0
+247,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",finito,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+248,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+249,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",guardare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+250,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+251,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",film,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+252,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+253,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+254,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",Land,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+255,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+256,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",sono,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+257,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",rimasto,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+258,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",affascinato,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+259,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",dalla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+260,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",magia,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+261,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+262,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",cinéma,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+263,it,PopCulture,it_PopCulture,20,"#LePetitPrince #amoreperlalingua 📚🇫🇷
+
+Ho appena finito di guardare il film ""La La Land"" e sono rimasto affascinato dalla magia del #cinéma francese!",francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+264,it,PopCulture,it_PopCulture,21,"📽️🇫🇷
+
+Domani partirò per Parigi!",Domani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+265,it,PopCulture,it_PopCulture,21,"📽️🇫🇷
+
+Domani partirò per Parigi!",partirò,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+266,it,PopCulture,it_PopCulture,21,"📽️🇫🇷
+
+Domani partirò per Parigi!",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+267,it,PopCulture,it_PopCulture,21,"📽️🇫🇷
+
+Domani partirò per Parigi!",Parigi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+268,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+269,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,vedo,4,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+270,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+271,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,ora,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+272,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+273,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,passeggiare,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+274,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,lungo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+275,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+276,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,Seine,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+277,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+278,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,visitare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+279,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+280,it,PopCulture,it_PopCulture,22,Non vedo l'ora di passeggiare lungo la #Seine e visitare il #Louvre!,Louvre,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+281,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",Pronti,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+282,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+283,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+284,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",serata,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+285,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",tra,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+286,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",amici,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+287,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+288,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+289,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",buon,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+290,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",bicchiere,9,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+291,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+292,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",vinrouge,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+293,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+294,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+295,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",formaggio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+296,it,PopCulture,it_PopCulture,23,"🇫🇷🗼
+
+Pronti per una serata tra amici con un buon bicchiere di #vinrouge 🍷 e del formaggio francese?",francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+297,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",apéro,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+298,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",amicizia,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+299,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",Oggi,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+300,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",mi,2,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+301,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",sento,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+302,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",così,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+303,it,PopCulture,it_PopCulture,24,"#apéro #amicizia 🧀🇫🇷
+
+Oggi mi sento così #glücklich!",glücklich,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+304,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,Grazie,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+305,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+306,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,tutti,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+307,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+308,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,gli,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+309,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,auguri,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+310,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+311,it,PopCulture,it_PopCulture,25,Grazie a tutti per gli auguri di compleanno!,compleanno,10,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+312,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",Sono,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+313,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",stato,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+314,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",in,2,0.86,0.0,0.14,0.0,0.0,0.0,0.0,1.0
+315,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",Germania,8,0.86,0.0,0.14,0.0,0.0,0.0,0.0,1.0
+316,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+317,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+318,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",settimana,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+319,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+320,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",adesso,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+321,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",posso,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+322,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",dire,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+323,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",solo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+324,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",eins,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+325,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",zwei,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+326,it,PopCulture,it_PopCulture,26,"🎉🎂
+
+Sono stato in Germania per una settimana e adesso posso dire solo eins, zwei, drei!",drei,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+327,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",viaggio,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+328,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",tedesco,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+329,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+330,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",provato,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+331,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+332,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",famoso,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+333,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",schnitzel,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+334,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+335,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",cena,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+336,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+337,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",posso,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+338,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",dire,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+339,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",che,3,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+340,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+341,it,PopCulture,it_PopCulture,27,"😂😅 #viaggio #tedesco
+
+Ho provato il famoso #schnitzel a cena e posso dire che è delizioso!",delizioso,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+342,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",Quella,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+343,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",festa,5,0.57,0.0,0.0,0.0,0.43,0.0,0.0,1.0
+344,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",ieri,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+345,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",sera,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+346,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+347,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",proprio,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+348,it,PopCulture,it_PopCulture,28,"🍽️🇩🇪
+
+Quella festa ieri sera era proprio #wunderbar!",wunderbar,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+349,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+350,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,vedo,4,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+351,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+352,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,ora,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+353,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+354,it,PopCulture,it_PopCulture,29,Non vedo l'ora di ripeterla!,ripeterla,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+355,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",Tra,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+356,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",poco,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+357,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",inizia,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+358,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+359,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+360,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",corso,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+361,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+362,it,PopCulture,it_PopCulture,30,"🥳🎶
+
+Tra poco inizia il mio corso di tedesco!",tedesco,7,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+363,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,Spero,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+364,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+365,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,non,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+366,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,fare,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+367,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+368,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,figura,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+369,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,dello,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+370,it,PopCulture,it_PopCulture,31,Spero di non fare la figura dello #dummkopf!,dummkopf,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+371,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",Amo,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+372,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+373,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",sensazione,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+374,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+375,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",gemütlichkeit,13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+376,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",che,3,0.14,0.0,0.14,0.0,0.0,0.0,0.71,1.0
+377,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",si,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+378,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",prova,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+379,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",nelle,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+380,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",case,4,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0
+381,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",tedesche,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+382,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",durante,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+383,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+384,it,PopCulture,it_PopCulture,32,"🤓🇩🇪
+
+Amo la sensazione di #gemütlichkeit che si prova nelle case tedesche durante l'inverno.",inverno,7,0.44,0.0,0.0,0.0,0.0,0.0,0.56,1.0
+385,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",Avere,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+386,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+387,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",amica,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+388,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",madrelingua,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+389,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",tedesca,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+390,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+391,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+392,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",vero,4,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+393,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",tesoro,6,0.0,0.0,0.0,0.0,0.0,0.0,0.99,1.0
+394,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",grazie,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+395,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+396,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+397,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",supporto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+398,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+399,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+400,it,PopCulture,it_PopCulture,33,"❄️🕯️
+
+Avere un'amica madrelingua tedesca è un vero tesoro, grazie per il supporto nel mio #Sprachkurs!",Sprachkurs,10,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0

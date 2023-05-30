@@ -1,0 +1,438 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",Edmund,6,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0
+1,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",Burke,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+2,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",sagte,5,0.0,1.0,0.71,0.0,0.14,0.0,0.14,0.0
+3,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",einmal,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+4,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",only,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",thing,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",necessary,9,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0
+8,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",triumph,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+11,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",evil,4,0.35,1.0,0.0,0.0,0.0,0.0,0.63,0.0
+13,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",is,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+14,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",good,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+16,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",men,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+17,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",do,2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+19,de,Quotations,de_Quotations,0,"Edmund Burke sagte einmal: ""The only thing necessary for the triumph of evil is for good men to do nothing.""",nothing,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+20,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+21,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",Einzige,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+22,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",was,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+23,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",nötig,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+24,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+25,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",damit,5,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+26,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+27,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",Böse,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+28,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",triumphiert,11,0.57,0.0,0.43,1.0,0.0,0.0,0.0,0.0
+29,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+30,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",dass,4,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+31,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",gute,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+32,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",Menschen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+33,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",nichts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+34,de,Quotations,de_Quotations,1,"(Das Einzige, was nötig ist, damit das Böse triumphiert, ist, dass gute Menschen nichts tun.)",tun,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+35,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+36,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",Zitat,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+37,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+38,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+39,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+40,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",dass,4,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+41,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+42,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",wichtig,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+43,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+44,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",gegen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+45,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",das,3,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+46,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",Unrecht,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+47,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",einzustehen,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+48,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+49,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",aktiv,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+50,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+51,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",das,3,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+52,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",Gute,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+53,de,Quotations,de_Quotations,2,"Dieses Zitat erinnert uns daran, dass es wichtig ist, gegen das Unrecht einzustehen und aktiv für das Gute einzutreten.",einzutreten,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+54,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Karen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+55,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Kaiser,6,0.0,0.0,0.86,1.0,0.14,0.0,0.0,0.0
+56,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Clark,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+57,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",betonte,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+58,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+59,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Bedeutung,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+60,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+61,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Veränderung,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+62,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+63,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Wachstum,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+64,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+65,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+66,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Worten,6,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+67,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",Life,4,0.4,0.0,0.14,1.0,0.0,0.0,0.46,0.0
+68,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",is,2,0.0,0.0,0.91,1.0,0.0,0.0,0.0,0.0
+69,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",change,6,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+70,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",growth,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+71,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",is,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+72,de,Quotations,de_Quotations,3,"Karen Kaiser Clark betonte die Bedeutung von Veränderung und Wachstum mit den Worten: ""Life is change, growth is optional.",optional,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+73,de,Quotations,de_Quotations,4,"Choose wisely.""",Choose,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+74,de,Quotations,de_Quotations,4,"Choose wisely.""",wisely,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+76,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+77,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+78,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",Veränderung,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+79,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",Wachstum,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+80,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+81,de,Quotations,de_Quotations,5,"(Das Leben ist Veränderung, Wachstum ist optional.",optional,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+82,de,Quotations,de_Quotations,6,Wähle weise.),Wähle,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+83,de,Quotations,de_Quotations,6,Wähle weise.),weise,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+84,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+85,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Zitat,5,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+86,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",ermutigt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+87,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+88,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Veränderungen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+89,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",als,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+90,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Chance,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+91,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+92,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",sehen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+93,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+94,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",kluge,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+95,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Entscheidungen,14,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+96,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+97,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",unser,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+98,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",persönliches,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+99,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",Wachstum,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+100,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+101,de,Quotations,de_Quotations,7,"Dieses Zitat ermutigt uns, Veränderungen als Chance zu sehen und kluge Entscheidungen für unser persönliches Wachstum zu treffen.",treffen,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+102,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Steve,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+103,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Jobs,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+104,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Mitbegründer,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+105,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+106,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Apple,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+107,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",betonte,7,0.86,0.0,0.0,1.0,0.0,0.0,0.14,0.0
+108,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+109,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Bedeutung,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+110,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+111,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Leidenschaft,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+112,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+113,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",unserer,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+114,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Arbeit,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+115,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+116,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+117,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",Worten,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+118,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",The,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+119,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",only,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+120,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",way,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+121,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",to,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+122,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",do,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+123,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",great,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+124,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",work,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+125,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",is,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+126,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",to,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+127,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",love,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+128,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",what,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+129,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",you,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+130,de,Quotations,de_Quotations,8,"Steve Jobs, Mitbegründer von Apple, betonte die Bedeutung von Leidenschaft in unserer Arbeit mit den Worten: ""The only way to do great work is to love what you do.""",do,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+131,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+132,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",einzige,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+133,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",Weg,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+134,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+135,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",großartige,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+136,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",Arbeit,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+137,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+138,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",leisten,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+139,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+140,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+141,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+142,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",lieben,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+143,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",was,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+144,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",du,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+145,de,Quotations,de_Quotations,9,"(Der einzige Weg, um großartige Arbeit zu leisten, ist, das zu lieben, was du tust.)",tust,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+146,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+147,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",Zitat,5,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+148,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+149,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",uns,3,0.0,0.0,0.14,1.0,0.86,0.0,0.0,0.0
+150,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+151,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",dass,4,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+152,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",Leidenschaft,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+153,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+154,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",Begeisterung,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+155,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+156,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",helfen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+157,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",können,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+158,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",außergewöhnliche,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+159,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",Ergebnisse,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+160,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+161,de,Quotations,de_Quotations,10,"Dieses Zitat erinnert uns daran, dass Leidenschaft und Begeisterung uns helfen können, außergewöhnliche Ergebnisse zu erzielen.",erzielen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+162,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,Auch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+163,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+164,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,französische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+165,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,Sprache,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+166,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,bietet,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+167,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,inspirierende,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+168,de,Quotations,de_Quotations,11,Auch die französische Sprache bietet inspirierende Zitate.,Zitate,6,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+169,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",Émile,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+170,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",Zola,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+171,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",sagte,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+172,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",einmal,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+173,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+174,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",vie,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+175,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+176,de,Quotations,de_Quotations,12,"Émile Zola sagte einmal: ""La vie est belle.""",belle,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+177,de,Quotations,de_Quotations,13,(Das Leben ist schön.),Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+178,de,Quotations,de_Quotations,13,(Das Leben ist schön.),Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+179,de,Quotations,de_Quotations,13,(Das Leben ist schön.),ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+180,de,Quotations,de_Quotations,13,(Das Leben ist schön.),schön,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+181,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+182,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Zitat,5,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+183,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+184,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",uns,3,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+185,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+186,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+187,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+188,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+189,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",schätzen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+190,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+191,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+192,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Schönheit,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+193,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+194,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+195,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",kleinen,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+196,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Dingen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+197,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",des,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+198,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",Lebens,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+199,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+200,de,Quotations,de_Quotations,14,"Dieses Zitat erinnert uns daran, das Leben zu schätzen und die Schönheit in den kleinen Dingen des Lebens zu erkennen.",erkennen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+201,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Honoré,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+202,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",de,2,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+203,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Balzac,6,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+204,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",betonte,7,1.0,0.0,0.0,0.71,0.0,0.29,0.0,0.0
+205,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",die,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+206,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Bedeutung,9,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+207,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",von,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+208,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Liebe,5,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+209,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",und,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+210,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Poesie,6,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+211,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",mit,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+212,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",den,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+213,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",Worten,6,0.14,0.0,0.86,0.71,0.0,0.29,0.0,0.0
+214,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",L,1,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+215,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",amour,5,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+216,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",est,3,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+217,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",la,2,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+218,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",poésie,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+219,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",des,3,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+220,de,Quotations,de_Quotations,15,"Honoré de Balzac betonte die Bedeutung von Liebe und Poesie mit den Worten: ""L'amour est la poésie des sens.""",sens,4,0.0,0.0,0.43,0.71,0.57,0.29,0.0,0.0
+221,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+222,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),Liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+223,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+224,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+225,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),Poesie,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+226,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+227,de,Quotations,de_Quotations,16,(Die Liebe ist die Poesie der Sinne.),Sinne,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+228,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+229,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Zitat,5,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+230,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+231,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+232,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+233,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",dass,4,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+234,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+235,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+236,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Emotionen,9,0.86,0.0,0.0,1.0,0.0,0.0,0.14,0.0
+237,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",uns,3,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+238,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+239,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+240,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Welt,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+241,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+242,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",tiefere,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+243,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",Bedeutung,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+244,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",geben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+245,de,Quotations,de_Quotations,17,"Dieses Zitat erinnert uns daran, dass Liebe und Emotionen uns in der Welt eine tiefere Bedeutung geben können.",können,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+246,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+247,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",französische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+248,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Schriftsteller,14,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+249,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Victor,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+250,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Hugo,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+251,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",betonte,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+252,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+253,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Kraft,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+254,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+255,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Träume,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+256,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+257,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+258,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",Worten,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+259,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",On,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+260,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",n,1,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+261,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",est,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+262,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",jamais,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+263,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",si,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+264,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",bien,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+265,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",ailleurs,8,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+266,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",que,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+267,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",chez,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+268,de,Quotations,de_Quotations,18,"Der französische Schriftsteller Victor Hugo betonte die Kraft der Träume mit den Worten: ""On n'est jamais si bien ailleurs que chez soi.""",soi,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+269,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),Man,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+270,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+271,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),nie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+272,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),so,2,0.0,0.0,0.0,1.0,0.0,0.0,0.98,0.0
+273,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),gut,3,0.0,0.0,0.0,1.0,0.99,0.0,0.0,0.0
+274,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),aufgehoben,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+275,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),wie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+276,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+277,de,Quotations,de_Quotations,19,(Man ist nie so gut aufgehoben wie zu Hause.),Hause,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+278,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+279,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",Zitat,5,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+280,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",ermutigt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+281,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",uns,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+282,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",unseren,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+283,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",Träumen,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+284,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+285,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",folgen,6,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+286,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",während,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+287,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",wir,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+288,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",uns,3,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+289,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",auch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+290,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",an,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+291,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",unserem,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+292,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",Zuhause,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+293,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+294,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+295,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",Wurzeln,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+296,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+297,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",wir,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+298,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",dort,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+299,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",haben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+300,de,Quotations,de_Quotations,20,"Dieses Zitat ermutigt uns, unseren Träumen zu folgen, während wir uns auch an unserem Zuhause und den Wurzeln, die wir dort haben, erfreuen.",erfreuen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+301,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",Der,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+302,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",italienische,12,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+303,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",Dichter,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+304,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",Francesco,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+305,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",Petrarca,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+306,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",sagte,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+307,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",einmal,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+308,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",La,2,0.0,0.0,0.0,0.0,0.99,0.0,0.0,1.0
+309,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",pazienza,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+310,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",vince,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+311,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",ogni,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+312,de,Quotations,de_Quotations,21,"Der italienische Dichter Francesco Petrarca sagte einmal: ""La pazienza vince ogni cosa.""",cosa,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+313,de,Quotations,de_Quotations,22,(Geduld überwindet alles.),Geduld,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+314,de,Quotations,de_Quotations,22,(Geduld überwindet alles.),überwindet,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+315,de,Quotations,de_Quotations,22,(Geduld überwindet alles.),alles,5,0.0,0.0,0.0,1.0,0.14,0.0,0.86,0.0
+316,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+317,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Zitat,5,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+318,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+319,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",uns,3,0.0,0.0,0.14,1.0,0.86,0.0,0.0,0.0
+320,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+321,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",dass,4,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+322,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Geduld,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+323,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+324,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",wichtige,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+325,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Tugend,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+326,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+327,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+328,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+329,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",helfen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+330,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",kann,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+331,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Herausforderungen,17,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+332,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+333,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",bewältigen,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+334,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+335,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",Schwierigkeiten,15,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+336,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+337,de,Quotations,de_Quotations,23,"Dieses Zitat erinnert uns daran, dass Geduld eine wichtige Tugend ist, die uns helfen kann, Herausforderungen zu bewältigen und Schwierigkeiten zu überwinden.",überwinden,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+338,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+339,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",italienische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+340,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Schriftstellerin,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+341,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+342,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Journalistin,12,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+343,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Oriana,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+344,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Fallaci,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+345,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",betonte,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+346,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+347,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Bedeutung,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+348,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+349,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Mut,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+350,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+351,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Standhaftigkeit,15,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+352,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+353,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+354,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Worten,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+355,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",Chi,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+356,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",si,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+357,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",arrende,7,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+358,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",è,1,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+359,de,Quotations,de_Quotations,24,"Die italienische Schriftstellerin und Journalistin Oriana Fallaci betonte die Bedeutung von Mut und Standhaftigkeit mit den Worten: ""Chi si arrende è vinto.""",vinto,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+360,de,Quotations,de_Quotations,25,"(Wer sich ergibt, ist besiegt.)",Wer,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+361,de,Quotations,de_Quotations,25,"(Wer sich ergibt, ist besiegt.)",sich,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+362,de,Quotations,de_Quotations,25,"(Wer sich ergibt, ist besiegt.)",ergibt,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+363,de,Quotations,de_Quotations,25,"(Wer sich ergibt, ist besiegt.)",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+364,de,Quotations,de_Quotations,25,"(Wer sich ergibt, ist besiegt.)",besiegt,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+365,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+366,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Zitat,5,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+367,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",erinnert,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+368,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+369,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",daran,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+370,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",dass,4,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+371,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Durchhaltevermögen,18,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+372,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+373,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Mut,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+374,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",uns,3,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+375,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",helfen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+376,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",können,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+377,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",auch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+378,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+379,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",schwierigen,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+380,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Zeiten,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+381,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",stark,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+382,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+383,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",bleiben,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+384,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+385,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",Hindernisse,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+386,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+387,de,Quotations,de_Quotations,26,"Dieses Zitat erinnert uns daran, dass Durchhaltevermögen und Mut uns helfen können, auch in schwierigen Zeiten stark zu bleiben und Hindernisse zu überwinden.",überwinden,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+388,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Der,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+389,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",italienische,12,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+390,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Künstler,8,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+391,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Leonardo,8,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+392,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",da,2,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+393,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Vinci,5,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+394,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",betonte,7,1.0,0.0,0.0,0.57,0.0,0.0,0.0,0.43
+395,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",die,3,0.0,0.0,0.86,0.57,0.0,0.0,0.14,0.43
+396,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Bedeutung,9,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+397,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",von,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+398,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Einfachheit,11,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+399,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",und,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+400,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Klarheit,8,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+401,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",mit,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+402,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",den,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+403,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",Worten,6,0.14,0.0,0.86,0.57,0.0,0.0,0.0,0.43
+404,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",La,2,0.0,0.0,0.0,0.57,1.0,0.0,0.0,0.43
+405,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",semplicità,10,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+406,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",è,1,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+407,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",la,2,0.0,0.0,0.0,0.57,1.0,0.0,0.0,0.43
+408,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",sofisticazione,14,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+409,de,Quotations,de_Quotations,27,"Der italienische Künstler Leonardo da Vinci betonte die Bedeutung von Einfachheit und Klarheit mit den Worten: ""La semplicità è la sofisticazione finale.""",finale,6,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+410,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),Einfachheit,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+411,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+412,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+413,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),höchste,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+414,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),Form,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+415,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+416,de,Quotations,de_Quotations,28,(Einfachheit ist die höchste Form der Raffinesse.),Raffinesse,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+417,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Dieses,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+418,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Zitat,5,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+419,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",ermutigt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+420,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",uns,3,0.0,0.0,0.71,1.0,0.29,0.0,0.0,0.0
+421,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",inmitten,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+422,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+423,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Komplexität,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+424,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",des,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+425,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Lebens,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+426,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",nach,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+427,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Einfachheit,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+428,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+429,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Klarheit,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+430,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+431,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",suchen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+432,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+433,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+434,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",Wesentliche,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+435,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+436,de,Quotations,de_Quotations,29,"Dieses Zitat ermutigt uns, inmitten der Komplexität des Lebens nach Einfachheit und Klarheit zu suchen, um das Wesentliche zu erkennen.",erkennen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0

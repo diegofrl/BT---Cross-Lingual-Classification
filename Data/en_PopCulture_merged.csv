@@ -1,0 +1,756 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word_x,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT,Word_y,Language
+0,en,PopCulture,en_PopCulture,0,Escargot for dinner?,Escargot,8,0.0,0.86,0.0,0.0,0.0,0.0,1.0,0.14,Escargot,fr
+1,en,PopCulture,en_PopCulture,0,Escargot for dinner?,for,3,1.0,0.86,0.0,0.0,0.0,0.0,0.0,0.14,for,en
+2,en,PopCulture,en_PopCulture,0,Escargot for dinner?,dinner,6,0.0,0.86,1.0,0.0,0.0,0.0,0.0,0.14,dinner,en
+3,en,PopCulture,en_PopCulture,1,"Oui, s'il vous plaît!",Oui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Oui,fr
+4,en,PopCulture,en_PopCulture,1,"Oui, s'il vous plaît!",s,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,s,fr
+5,en,PopCulture,en_PopCulture,1,"Oui, s'il vous plaît!",il,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,il,fr
+6,en,PopCulture,en_PopCulture,1,"Oui, s'il vous plaît!",vous,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,vous,fr
+7,en,PopCulture,en_PopCulture,1,"Oui, s'il vous plaît!",plaît,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,plaît,fr
+8,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",FrenchFood,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,FrenchFood,en
+9,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",Gourmet,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Gourmet,fr
+10,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",Le,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Le,fr
+11,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",weekend,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,weekend,fr
+12,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",is,2,0.0,1.0,0.99,0.0,0.0,0.0,0.0,0.0,is,en
+13,en,PopCulture,en_PopCulture,2,"#FrenchFood #Gourmet
+Le weekend is here!",here,4,0.11,1.0,0.89,0.0,0.0,0.0,0.0,0.0,here,en
+14,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,Time,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Time,en
+15,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,for,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,for,en
+16,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,some,4,0.44,0.0,0.0,0.0,0.0,1.0,0.56,0.0,some,en
+17,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,joie,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,joie,fr
+18,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,de,fr
+19,en,PopCulture,en_PopCulture,3,Time for some joie de vivre!,vivre,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,vivre,fr
+20,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",WeekendVibes,12,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,WeekendVibes,en
+21,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",FrenchPhrase,12,0.86,0.71,0.14,0.29,0.0,0.0,0.0,0.0,FrenchPhrase,en
+22,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",J,1,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,J,fr
+23,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",adore,5,0.0,0.71,0.0,0.29,0.0,0.0,1.0,0.0,adore,fr
+24,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",the,3,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,the,en
+25,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",Eiffel,6,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,Eiffel,en
+26,en,PopCulture,en_PopCulture,4,"#WeekendVibes #FrenchPhrase
+J'adore the Eiffel Tower!",Tower,5,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,Tower,en
+27,en,PopCulture,en_PopCulture,5,Such an iconic landmark.,Such,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Such,en
+28,en,PopCulture,en_PopCulture,5,Such an iconic landmark.,an,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,an,en
+29,en,PopCulture,en_PopCulture,5,Such an iconic landmark.,iconic,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,iconic,en
+30,en,PopCulture,en_PopCulture,5,Such an iconic landmark.,landmark,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,landmark,en
+31,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",Paris,5,0.0,1.0,0.0,0.0,0.92,0.0,0.0,0.0,Paris,en
+32,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",EiffelTower,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,EiffelTower,en
+33,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",Just,4,0.0,1.0,0.99,0.0,0.0,0.0,0.0,0.0,Just,en
+34,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",finished,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,finished,en
+35,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",reading,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,reading,en
+36,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+37,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",poignant,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,poignant,fr
+38,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",book,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,book,en
+39,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",by,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,by,en
+40,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",Victor,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Victor,fr
+41,en,PopCulture,en_PopCulture,6,"#Paris #EiffelTower
+Just finished reading a poignant book by Victor Hugo.",Hugo,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Hugo,fr
+42,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",FrenchLiterature,16,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,FrenchLiterature,en
+43,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",Classic,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,Classic,en
+44,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",C,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,C,fr
+45,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,est,fr
+46,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,la,fr
+47,en,PopCulture,en_PopCulture,7,"#FrenchLiterature #Classic
+C'est la vie!",vie,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,vie,fr
+48,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,Embracing,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Embracing,en
+49,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+50,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,ups,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,ups,en
+51,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+52,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,downs,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,downs,en
+53,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,with,en
+54,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+55,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,positive,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,positive,en
+56,en,PopCulture,en_PopCulture,8,Embracing the ups and downs with a positive attitude.,attitude,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,attitude,en
+57,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",FrenchPhrase,12,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,FrenchPhrase,en
+58,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",Positivity,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Positivity,en
+59,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",Au,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Au,fr
+60,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",revoir,6,0.0,1.0,0.0,0.0,0.57,0.0,0.43,0.0,revoir,fr
+61,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",mon,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,mon,en
+62,en,PopCulture,en_PopCulture,9,"#FrenchPhrase #Positivity
+Au revoir, mon ami!",ami,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ami,en
+63,en,PopCulture,en_PopCulture,10,Until we meet again.,Until,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Until,en
+64,en,PopCulture,en_PopCulture,10,Until we meet again.,we,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,we,en
+65,en,PopCulture,en_PopCulture,10,Until we meet again.,meet,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,meet,en
+66,en,PopCulture,en_PopCulture,10,Until we meet again.,again,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,again,en
+67,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",Goodbye,7,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,Goodbye,en
+68,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",FrenchPhrase,12,0.86,0.57,0.14,0.0,0.0,0.43,0.0,0.0,FrenchPhrase,en
+69,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",Indulging,9,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,Indulging,en
+70,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",in,2,0.95,0.57,0.0,0.0,0.0,0.43,0.0,0.0,in,en
+71,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",some,4,0.43,0.57,0.0,0.0,0.0,0.43,0.57,0.0,some,en
+72,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",delicious,9,0.0,0.57,0.0,0.0,0.0,0.43,1.0,0.0,delicious,en
+73,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",crème,5,0.0,0.57,0.0,0.0,1.0,0.43,0.0,0.0,crème,fr
+74,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",brûlée,6,0.0,0.57,0.0,0.0,1.0,0.43,0.0,0.0,brûlée,fr
+75,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",at,2,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,at,en
+76,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",a,1,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,a,en
+77,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",quaint,6,0.0,0.57,0.0,0.0,1.0,0.43,0.0,0.0,quaint,fr
+78,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",café,4,0.0,0.57,0.0,0.0,1.0,0.43,0.0,0.0,café,fr
+79,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",in,2,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,in,en
+80,en,PopCulture,en_PopCulture,11,"#Goodbye #FrenchPhrase
+Indulging in some delicious crème brûlée at a quaint café in Provence!",Provence,8,1.0,0.57,0.0,0.0,0.0,0.43,0.0,0.0,Provence,fr
+81,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",FrenchDesserts,14,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,FrenchDesserts,en
+82,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",FoodieAdventures,16,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,FoodieAdventures,en
+83,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",Feeling,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Feeling,en
+84,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",très,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,très,en
+85,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",chic,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,chic,fr
+86,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+87,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+88,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",stylish,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,stylish,en
+89,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",beret,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,beret,fr
+90,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+91,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",classic,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,classic,en
+92,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",striped,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,striped,en
+93,en,PopCulture,en_PopCulture,12,"🍮🇫🇷 #FrenchDesserts #FoodieAdventures
+Feeling très chic in my stylish beret and classic striped top!",top,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,top,en
+94,en,PopCulture,en_PopCulture,13,"💁🏻‍♀️🇫🇷 #FrenchFashion #OOTD
+Bonjour, mes amis!",FrenchFashion,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,FrenchFashion,en
+95,en,PopCulture,en_PopCulture,13,"💁🏻‍♀️🇫🇷 #FrenchFashion #OOTD
+Bonjour, mes amis!",OOTD,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,OOTD,en
+96,en,PopCulture,en_PopCulture,13,"💁🏻‍♀️🇫🇷 #FrenchFashion #OOTD
+Bonjour, mes amis!",Bonjour,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Bonjour,fr
+97,en,PopCulture,en_PopCulture,13,"💁🏻‍♀️🇫🇷 #FrenchFashion #OOTD
+Bonjour, mes amis!",mes,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,mes,fr
+98,en,PopCulture,en_PopCulture,13,"💁🏻‍♀️🇫🇷 #FrenchFashion #OOTD
+Bonjour, mes amis!",amis,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,amis,fr
+99,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,Enjoying,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Enjoying,en
+100,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+101,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,leisurely,9,0.0,1.0,0.14,0.0,0.86,0.0,0.0,0.0,leisurely,en
+102,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,morning,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,morning,en
+103,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+104,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+105,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,charming,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,charming,en
+106,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,French,6,0.43,1.0,0.57,0.0,0.0,0.0,0.0,0.0,French,en
+107,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,countryside,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,countryside,en
+108,en,PopCulture,en_PopCulture,14,Enjoying a leisurely morning at a charming French countryside cottage!,cottage,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,cottage,en
+109,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",RuralRetreat,12,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,RuralRetreat,en
+110,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",PeacefulVibes,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,PeacefulVibes,en
+111,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",Just,4,0.33,1.0,0.67,0.0,0.0,0.0,0.0,0.0,Just,en
+112,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",tried,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,tried,en
+113,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+114,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",first,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,first,en
+115,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",tiramisu,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,tiramisu,it
+116,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+117,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",it,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,it,en
+118,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+119,en,PopCulture,en_PopCulture,15,"☕️🇫🇷 #RuralRetreat #PeacefulVibes
+
+Just tried my first tiramisu and it was divine!",divine,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,divine,en
+120,en,PopCulture,en_PopCulture,16,Italian desserts are the best.,Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+121,en,PopCulture,en_PopCulture,16,Italian desserts are the best.,desserts,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,desserts,en
+122,en,PopCulture,en_PopCulture,16,Italian desserts are the best.,are,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,are,en
+123,en,PopCulture,en_PopCulture,16,Italian desserts are the best.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+124,en,PopCulture,en_PopCulture,16,Italian desserts are the best.,best,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,best,en
+125,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",ItalianCuisine,14,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ItalianCuisine,en
+126,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",Foodie,6,0.29,1.0,0.71,0.0,0.0,0.0,0.0,0.0,Foodie,en
+127,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",Grazie,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Grazie,it
+128,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",mille,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,mille,it
+129,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+130,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+131,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",kind,4,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0,kind,en
+132,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",locals,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,locals,en
+133,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+134,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",Naples,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Naples,en
+135,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+136,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",their,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,their,en
+137,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",warm,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,warm,en
+138,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",hospitality,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,hospitality,en
+139,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+140,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",incredible,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,incredible,en
+141,en,PopCulture,en_PopCulture,17,"#ItalianCuisine #Foodie
+Grazie mille to the kind locals of Naples for their warm hospitality and incredible pizza!",pizza,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,pizza,en
+142,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+143,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",FoodieHeaven,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,FoodieHeaven,en
+144,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",Amore,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Amore,it
+145,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+146,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",first,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,first,en
+147,en,PopCulture,en_PopCulture,18,"#Italy #FoodieHeaven
+Amore at first sight!",sight,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,sight,en
+148,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",Captured,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Captured,en
+149,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,this,en
+150,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",stunning,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,stunning,en
+151,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",sunset,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,sunset,en
+152,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",over,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,over,en
+153,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+154,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",Amalfi,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Amalfi,it
+155,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",Coast,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Coast,en
+156,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+157,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+158,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",heart,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,heart,en
+159,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",is,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,is,en
+160,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",forever,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,forever,en
+161,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",captured,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,captured,en
+162,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",by,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,by,en
+163,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+164,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",beauty,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,beauty,en
+165,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+166,en,PopCulture,en_PopCulture,19,"Captured this stunning sunset over the Amalfi Coast, and my heart is forever captured by the beauty of Italy.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+167,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+168,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",SunsetLover,11,0.14,1.0,0.86,0.0,0.0,0.0,0.0,0.0,SunsetLover,en
+169,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",Living,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Living,en
+170,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",la,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,la,it
+171,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",dolce,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,dolce,it
+172,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",vita,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,vita,it
+173,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+174,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",Tuscany,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Tuscany,en
+175,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",savoring,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,savoring,en
+176,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+177,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",glass,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,glass,en
+178,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+179,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",Chianti,7,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,Chianti,it
+180,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",while,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,while,en
+181,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",overlooking,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,overlooking,en
+182,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+183,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",rolling,7,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,rolling,en
+184,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",vineyards,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,vineyards,en
+185,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+186,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",picturesque,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,picturesque,en
+187,en,PopCulture,en_PopCulture,20,"#Italy #SunsetLover
+Living la dolce vita in Tuscany - savoring a glass of Chianti while overlooking the rolling vineyards and picturesque countryside.",countryside,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,countryside,en
+188,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",Tuscany,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Tuscany,en
+189,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+190,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",WineCountry,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,WineCountry,en
+191,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",Unforgettable,13,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Unforgettable,en
+192,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",moments,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,moments,en
+193,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+194,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",Pompeii,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Pompeii,it
+195,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",exploring,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,exploring,en
+196,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+197,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",ancient,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,ancient,en
+198,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",ruins,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,ruins,en
+199,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+200,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",walking,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,walking,en
+201,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",in,2,0.89,1.0,0.11,0.0,0.0,0.0,0.0,0.0,in,en
+202,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+203,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",footsteps,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,footsteps,en
+204,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+205,en,PopCulture,en_PopCulture,21,"#Tuscany #Italy #WineCountry
+Unforgettable moments in Pompeii - exploring the ancient ruins and walking in the footsteps of history.",history,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,history,en
+206,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Pompeii,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Pompeii,it
+207,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+208,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",AncientWonders,14,0.0,1.0,0.43,0.0,0.57,0.0,0.0,0.0,AncientWonders,en
+209,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Cruising,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Cruising,en
+210,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",through,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,through,en
+211,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+212,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",canals,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,canals,en
+213,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+214,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Milan,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Milan,en
+215,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+216,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+217,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",vintage,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,vintage,en
+218,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Vespa,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Vespa,it
+219,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",feeling,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,feeling,en
+220,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",like,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,like,en
+221,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+222,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",true,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,true,en
+223,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",Italian,7,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,Italian,en
+224,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",fashion,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,fashion,en
+225,en,PopCulture,en_PopCulture,22,"#Pompeii #Italy #AncientWonders
+Cruising through the canals of Milan on a vintage Vespa, feeling like a true Italian fashion icon!",icon,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,icon,en
+226,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",Milan,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Milan,en
+227,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+228,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",VespaAdventures,15,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,VespaAdventures,en
+229,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",Basking,7,0.43,1.0,0.57,0.0,0.0,0.0,0.0,0.0,Basking,en
+230,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+231,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+232,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",warm,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,warm,en
+233,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",glow,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,glow,en
+234,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+235,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+236,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",Colosseum,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Colosseum,en
+237,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+238,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",sunset,6,0.0,1.0,0.0,0.0,0.86,0.0,0.14,0.0,sunset,en
+239,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+240,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",symbol,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,symbol,en
+241,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+242,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",ancient,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,ancient,en
+243,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",Rome,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Rome,en
+244,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+245,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",grandeur,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,grandeur,fr
+246,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+247,en,PopCulture,en_PopCulture,23,"#Milan #Italy #VespaAdventures
+Basking in the warm glow of the Colosseum at sunset, a symbol of ancient Rome's grandeur and legacy.",legacy,6,0.71,1.0,0.0,0.0,0.14,0.0,0.14,0.0,legacy,en
+248,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",Rome,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Rome,en
+249,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+250,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",HistoricWonders,15,0.14,1.0,0.86,0.0,0.0,0.0,0.0,0.0,HistoricWonders,en
+251,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",Elegance,8,0.0,1.0,0.0,0.0,0.14,0.0,0.86,0.0,Elegance,en
+252,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+253,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",artistry,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,artistry,en
+254,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+255,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",every,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,every,en
+256,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",corner,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,corner,en
+257,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+258,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",Vatican,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Vatican,en
+259,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",City,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,City,en
+260,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+261,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",truly,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,truly,en
+262,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",awe,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,awe,en
+263,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",inspiring,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,inspiring,en
+264,en,PopCulture,en_PopCulture,24,"#Rome #Italy #HistoricWonders
+Elegance and artistry in every corner of Vatican City - a truly awe-inspiring experience.",experience,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,experience,en
+265,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",VaticanCity,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,VaticanCity,en
+266,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+267,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",ArtAndCulture,13,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,ArtAndCulture,en
+268,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",Buongiorno,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Buongiorno,it
+269,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",from,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,from,en
+270,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+271,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",Amalfi,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Amalfi,it
+272,en,PopCulture,en_PopCulture,25,"#VaticanCity #Italy #ArtAndCulture
+Buongiorno from the Amalfi Coast!",Coast,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Coast,en
+273,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+274,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,views,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,views,en
+275,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,here,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,here,en
+276,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,are,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,are,en
+277,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,absolutely,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,absolutely,en
+278,en,PopCulture,en_PopCulture,26,The views here are absolutely breathtaking.,breathtaking,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,breathtaking,en
+279,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Italy,en
+280,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",TravelInspiration,17,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,TravelInspiration,en
+281,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",Just,4,0.42,1.0,0.58,0.0,0.0,0.0,0.0,0.0,Just,en
+282,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",had,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,had,en
+283,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+284,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",most,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,most,en
+285,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",delicious,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,delicious,en
+286,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",schnitzel,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,schnitzel,de
+287,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+288,en,PopCulture,en_PopCulture,27,"#Italy #TravelInspiration
+
+Just had the most delicious schnitzel for dinner!",dinner,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,dinner,en
+289,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",GermanCuisine,13,0.43,1.0,0.57,0.0,0.0,0.0,0.0,0.0,GermanCuisine,en
+290,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",Foodie,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Foodie,en
+291,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",Yum,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Yum,en
+292,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,I,en
+293,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",m,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,m,en
+294,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",loving,6,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,loving,en
+295,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+296,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",new,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,new,en
+297,en,PopCulture,en_PopCulture,28,"#GermanCuisine #Foodie #Yum
+I'm loving my new dirndl!",dirndl,6,0.0,1.0,0.57,0.0,0.0,0.0,0.43,0.0,dirndl,de
+298,en,PopCulture,en_PopCulture,29,Can't wait for Oktoberfest!,Can,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Can,en
+299,en,PopCulture,en_PopCulture,29,Can't wait for Oktoberfest!,t,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,t,en
+300,en,PopCulture,en_PopCulture,29,Can't wait for Oktoberfest!,wait,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,wait,en
+301,en,PopCulture,en_PopCulture,29,Can't wait for Oktoberfest!,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+302,en,PopCulture,en_PopCulture,29,Can't wait for Oktoberfest!,Oktoberfest,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Oktoberfest,de
+303,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",GermanTraditions,16,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,GermanTraditions,en
+304,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",Dirndl,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Dirndl,de
+305,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",Oktoberfest,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Oktoberfest,de
+306,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",Just,4,0.0,1.0,0.93,0.0,0.0,0.0,0.0,0.0,Just,en
+307,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",booked,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,booked,en
+308,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+309,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",tickets,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,tickets,en
+310,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+311,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+312,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",trip,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,trip,en
+313,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+314,en,PopCulture,en_PopCulture,30,"#GermanTraditions #Dirndl #Oktoberfest
+Just booked my tickets for a trip to München!",München,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,München,de
+315,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,Can,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Can,en
+316,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,t,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,t,en
+317,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,wait,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,wait,en
+318,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+319,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,explore,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,explore,en
+320,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,Germany,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Germany,en
+321,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+322,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,rich,4,0.0,1.0,0.14,0.0,0.0,0.0,0.86,0.0,rich,en
+323,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,history,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,history,en
+324,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+325,en,PopCulture,en_PopCulture,31,Can't wait to explore Germany's rich history and culture.,culture,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,culture,en
+326,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",TravelGoals,11,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,TravelGoals,en
+327,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",Germany,7,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,Germany,en
+328,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",München,7,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,München,en
+329,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",Having,6,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,Having,en
+330,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",a,1,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,a,en
+331,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",cozy,4,0.0,0.71,0.0,0.29,0.0,0.0,1.0,0.0,cozy,en
+332,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",evening,7,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,evening,en
+333,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",with,4,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,with,en
+334,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",some,4,0.57,0.71,0.0,0.29,0.0,0.0,0.43,0.0,some,en
+335,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",glühwein,8,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,glühwein,de
+336,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",and,3,1.0,0.71,0.0,0.29,0.0,0.0,0.0,0.0,and,en
+337,en,PopCulture,en_PopCulture,32,"#TravelGoals #Germany #München
+Having a cozy evening with some glühwein and lebkuchen.",lebkuchen,9,0.0,0.71,1.0,0.29,0.0,0.0,0.0,0.0,lebkuchen,de
+338,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",WinterVibes,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,WinterVibes,en
+339,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",GermanTreats,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,GermanTreats,en
+340,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",Cozy,4,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,Cozy,en
+341,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",Learning,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Learning,en
+342,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+343,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",has,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,has,en
+344,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",been,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,been,en
+345,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",challenging,11,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0,challenging,en
+346,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",but,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,but,en
+347,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",so,2,0.0,1.0,0.0,0.0,0.15,0.0,0.85,0.0,so,en
+348,en,PopCulture,en_PopCulture,33,"#WinterVibes #GermanTreats #Cozy
+Learning German has been challenging but so rewarding!",rewarding,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,rewarding,en
+349,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,Danke,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Danke,de
+350,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,schön,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,schön,de
+351,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+352,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+353,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,language,8,0.43,1.0,0.0,0.0,0.57,0.0,0.0,0.0,language,en
+354,en,PopCulture,en_PopCulture,34,Danke schön to my language tutor!,tutor,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,tutor,en
+355,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",LanguageLearning,16,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,LanguageLearning,en
+356,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+357,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",DankeSchön,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,DankeSchön,de
+358,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",Feeling,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Feeling,en
+359,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",proud,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,proud,en
+360,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+361,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+362,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+363,en,PopCulture,en_PopCulture,35,"#LanguageLearning #German #DankeSchön
+Feeling proud of my German heritage!",heritage,8,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,heritage,en
+364,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,Prost,5,0.63,1.0,0.37,0.0,0.0,0.0,0.0,0.0,Prost,de
+365,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+366,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,all,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,all,en
+367,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+368,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,fellow,6,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,fellow,en
+369,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,Germans,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Germans,en
+370,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,around,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,around,en
+371,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+372,en,PopCulture,en_PopCulture,36,Prost to all my fellow Germans around the world.,world,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,world,en
+373,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",GermanPride,11,0.14,1.0,0.86,0.0,0.0,0.0,0.0,0.0,GermanPride,en
+374,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",Prost,5,0.88,1.0,0.12,0.0,0.0,0.0,0.0,0.0,Prost,en
+375,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",Heritage,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Heritage,en
+376,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",Exploring,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Exploring,en
+377,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+378,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",beautiful,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,beautiful,en
+379,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",Black,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Black,en
+380,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",Forest,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Forest,en
+381,en,PopCulture,en_PopCulture,37,"#GermanPride #Prost #Heritage
+Exploring the beautiful Black Forest today.",today,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,today,en
+382,en,PopCulture,en_PopCulture,38,The scenery is breathtaking!,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+383,en,PopCulture,en_PopCulture,38,The scenery is breathtaking!,scenery,7,0.43,1.0,0.0,0.0,0.0,0.0,0.57,0.0,scenery,en
+384,en,PopCulture,en_PopCulture,38,The scenery is breathtaking!,is,2,0.0,1.0,0.98,0.0,0.0,0.0,0.0,0.0,is,en
+385,en,PopCulture,en_PopCulture,38,The scenery is breathtaking!,breathtaking,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,breathtaking,en
+386,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",BlackForest,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,BlackForest,en
+387,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",Nature,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Nature,en
+388,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",Germany,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Germany,en
+389,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",Savoring,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Savoring,en
+390,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+391,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",taste,5,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,taste,en
+392,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+393,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",authentic,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,authentic,en
+394,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+395,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",sausages,8,0.0,1.0,0.57,0.0,0.43,0.0,0.0,0.0,sausages,en
+396,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+397,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+398,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",local,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,local,en
+399,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",market,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,market,en
+400,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+401,en,PopCulture,en_PopCulture,39,"#BlackForest #Nature #Germany
+Savoring the taste of authentic German sausages at a local market in Munich.",Munich,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Munich,en
+402,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",FoodieAdventures,16,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,FoodieAdventures,en
+403,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",GermanSausages,14,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,GermanSausages,en
+404,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",Munich,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Munich,en
+405,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",Embracing,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Embracing,en
+406,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+407,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",festive,7,0.56,1.0,0.0,0.0,0.44,0.0,0.0,0.0,festive,en
+408,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",spirit,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,spirit,en
+409,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+410,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",Oktoberfest,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Oktoberfest,de
+411,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+412,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,my,en
+413,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",traditional,11,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,traditional,en
+414,en,PopCulture,en_PopCulture,40,"#FoodieAdventures #GermanSausages #Munich
+Embracing the festive spirit of Oktoberfest in my traditional dirndl.",dirndl,6,0.0,1.0,0.71,0.0,0.0,0.0,0.29,0.0,dirndl,de
+415,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,Prost,5,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,Prost,de
+416,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+417,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,good,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,good,en
+418,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,times,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,times,en
+419,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+420,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,good,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,good,en
+421,en,PopCulture,en_PopCulture,41,Prost to good times and good beer!,beer,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,beer,en
+422,en,PopCulture,en_PopCulture,42,#Oktoberfest #Tradition #DirndlLove,Oktoberfest,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Oktoberfest,de
+423,en,PopCulture,en_PopCulture,42,#Oktoberfest #Tradition #DirndlLove,Tradition,9,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Tradition,en
+424,en,PopCulture,en_PopCulture,42,#Oktoberfest #Tradition #DirndlLove,DirndlLove,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,DirndlLove,en

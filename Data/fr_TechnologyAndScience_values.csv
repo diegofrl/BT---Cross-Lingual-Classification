@@ -1,0 +1,402 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,La,2,0.0,0.0,0.0,0.0,0.96,1.0,0.0,0.0
+1,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,technologie,11,0.0,0.0,0.29,0.0,0.14,1.0,0.57,0.0
+2,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,a,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+3,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,toujours,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+4,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,été,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+5,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+6,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,domaine,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+7,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,où,2,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+8,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+9,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,mots,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+10,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,étrangers,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+11,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+12,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,couramment,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+13,fr,TechnologyAndScience,fr_TechnologyAndScience,0,La technologie a toujours été un domaine où les mots étrangers sont couramment utilisés.,utilisés,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+14,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,L,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+15,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,utilisation,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+16,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+17,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+18,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,ordinateur,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+19,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+20,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,aujourd,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+21,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,hui,3,0.57,0.0,0.0,0.0,0.43,1.0,0.0,0.0
+22,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,presque,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+23,fr,TechnologyAndScience,fr_TechnologyAndScience,1,L'utilisation d'un ordinateur est aujourd'hui presque ubiquitaire.,ubiquitaire,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+24,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",On,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+25,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",parle,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+26,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+27,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+28,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",hardware,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+29,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+30,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",désigner,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+31,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+32,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",composants,10,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+33,fr,TechnologyAndScience,fr_TechnologyAndScience,2,"On parle souvent de ""hardware"" pour désigner les composants matériels.",matériels,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+34,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+35,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",software,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+36,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",quant,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+37,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+38,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",lui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+39,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",fait,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+40,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",référence,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+41,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",aux,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+42,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",programmes,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+43,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+44,fr,TechnologyAndScience,fr_TechnologyAndScience,3,"Le ""software"", quant à lui, fait référence aux programmes et applications.",applications,12,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+45,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+46,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",anglophones,11,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+47,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",emploient,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+48,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+49,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+50,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",terme,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+51,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",laptop,6,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+52,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+53,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",parler,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+54,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+55,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+56,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",ordinateur,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+57,fr,TechnologyAndScience,fr_TechnologyAndScience,4,"Les anglophones emploient souvent le terme ""laptop"" pour parler d'un ordinateur portable.",portable,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+58,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+59,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",développeurs,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+60,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",utilisent,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+61,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+62,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",framework,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+63,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+64,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",faciliter,9,0.57,0.0,0.0,0.0,0.0,1.0,0.43,0.0
+65,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+66,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",création,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+67,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+68,fr,TechnologyAndScience,fr_TechnologyAndScience,5,"Les développeurs utilisent un ""framework"" pour faciliter la création de logiciels.",logiciels,9,0.0,0.0,0.0,0.0,0.43,1.0,0.57,0.0
+69,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",Un,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+70,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",smartphone,10,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+71,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+72,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",désormais,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+73,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+74,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",objet,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+75,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",indispensable,13,0.71,0.0,0.29,0.0,0.0,1.0,0.0,0.0
+76,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+77,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+78,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",plupart,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+79,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+80,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",entre,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+81,fr,TechnologyAndScience,fr_TechnologyAndScience,6,"Un ""smartphone"" est désormais un objet indispensable pour la plupart d'entre nous.",nous,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+82,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",Le,2,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+83,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",mot,3,0.0,0.0,0.0,0.86,0.0,0.14,1.0,0.0
+84,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",allemand,8,0.14,0.0,0.0,0.86,0.0,0.14,0.86,0.0
+85,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",Geschwindigkeitsbegrenzung,26,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+86,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",signifie,8,0.0,0.0,0.0,0.86,0.0,0.14,1.0,0.0
+87,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",limitation,10,0.0,0.0,0.0,0.86,0.0,0.14,1.0,0.0
+88,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",de,2,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+89,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",vitesse,7,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+90,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",en,2,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+91,fr,TechnologyAndScience,fr_TechnologyAndScience,7,"Le mot allemand ""Geschwindigkeitsbegrenzung"" signifie limitation de vitesse en français.",français,8,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+92,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",En,2,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+93,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",science,7,0.0,0.0,0.0,0.0,0.5,1.0,0.5,0.0
+94,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+95,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",Schwerelosigkeit,16,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+96,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+97,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+98,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",absence,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+99,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+100,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",pesanteur,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+101,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+102,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",observée,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+103,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+104,fr,TechnologyAndScience,fr_TechnologyAndScience,8,"En science, la ""Schwerelosigkeit"" est l'absence de pesanteur, souvent observée en microgravité.",microgravité,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+105,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",L,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+106,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",astronautique,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+107,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",a,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+108,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",donné,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+109,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",naissance,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+110,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",au,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+111,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",terme,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+112,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",Weltraum,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+113,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+114,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",désigner,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+115,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+116,fr,TechnologyAndScience,fr_TechnologyAndScience,9,"L'astronautique a donné naissance au terme ""Weltraum"" pour désigner l'espace.",espace,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+117,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+118,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",mot,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+119,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+120,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",velocità,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+121,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",signifie,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+122,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",vitesse,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+123,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+124,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",notion,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+125,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",importante,10,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+126,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+127,fr,TechnologyAndScience,fr_TechnologyAndScience,10,"Le mot italien ""velocità"" signifie vitesse, une notion importante en physique.",physique,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+128,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",Lorsque,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+129,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+130,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",on,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+131,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",parle,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+132,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+133,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",nanotecnologia,14,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+134,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",on,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+135,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",évoque,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+136,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+137,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",manipulation,12,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+138,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+139,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+140,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",matière,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+141,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+142,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+143,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",échelle,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+144,fr,TechnologyAndScience,fr_TechnologyAndScience,11,"Lorsque l'on parle de ""nanotecnologia"", on évoque la manipulation de la matière à l'échelle nanométrique.",nanométrique,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+145,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+146,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",droni,5,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+147,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+148,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+149,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",appareils,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+150,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",volants,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+151,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",sans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+152,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",pilote,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+153,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+154,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",bord,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+155,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+156,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",utilisés,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+157,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+158,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+159,fr,TechnologyAndScience,fr_TechnologyAndScience,12,"Les ""droni"" sont des appareils volants sans pilote à bord, souvent utilisés pour la surveillance.",surveillance,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+160,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+161,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",biotecnologia,13,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+162,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+163,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+164,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",utilisation,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+165,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+166,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",organismes,10,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+167,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",vivants,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+168,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+169,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",créer,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+170,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+171,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",nouveaux,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+172,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",produits,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+173,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+174,fr,TechnologyAndScience,fr_TechnologyAndScience,13,"La ""biotecnologia"" est l'utilisation d'organismes vivants pour créer de nouveaux produits et procédés.",procédés,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+175,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+176,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",fotovoltaico,12,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+177,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+178,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+179,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",technologie,11,0.14,0.0,0.71,0.0,0.0,1.0,0.14,0.0
+180,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+181,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",permet,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+182,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+183,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",convertir,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+184,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+185,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",lumière,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+186,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+187,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",soleil,6,0.0,0.0,0.57,0.0,0.0,1.0,0.43,0.0
+188,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+189,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",énergie,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+190,fr,TechnologyAndScience,fr_TechnologyAndScience,14,"La ""fotovoltaico"" est une technologie qui permet de convertir la lumière du soleil en énergie électrique.",électrique,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+191,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+192,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",cellule,7,0.0,0.0,0.0,0.0,0.43,1.0,0.57,0.0
+193,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",staminali,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+194,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+195,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+196,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",cellules,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+197,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",indifférenciées,15,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+198,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",capables,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+199,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+200,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",se,2,0.0,0.0,0.0,0.0,0.22,1.0,0.78,0.0
+201,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",différencier,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+202,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+203,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",plusieurs,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+204,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",types,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+205,fr,TechnologyAndScience,fr_TechnologyAndScience,15,"Les ""cellule staminali"" sont des cellules indifférenciées capables de se différencier en plusieurs types cellulaires.",cellulaires,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+206,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+207,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",palestra,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+208,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",italienne,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+209,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+210,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+211,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",lieu,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+212,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",où,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+213,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+214,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",on,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+215,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",pratique,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+216,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+217,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",activités,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+218,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",sportives,9,0.0,0.0,0.0,0.0,0.14,1.0,0.79,0.0
+219,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",parfois,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+220,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",liées,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+221,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+222,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+223,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",science,7,0.0,0.0,0.0,0.0,0.71,1.0,0.29,0.0
+224,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+225,fr,TechnologyAndScience,fr_TechnologyAndScience,16,"La ""palestra"" italienne est un lieu où l'on pratique des activités sportives, parfois liées à la science du sport.",sport,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+226,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",L,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+227,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",écologie,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+228,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",utilise,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+229,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+230,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",concept,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+231,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",allemand,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+232,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+233,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",Nachhaltigkeit,14,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+234,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+235,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",décrire,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+236,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+237,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",développement,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+238,fr,TechnologyAndScience,fr_TechnologyAndScience,17,"L'écologie utilise le concept allemand de ""Nachhaltigkeit"" pour décrire le développement durable.",durable,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+239,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+240,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",Gentechnik,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+241,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+242,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+243,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",méthode,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+244,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+245,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",ingénierie,10,0.0,0.0,0.29,0.0,0.71,1.0,0.0,0.0
+246,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",génétique,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+247,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+248,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",modifier,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+249,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+250,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",gènes,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+251,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+252,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+253,fr,TechnologyAndScience,fr_TechnologyAndScience,18,"La ""Gentechnik"" est une méthode d'ingénierie génétique pour modifier les gènes d'un organisme.",organisme,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+254,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+255,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",mot,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+256,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",Glasfaser,9,0.0,0.0,0.71,0.0,0.0,1.0,0.29,0.0
+257,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",fait,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+258,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",référence,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+259,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+260,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+261,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",fibre,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+262,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+263,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",verre,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+264,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",utilisée,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+265,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+266,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+267,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",nombreux,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+268,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",domaines,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+269,fr,TechnologyAndScience,fr_TechnologyAndScience,19,"Le mot ""Glasfaser"" fait référence à la fibre de verre, utilisée dans de nombreux domaines technologiques.",technologiques,14,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+270,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",Le,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+271,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",mot,3,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+272,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",Wissenschaftler,15,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+273,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",désigne,7,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+274,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",un,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+275,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",scientifique,12,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+276,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",en,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+277,fr,TechnologyAndScience,fr_TechnologyAndScience,20,"Le mot ""Wissenschaftler"" désigne un scientifique en allemand.",allemand,8,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+278,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",Un,2,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+279,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",Ingenieur,9,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+280,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+281,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+282,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",professionnel,13,0.0,0.0,0.0,0.0,0.29,1.0,0.71,0.0
+283,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",spécialisé,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+284,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+285,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+286,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",application,11,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+287,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+288,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",connaissances,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+289,fr,TechnologyAndScience,fr_TechnologyAndScience,21,"Un ""Ingenieur"" est un professionnel spécialisé dans l'application des connaissances scientifiques.",scientifiques,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+290,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",L,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+291,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",Internet,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+292,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",der,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+293,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",Dinge,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+294,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+295,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+296,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",concept,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+297,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+298,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",décrit,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+299,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+300,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",réseau,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+301,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+302,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",objets,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+303,fr,TechnologyAndScience,fr_TechnologyAndScience,22,"L'""Internet der Dinge"" est un concept qui décrit un réseau d'objets connectés.",connectés,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+304,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+305,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",Spam,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+306,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+307,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+308,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",fléau,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+309,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+310,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",encombre,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+311,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",nos,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+312,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",boîtes,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+313,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+314,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",réception,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+315,fr,TechnologyAndScience,fr_TechnologyAndScience,23,"Le ""Spam"" est un fléau qui encombre nos boîtes de réception électroniques.",électroniques,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+316,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",La,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+317,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",künstliche,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+318,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",Intelligenz,11,0.0,0.0,0.86,0.0,0.0,1.0,0.14,0.0
+319,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+320,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+321,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",technologie,11,0.14,0.0,0.71,0.0,0.0,1.0,0.14,0.0
+322,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",visant,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+323,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+324,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",reproduire,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+325,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+326,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",intelligence,12,0.0,0.0,0.14,0.0,0.0,1.0,0.86,0.0
+327,fr,TechnologyAndScience,fr_TechnologyAndScience,24,"La ""künstliche Intelligenz"" est une technologie visant à reproduire l'intelligence humaine.",humaine,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+328,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+329,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",Deep,4,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+330,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",Learning,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+331,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+332,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+333,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",sous,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+334,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",catégorie,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+335,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+336,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+337,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",intelligence,12,0.0,0.0,0.29,0.0,0.0,1.0,0.71,0.0
+338,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",artificielle,12,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+339,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",basée,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+340,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+341,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+342,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",réseaux,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+343,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+344,fr,TechnologyAndScience,fr_TechnologyAndScience,25,"Le ""Deep Learning"" est une sous-catégorie de l'intelligence artificielle basée sur les réseaux de neurones.",neurones,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+345,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+346,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",Wearables,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+347,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+348,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+349,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",dispositifs,11,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+350,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",électroniques,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+351,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",portables,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+352,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+353,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",interagissent,13,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+354,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+355,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",notre,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+356,fr,TechnologyAndScience,fr_TechnologyAndScience,26,"Les ""Wearables"" sont des dispositifs électroniques portables qui interagissent avec notre corps.",corps,5,0.86,0.0,0.0,0.0,0.0,1.0,0.14,0.0
+357,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+358,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",mot,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+359,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",allemand,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+360,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",Fernsehen,9,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+361,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",signifie,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+362,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",télévision,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+363,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+364,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",média,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+365,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",toujours,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+366,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",présent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+367,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",aujourd,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+368,fr,TechnologyAndScience,fr_TechnologyAndScience,27,"Le mot allemand ""Fernsehen"" signifie télévision, un média toujours présent aujourd'hui.",hui,3,0.29,0.0,0.0,0.0,0.71,1.0,0.0,0.0
+369,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+370,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",Streaming,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+371,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+372,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+373,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",technologie,11,0.14,0.0,0.57,0.0,0.14,1.0,0.14,0.0
+374,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",permettant,10,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+375,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+376,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",lecture,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+377,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+378,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",continu,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+379,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+380,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",contenus,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+381,fr,TechnologyAndScience,fr_TechnologyAndScience,28,"Le ""Streaming"" est une technologie permettant la lecture en continu de contenus audiovisuels.",audiovisuels,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+382,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",Enfin,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+383,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+384,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",Big,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+385,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",Data,4,0.0,0.0,0.14,0.0,0.0,1.0,0.86,0.0
+386,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+387,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+388,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",terme,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+389,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+390,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",désigne,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+391,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+392,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",analyse,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+393,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+394,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+395,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",exploitation,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+396,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+397,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",larges,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+398,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",volumes,7,0.0,0.0,0.0,0.0,0.78,1.0,0.22,0.0
+399,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+400,fr,TechnologyAndScience,fr_TechnologyAndScience,29,"Enfin, le ""Big Data"" est un terme qui désigne l'analyse et l'exploitation de larges volumes de données.",données,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0

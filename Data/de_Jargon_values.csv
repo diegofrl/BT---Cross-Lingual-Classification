@@ -1,0 +1,366 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",Nachdem,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+1,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",er,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+2,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+3,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",Meeting,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+4,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+5,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",dem,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+6,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",CEO,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+7,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",hatte,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+8,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",war,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+9,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",er,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+10,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",völlig,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+11,de,Jargon,de_Jargon,0,"Nachdem er das Meeting mit dem CEO hatte, war er völlig enervé.",enervé,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+12,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,Die,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+13,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,Modebloggerin,13,0.0,0.0,0.71,0.71,0.0,0.29,0.29,0.0
+14,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,präsentierte,12,0.0,0.0,0.86,0.71,0.14,0.29,0.0,0.0
+15,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,das,3,0.0,0.0,0.71,0.71,0.0,0.29,0.29,0.0
+16,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,neueste,7,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+17,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,Outfit,6,0.0,0.0,0.43,0.71,0.57,0.29,0.0,0.0
+18,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,mit,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+19,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,einem,5,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+20,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,Hauch,5,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+21,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,von,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+22,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,je,2,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+23,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,ne,2,0.0,0.0,0.0,0.71,0.0,0.29,1.0,0.0
+24,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,sais,4,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+25,de,Jargon,de_Jargon,1,Die Modebloggerin präsentierte das neueste Outfit mit einem Hauch von je ne sais quoi.,quoi,4,0.0,0.0,0.0,0.71,0.57,0.29,0.43,0.0
+26,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+27,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,Künstlerin,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+28,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,malte,5,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+29,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+30,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,viel,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+31,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,élan,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+32,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+33,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,brachte,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+34,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+35,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,Leinwand,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+36,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,zum,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+37,de,Jargon,de_Jargon,2,Die Künstlerin malte mit viel élan und brachte die Leinwand zum Leben.,Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+38,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+39,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Sommelier,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+40,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,empfahl,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+41,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+42,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Pinot,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+43,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Noir,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+44,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,als,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+45,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Begleitung,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+46,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,zum,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+47,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,Filet,5,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+48,de,Jargon,de_Jargon,3,Der Sommelier empfahl einen Pinot Noir als Begleitung zum Filet mignon.,mignon,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+49,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+50,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Gruppe,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+51,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",junger,6,0.0,0.0,0.86,1.0,0.14,0.0,0.0,0.0
+52,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Leute,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+53,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",traf,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+54,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",sich,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+55,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+56,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+57,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",angesagten,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+58,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Bistro,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+59,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+60,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",über,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+61,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",ihre,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+62,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Avantgarde,10,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+63,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",Ideen,5,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+64,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+65,de,Jargon,de_Jargon,4,"Die Gruppe junger Leute traf sich in einem angesagten Bistro, um über ihre Avantgarde-Ideen zu sprechen.",sprechen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+66,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+67,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,Manager,7,0.46,0.0,0.54,1.0,0.0,0.0,0.0,0.0
+68,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,präsentierte,12,0.0,0.0,0.71,1.0,0.29,0.0,0.0,0.0
+69,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+70,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,Verkaufsstrategie,17,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+71,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+72,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+73,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,Touch,5,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+74,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+75,de,Jargon,de_Jargon,5,Der Manager präsentierte die Verkaufsstrategie mit einem Touch de Raffinesse.,Raffinesse,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+76,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+77,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",Personal,8,0.14,0.0,0.0,1.0,0.0,0.0,0.86,0.0
+78,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",Trainer,7,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+79,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",zeigte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+80,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+81,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",Kunden,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+82,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",wie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+83,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",sie,3,0.0,0.0,0.14,1.0,0.86,0.0,0.0,0.0
+84,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",ihre,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+85,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",core,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+86,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",stability,9,0.71,0.0,0.0,1.0,0.0,0.0,0.29,0.0
+87,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",verbessern,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+88,de,Jargon,de_Jargon,6,"Der Personal Trainer zeigte den Kunden, wie sie ihre core stability verbessern können.",können,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+89,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+90,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,PR,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+91,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,Agentur,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+92,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,organisierte,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+93,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+94,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,exklusives,10,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+95,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,Event,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+96,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+97,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,prominenten,11,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+98,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,VIP,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+99,de,Jargon,de_Jargon,7,Die PR-Agentur organisierte ein exklusives Event mit prominenten VIP-Gästen.,Gästen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+100,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+101,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Chefkoch,8,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+102,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,servierte,9,0.0,0.0,0.39,1.0,0.61,0.0,0.0,0.0
+103,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+104,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Gästen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+105,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+106,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,exquisites,10,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+107,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Amuse,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+108,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Bouche,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+109,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,als,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+110,de,Jargon,de_Jargon,8,Der Chefkoch servierte den Gästen ein exquisites Amuse-Bouche als Vorspeise.,Vorspeise,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+111,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+112,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,Modedesignerin,14,0.14,0.0,0.71,1.0,0.0,0.0,0.14,0.0
+113,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,entwarf,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+114,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+115,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,Kollektion,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+116,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+117,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+118,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,Hauch,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+119,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+120,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,haute,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+121,de,Jargon,de_Jargon,9,Die Modedesignerin entwarf eine Kollektion mit einem Hauch von haute couture.,couture,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+122,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+123,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,Manager,7,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+124,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,präsentierte,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+125,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+126,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,Projekt,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+127,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+128,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+129,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,Update,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+130,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,zum,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+131,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,Status,6,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+132,de,Jargon,de_Jargon,10,Der Manager präsentierte das Projekt mit einem Update zum Status quo.,quo,3,0.0,0.0,0.0,1.0,0.86,0.0,0.14,0.0
+133,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+134,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",Marketingabteilung,18,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+135,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",setzte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+136,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+137,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",Influencer,10,0.8,0.0,0.0,1.0,0.2,0.0,0.0,0.0
+138,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",Marketing,9,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+139,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+140,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+141,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",Zielgruppe,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+142,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+143,de,Jargon,de_Jargon,11,"Die Marketingabteilung setzte auf Influencer-Marketing, um die Zielgruppe zu erreichen.",erreichen,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+144,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+145,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",IT,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+146,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",Experte,7,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+147,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",löste,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+148,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+149,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",Problem,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+150,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+151,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+152,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",Workaround,10,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+153,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+154,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+155,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",Betriebsablauf,14,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+156,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",nicht,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+157,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+158,de,Jargon,de_Jargon,12,"Der IT-Experte löste das Problem mit einem Workaround, um den Betriebsablauf nicht zu stören.",stören,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+159,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+160,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Sales,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+161,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Abteilung,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+162,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",verfolgte,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+163,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+164,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",aggressive,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+165,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Go,2,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+166,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",to,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+167,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Market,6,0.71,0.0,0.29,1.0,0.0,0.0,0.0,0.0
+168,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Strategie,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+169,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+170,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+171,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",Umsatz,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+172,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+173,de,Jargon,de_Jargon,13,"Die Sales-Abteilung verfolgte eine aggressive Go-to-Market-Strategie, um den Umsatz zu steigern.",steigern,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+174,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+175,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",CEO,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+176,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",hielt,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+177,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+178,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Town,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+179,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Hall,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+180,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Veranstaltung,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+181,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+182,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",die,3,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+183,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Vision,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+184,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",des,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+185,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",Unternehmens,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+186,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+187,de,Jargon,de_Jargon,14,"Der CEO hielt eine Town-Hall-Veranstaltung, um die Vision des Unternehmens zu kommunizieren.",kommunizieren,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+188,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+189,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,Mitarbeiter,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+190,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,erhielt,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+191,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+192,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,Feedback,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+193,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+194,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,One,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+195,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,on,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+196,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,One,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+197,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,Meeting,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+198,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+199,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,dem,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+200,de,Jargon,de_Jargon,15,Der Mitarbeiter erhielt ein Feedback im One-on-One-Meeting mit dem Vorgesetzten.,Vorgesetzten,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+201,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+202,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,Unternehmen,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+203,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,nutzte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+204,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+205,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,Cloud,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+206,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,basierte,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+207,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,Lösung,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+208,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+209,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+210,de,Jargon,de_Jargon,16,Das Unternehmen nutzte eine Cloud-basierte Lösung für die Datenspeicherung.,Datenspeicherung,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+211,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+212,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Praktikant,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+213,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,erstellte,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+214,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+215,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Report,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+216,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+217,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+218,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Key,3,0.29,0.0,0.71,1.0,0.0,0.0,0.0,0.0
+219,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Performance,11,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+220,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Indicators,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+221,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,KPIs,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+222,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,des,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+223,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,letzten,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+224,de,Jargon,de_Jargon,17,Der Praktikant erstellte einen Report mit den Key Performance Indicators (KPIs) des letzten Quartals.,Quartals,8,0.43,0.0,0.0,1.0,0.0,0.0,0.57,0.0
+225,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+226,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",Projektmanagerin,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+227,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",setzte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+228,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+229,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",Agile,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+230,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",Methoden,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+231,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+232,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",das,3,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+233,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",Projekt,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+234,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",effizient,9,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+235,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+236,de,Jargon,de_Jargon,18,"Die Projektmanagerin setzte auf Agile Methoden, um das Projekt effizient zu steuern.",steuern,7,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+237,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+238,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,Vertriebsmitarbeiter,20,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+239,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,überzeugte,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+240,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+241,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,Kunden,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+242,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+243,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+244,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,überzeugenden,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+245,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,Elevator,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+246,de,Jargon,de_Jargon,19,Der Vertriebsmitarbeiter überzeugte den Kunden mit einem überzeugenden Elevator Pitch.,Pitch,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+247,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+248,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Dolce,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+249,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Vita,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+250,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+251,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+252,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,viele,5,0.0,0.0,0.43,1.0,0.43,0.0,0.14,0.0
+253,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Menschen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+254,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+255,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Synonym,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+256,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+257,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,das,3,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+258,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,süße,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+259,de,Jargon,de_Jargon,20,Die Dolce Vita ist für viele Menschen ein Synonym für das süße Leben.,Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+260,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+261,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,Barista,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+262,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,servierte,9,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+263,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+264,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,Espresso,8,0.0,0.0,0.0,1.0,0.86,0.0,0.14,0.0
+265,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+266,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,einer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+267,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,perfekten,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+268,de,Jargon,de_Jargon,21,Der Barista servierte einen Espresso mit einer perfekten Crema.,Crema,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+269,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+270,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,Sopranistin,11,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+271,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,sang,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+272,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+273,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,Arie,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+274,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+275,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,Verdi,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+276,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+277,de,Jargon,de_Jargon,22,Die Sopranistin sang eine Arie von Verdi mit Leidenschaft.,Leidenschaft,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+278,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Die,3,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+279,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Pizzeria,8,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+280,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",bietet,6,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+281,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",eine,4,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+282,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Vielzahl,8,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+283,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",an,2,1.0,0.0,0.0,0.86,0.0,0.0,0.0,0.14
+284,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Pizzen,6,0.0,0.0,0.14,0.86,0.0,0.0,0.86,0.14
+285,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",darunter,8,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+286,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",auch,4,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+287,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",eine,4,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+288,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Margherita,10,1.0,0.0,0.0,0.86,0.0,0.0,0.0,0.14
+289,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",und,3,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+290,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",eine,4,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+291,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Quattro,7,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+292,de,Jargon,de_Jargon,23,"Die Pizzeria bietet eine Vielzahl an Pizzen, darunter auch eine Margherita und eine Quattro Formaggi.",Formaggi,8,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+293,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+294,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Sommelier,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+295,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,empfahl,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+296,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+297,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Chianti,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+298,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Classico,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+299,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,als,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+300,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Begleitung,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+301,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+302,de,Jargon,de_Jargon,24,Der Sommelier empfahl einen Chianti Classico als Begleitung zur Pasta.,Pasta,5,0.94,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+303,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+304,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Architekt,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+305,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,entwarf,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+306,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+307,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Villa,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+308,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+309,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Stil,4,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+310,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,einer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+311,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,italienischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+312,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Villa,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+313,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+314,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,einer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+315,de,Jargon,de_Jargon,25,Der Architekt entwarf eine Villa im Stil einer italienischen Villa mit einer Loggia.,Loggia,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+316,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+317,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Designer,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+318,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,verwendete,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+319,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,hochwertige,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+320,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Seide,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+321,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+322,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+323,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Abendkleid,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+324,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+325,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Stil,4,0.71,0.0,0.29,1.0,0.0,0.0,0.0,0.0
+326,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,einer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+327,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Gattinoni,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+328,de,Jargon,de_Jargon,26,Der Designer verwendete hochwertige Seide für das Abendkleid im Stil einer Gattinoni-Robe.,Robe,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+329,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+330,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,Maître,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+331,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,d,1,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+332,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,hôtel,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+333,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,führte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+334,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+335,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,Gäste,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+336,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+337,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+338,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,gemütliche,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+339,de,Jargon,de_Jargon,27,Der Maître d'hôtel führte die Gäste in die gemütliche Osteria.,Osteria,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+340,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+341,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,Fotograf,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+342,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,machte,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+343,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,wunderschöne,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+344,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,Aufnahmen,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+345,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+346,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+347,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,römischen,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+348,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,Piazza,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+349,de,Jargon,de_Jargon,28,Der Fotograf machte wunderschöne Aufnahmen von der römischen Piazza Navona.,Navona,6,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+350,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Der,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+351,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Gelato,6,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+352,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Laden,5,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+353,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",bot,3,1.0,0.0,0.0,0.57,0.0,0.0,0.0,0.43
+354,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",eine,4,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+355,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Vielzahl,8,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+356,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",an,2,1.0,0.0,0.0,0.57,0.0,0.0,0.0,0.43
+357,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Gelato,6,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+358,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Sorten,6,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+359,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",wie,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+360,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Pistazie,8,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+361,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Stracciatella,13,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+362,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",und,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+363,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",Zitrone,7,0.0,0.0,0.14,0.57,0.0,0.0,0.86,0.43
+364,de,Jargon,de_Jargon,29,"Der Gelato-Laden bot eine Vielzahl an Gelato-Sorten wie Pistazie, Stracciatella und Zitrone an.",an,2,1.0,0.0,0.0,0.57,0.0,0.0,0.0,0.43

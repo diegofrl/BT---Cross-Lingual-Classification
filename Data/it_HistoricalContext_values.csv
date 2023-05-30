@@ -1,0 +1,533 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",L,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+1,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",aristocrazia,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+2,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",parlava,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+3,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",spesso,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+4,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+5,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+6,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",antico,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+7,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+8,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",linguaggio,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+9,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10,it,HistoricalContext,it_HistoricalContext,0,"L'aristocrazia parlava spesso il francese antico, il linguaggio della chivalry.",chivalry,8,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0
+11,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+12,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,troubadours,11,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+13,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,francesi,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+14,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,diffondevano,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+15,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,poesie,6,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+16,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+17,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,canzoni,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+18,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,d,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+19,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,amore,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+20,it,HistoricalContext,it_HistoricalContext,1,I troubadours francesi diffondevano poesie e canzoni d'amore cortese.,cortese,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,latino,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+23,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+24,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+25,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,lingua,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+26,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,ufficiale,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+27,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+28,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,Chiesa,6,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+29,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+30,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,degli,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,scholars,8,0.43,0.0,0.57,0.0,0.0,0.0,0.0,1.0
+32,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+33,it,HistoricalContext,it_HistoricalContext,2,Il latino era la lingua ufficiale della Chiesa e degli scholars del tempo.,tempo,5,0.0,0.0,0.0,0.0,0.64,0.0,0.36,1.0
+34,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+35,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",feudalità,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+36,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+37,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+38,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",sistema,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+39,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",politico,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+40,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",sociale,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+41,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",ed,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+42,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",economico,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+43,it,HistoricalContext,it_HistoricalContext,3,"La feudalità era il sistema politico, sociale ed economico predominante.",predominante,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+44,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+45,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,castelli,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+46,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+47,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+48,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,simbolo,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+49,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,potere,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+51,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+52,it,HistoricalContext,it_HistoricalContext,4,I castelli erano il simbolo del potere dei nobles.,nobles,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+53,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",In,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+54,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",Germania,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+55,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+56,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",titolo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+57,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+58,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",Kaiser,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+59,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",rappresentava,13,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+60,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+61,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",autorità,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+62,it,HistoricalContext,it_HistoricalContext,5,"In Germania, il titolo di Kaiser rappresentava l'autorità suprema.",suprema,7,0.0,0.0,0.0,0.0,0.91,0.0,0.0,1.0
+63,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",L,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+64,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",arte,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+65,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",gotica,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+66,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",conosciuta,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+67,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",come,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+68,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",Gothik,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+69,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",si,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",sviluppò,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",durante,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+72,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+73,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",tardo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+74,it,HistoricalContext,it_HistoricalContext,6,"L'arte gotica, conosciuta come Gothik, si sviluppò durante il tardo Medioevo.",Medioevo,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+75,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+76,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,Hanseatic,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+77,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,League,6,0.29,0.0,0.0,0.0,0.71,0.0,0.0,1.0
+78,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+79,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+80,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,potente,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+81,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,alleanza,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+82,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,commerciale,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+83,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,tra,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+84,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+85,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,città,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+86,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+87,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,nord,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+88,it,HistoricalContext,it_HistoricalContext,7,Il Hanseatic League era una potente alleanza commerciale tra le città del nord Europa.,Europa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+89,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+90,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,crociate,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+91,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,furono,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+92,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,guerre,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+93,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,sante,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+94,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,combattute,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+95,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,tra,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+96,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,cristiani,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+97,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,ed,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+98,it,HistoricalContext,it_HistoricalContext,8,Le crociate furono guerre sante combattute tra cristiani ed islamici.,islamici,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+99,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+100,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,guilds,6,0.86,0.0,0.0,0.0,0.14,0.0,0.0,1.0
+101,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+102,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,associazioni,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+103,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+104,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,artigiani,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+105,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,che,3,0.29,0.0,0.43,0.0,0.0,0.0,0.29,1.0
+106,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,proteggevano,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+107,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,gli,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+108,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,interessi,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+109,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+110,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,loro,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+111,it,HistoricalContext,it_HistoricalContext,9,Le guilds erano associazioni di artigiani che proteggevano gli interessi dei loro membri.,membri,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+112,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+113,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,peste,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+114,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,nera,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+115,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+116,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+117,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,pandemia,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+118,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,che,3,0.14,0.0,0.29,0.0,0.0,0.0,0.57,1.0
+119,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,colpì,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+120,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+121,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,Europa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+122,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+123,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,XIV,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+124,it,HistoricalContext,it_HistoricalContext,10,La peste nera fu una pandemia che colpì l'Europa nel XIV secolo.,secolo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+125,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+126,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,sistema,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+127,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,manorial,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+128,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,organizzava,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+129,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+130,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,vita,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+131,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,rurale,6,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+132,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+133,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+134,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,terre,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+135,it,HistoricalContext,it_HistoricalContext,11,Il sistema manorial organizzava la vita rurale e le terre coltivate.,coltivate,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+136,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,L,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+137,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,ordine,6,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+138,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+139,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,Teutonic,8,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0
+140,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,Knights,7,0.43,0.0,0.57,0.0,0.0,0.0,0.0,1.0
+141,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+142,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,fondato,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+143,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,durante,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+144,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+145,it,HistoricalContext,it_HistoricalContext,12,L'ordine dei Teutonic Knights fu fondato durante le crociate.,crociate,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+146,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,La,2,0.0,0.0,0.0,0.0,0.91,0.0,0.0,1.0
+147,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,chanson,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+148,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+149,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,geste,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+150,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+151,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+152,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,tipo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+153,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+154,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,poesia,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+155,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,epica,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+156,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+157,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,lingua,6,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+158,it,HistoricalContext,it_HistoricalContext,13,La chanson de geste era un tipo di poesia epica in lingua francese.,francese,8,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+159,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+160,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,Reconquista,11,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0
+161,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+162,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+163,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,processo,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+164,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+165,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,riconquista,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+166,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+167,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,Spagna,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+168,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,dai,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+169,it,HistoricalContext,it_HistoricalContext,14,La Reconquista fu il processo di riconquista della Spagna dai musulmani.,musulmani,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+170,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+171,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,courtly,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+172,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,love,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+173,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,influenzò,9,0.0,0.0,0.71,0.0,0.0,0.0,0.29,1.0
+174,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+175,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,letteratura,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+176,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+177,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+178,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,cultura,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+179,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+180,it,HistoricalContext,it_HistoricalContext,15,Le courtly love influenzò la letteratura e la cultura dell'epoca.,epoca,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+181,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+182,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,trivium,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+183,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+184,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+185,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,quadrivium,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+186,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+187,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,gli,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+188,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,insegnamenti,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+189,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+190,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,delle,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+191,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,scuole,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+192,it,HistoricalContext,it_HistoricalContext,16,Il trivium e il quadrivium erano gli insegnamenti base delle scuole medievali.,medievali,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+193,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+194,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,jousts,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+195,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+196,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,tornei,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+197,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,cavallereschi,13,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+198,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,molto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+199,it,HistoricalContext,it_HistoricalContext,17,Le jousts erano tornei cavallereschi molto popolari.,popolari,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+200,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+201,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,burgher,7,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+202,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,era,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+203,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+204,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,termine,7,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+205,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,usato,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+206,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+207,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,indicare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+208,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,i,1,0.99,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+209,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,cittadini,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+210,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+211,it,HistoricalContext,it_HistoricalContext,18,Il burgher era un termine usato per indicare i cittadini della borghesia.,borghesia,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+212,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+213,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,minnesang,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+214,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,era,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+215,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+216,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,poesia,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+217,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,d,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+218,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,amore,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+219,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+220,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,poeti,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+221,it,HistoricalContext,it_HistoricalContext,19,La minnesang era la poesia d'amore dei poeti tedeschi.,tedeschi,8,0.14,0.0,0.86,0.0,0.0,0.0,0.0,1.0
+222,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+223,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,Black,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+224,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,Prince,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+225,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+226,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+227,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,nobile,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+228,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,inglese,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+229,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,che,3,0.43,0.0,0.29,0.0,0.0,0.0,0.29,1.0
+230,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,combatté,8,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0
+231,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,nella,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+232,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,Guerra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+233,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,dei,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+234,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,Cent,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+235,it,HistoricalContext,it_HistoricalContext,20,Il Black Prince era un nobile inglese che combatté nella Guerra dei Cent'anni.,anni,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+236,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+237,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,morality,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+238,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,plays,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+239,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+240,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,drammi,6,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+241,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,medievali,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+242,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,che,3,0.29,0.0,0.29,0.0,0.0,0.0,0.43,1.0
+243,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,illustravano,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+244,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,lezioni,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+245,it,HistoricalContext,it_HistoricalContext,21,Le morality plays erano drammi medievali che illustravano lezioni morali.,morali,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+246,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+247,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,mendicant,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+248,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,orders,6,0.71,0.0,0.29,0.0,0.0,0.0,0.0,1.0
+249,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+250,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,ordini,6,0.56,0.0,0.0,0.0,0.0,0.0,0.44,1.0
+251,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,religiosi,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+252,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,che,3,0.14,0.0,0.57,0.0,0.0,0.0,0.29,1.0
+253,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,vivevano,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+254,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+255,it,HistoricalContext,it_HistoricalContext,22,I mendicant orders erano ordini religiosi che vivevano di elemosine.,elemosine,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+256,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+257,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,corpus,6,0.67,0.0,0.0,0.0,0.0,0.0,0.33,1.0
+258,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,iuris,5,0.4,0.0,0.6,0.0,0.0,0.0,0.0,1.0
+259,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,civilis,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+260,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+261,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+262,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,raccolta,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+263,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+264,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,leggi,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+265,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+266,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,Impero,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+267,it,HistoricalContext,it_HistoricalContext,23,Il corpus iuris civilis fu una raccolta di leggi dell'Impero Romano.,Romano,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+268,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,La,2,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0
+269,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,Scholastica,11,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+270,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+271,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+272,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,metodo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+273,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+274,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,insegnamento,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+275,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,che,3,0.29,0.0,0.43,0.0,0.0,0.0,0.29,1.0
+276,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,univa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+277,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,filosofia,9,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+278,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+279,it,HistoricalContext,it_HistoricalContext,24,La Scholastica fu un metodo di insegnamento che univa filosofia e teologia.,teologia,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+280,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+281,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,alchemia,8,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+282,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,era,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+283,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+284,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,pratica,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+285,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,mistica,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+286,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+287,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,scientifica,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+288,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+289,it,HistoricalContext,it_HistoricalContext,25,La alchemia era una pratica mistica e scientifica dell'epoca.,epoca,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+290,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+291,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,longbows,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+292,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+293,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,armi,4,0.32,0.0,0.0,0.0,0.0,0.0,0.68,1.0
+294,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,usate,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+295,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,dagli,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+296,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,arcieri,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+297,it,HistoricalContext,it_HistoricalContext,26,I longbows erano armi usate dagli arcieri inglesi.,inglesi,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+298,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+299,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Danse,5,0.0,0.0,0.71,0.0,0.29,0.0,0.0,1.0
+300,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Macabre,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+301,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",era,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+302,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+303,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",arte,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+304,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",che,3,0.29,0.0,0.43,0.0,0.0,0.0,0.29,1.0
+305,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",raffigurava,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+306,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+307,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",mort,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+308,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+309,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Guerre,6,0.0,0.0,0.29,0.0,0.71,0.0,0.0,1.0
+310,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+311,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Cent,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+312,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Ans,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+313,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+314,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+315,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",conflitto,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+316,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",tra,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+317,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Francia,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+318,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+319,it,HistoricalContext,it_HistoricalContext,27,"La Danse Macabre era un'arte che raffigurava la mort
+
+La Guerre de Cent Ans fu un conflitto tra Francia e Inghilterra.",Inghilterra,11,0.54,0.0,0.46,0.0,0.0,0.0,0.0,1.0
+320,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+321,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,chansons,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+322,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+323,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,canzoni,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+324,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,popolari,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+325,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+326,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,cultura,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+327,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+328,it,HistoricalContext,it_HistoricalContext,28,Le chansons erano canzoni popolari della cultura francese medievale.,medievale,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+329,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+330,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,Principality,12,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+331,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,of,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+332,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,Wales,5,0.91,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+333,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+334,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,istituito,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+335,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+336,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,XIII,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+337,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,secolo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+338,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,sotto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+339,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+340,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,controllo,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+341,it,HistoricalContext,it_HistoricalContext,29,Il Principality of Wales fu istituito nel XIII secolo sotto il controllo inglese.,inglese,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+342,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+343,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,Battle,6,0.85,0.0,0.15,0.0,0.0,0.0,0.0,1.0
+344,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,of,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+345,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,Hastings,8,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+346,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+347,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+348,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,evento,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+349,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,cruciale,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+350,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,nella,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+351,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,conquista,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+352,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+353,it,HistoricalContext,it_HistoricalContext,30,Il Battle of Hastings fu un evento cruciale nella conquista dell'Inghilterra.,Inghilterra,11,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+354,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+355,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,illuminations,13,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+356,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+357,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,decorazioni,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+358,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,artistiche,10,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+359,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,nei,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+360,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,manoscritti,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+361,it,HistoricalContext,it_HistoricalContext,31,Le illuminations erano decorazioni artistiche nei manoscritti medievali.,medievali,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+362,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+363,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,Notte,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+364,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+365,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,San,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+366,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,Bartolomeo,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+367,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,fu,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+368,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+369,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,strage,6,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0
+370,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+371,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,protestanti,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+372,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+373,it,HistoricalContext,it_HistoricalContext,32,La Notte di San Bartolomeo fu una strage di protestanti in Francia.,Francia,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+374,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+375,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,Bayeux,6,0.14,0.0,0.0,0.0,0.86,0.0,0.0,1.0
+376,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,Tapestry,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+377,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+378,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+379,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,opera,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+380,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,d,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+381,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,arte,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+382,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,che,3,0.14,0.0,0.29,0.0,0.0,0.0,0.57,1.0
+383,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,narra,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+384,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+385,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,conquista,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+386,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+387,it,HistoricalContext,it_HistoricalContext,33,Il Bayeux Tapestry è un'opera d'arte che narra la conquista dell'Inghilterra.,Inghilterra,11,0.14,0.0,0.14,0.0,0.0,0.0,0.71,1.0
+388,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+389,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,Hanami,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+390,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+391,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+392,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,tradizione,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+393,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,giapponese,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+394,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,che,3,0.14,0.0,0.43,0.0,0.0,0.0,0.43,1.0
+395,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,celebra,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+396,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+397,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,bellezza,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+398,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,dei,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+399,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,fiori,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+400,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+401,it,HistoricalContext,it_HistoricalContext,34,La Hanami è una tradizione giapponese che celebra la bellezza dei fiori di ciliegio.,ciliegio,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+402,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+403,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,Heraldry,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+404,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,era,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+405,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,lo,2,0.0,0.0,0.0,0.0,0.94,0.0,0.0,1.0
+406,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,studio,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+407,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,degli,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+408,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,stemmi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+409,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+410,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,dei,3,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0
+411,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,simboli,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+412,it,HistoricalContext,it_HistoricalContext,35,Il Heraldry era lo studio degli stemmi e dei simboli araldici.,araldici,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+413,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+414,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,Freemen,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+415,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+416,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,persone,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+417,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,che,3,0.29,0.0,0.43,0.0,0.0,0.0,0.29,1.0
+418,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,non,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+419,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+420,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,legate,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+421,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+422,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,sistema,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+423,it,HistoricalContext,it_HistoricalContext,36,I Freemen erano persone che non erano legate al sistema feudale.,feudale,7,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+424,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+425,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,Court,5,0.1,0.0,0.0,0.0,0.9,0.0,0.0,1.0
+426,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,of,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+427,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,Chivalry,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+428,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,era,3,0.0,0.0,0.57,0.0,0.0,0.0,0.43,1.0
+429,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+430,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,tribunale,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+431,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+432,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+433,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,questioni,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+434,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,legate,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+435,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+436,it,HistoricalContext,it_HistoricalContext,37,Il Court of Chivalry era un tribunale per le questioni legate alla cavalleria.,cavalleria,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+437,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+438,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,Codex,5,0.42,0.0,0.0,0.0,0.58,0.0,0.0,1.0
+439,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,Gigas,5,0.71,0.0,0.29,0.0,0.0,0.0,0.0,1.0
+440,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+441,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+442,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,dei,3,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+443,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,più,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+444,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,grandi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+445,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,manoscritti,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+446,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,medievali,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+447,it,HistoricalContext,it_HistoricalContext,38,Il Codex Gigas è uno dei più grandi manoscritti medievali esistenti.,esistenti,9,0.0,0.0,0.71,0.0,0.0,0.0,0.29,1.0
+448,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,La,2,0.0,0.0,0.0,0.0,0.85,0.14,0.15,0.86
+449,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,Battle,6,0.86,0.0,0.14,0.0,0.0,0.14,0.0,0.86
+450,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,of,2,1.0,0.0,0.0,0.0,0.0,0.14,0.0,0.86
+451,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,Crécy,5,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+452,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,fu,2,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+453,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,una,3,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+454,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,delle,5,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+455,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,più,3,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+456,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,importanti,10,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+457,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,battaglie,9,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+458,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,della,5,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+459,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,Guerra,6,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+460,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,dei,3,0.0,0.0,0.14,0.0,0.0,0.14,0.86,0.86
+461,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,Cent,4,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+462,it,HistoricalContext,it_HistoricalContext,39,La Battle of Crécy fu una delle più importanti battaglie della Guerra dei Cent'anni.,anni,4,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+463,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+464,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,Book,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+465,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,of,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+466,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,Kells,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+467,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+468,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+469,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,famoso,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+470,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,manoscritto,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+471,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,irlandese,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+472,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+473,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,elaborati,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+474,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,disegni,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+475,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+476,it,HistoricalContext,it_HistoricalContext,40,Il Book of Kells è un famoso manoscritto irlandese con elaborati disegni e illuminazioni.,illuminazioni,13,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+477,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,Le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+478,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,Wandering,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+479,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,Scholars,8,0.67,0.0,0.33,0.0,0.0,0.0,0.0,1.0
+480,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,erano,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+481,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,intellettuali,13,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+482,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,che,3,0.14,0.0,0.29,0.0,0.0,0.0,0.57,1.0
+483,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,viaggiavano,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+484,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+485,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,diffondevano,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+486,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+487,it,HistoricalContext,it_HistoricalContext,41,Le Wandering Scholars erano intellettuali che viaggiavano e diffondevano la conoscenza.,conoscenza,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0

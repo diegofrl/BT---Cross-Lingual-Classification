@@ -1,0 +1,382 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,Andremo,7,0.14,0.0,0.0,0.0,0.86,0.0,0.0,1.0
+1,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,sull,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+2,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,Autobahn,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+3,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+4,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,raggiungere,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+5,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,più,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+6,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,velocemente,11,0.0,0.0,0.0,0.0,0.46,0.0,0.54,1.0
+7,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+8,it,Jargon,it_Jargon,0,Andremo sull'Autobahn per raggiungere più velocemente la città.,città,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+9,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",In,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+10,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",Germania,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+11,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",si,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+12,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",beve,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+13,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",molta,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+14,it,Jargon,it_Jargon,1,"In Germania, si beve molta Bier.",Bier,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+15,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,Adoro,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+16,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,mangiare,8,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+17,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+18,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,Bratwurst,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+19,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,durante,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+20,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+21,it,Jargon,it_Jargon,2,Adoro mangiare la Bratwurst durante il festival.,festival,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+22,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+23,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+24,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,amico,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+25,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+26,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+27,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,Doppelgänger,12,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+28,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+29,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+30,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,famoso,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31,it,Jargon,it_Jargon,3,Il mio amico è un Doppelgänger di un famoso attore.,attore,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+32,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",Con,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+33,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",questa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+34,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",macchina,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+35,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+36,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",Fahrvergnügen,13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+37,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+38,it,Jargon,it_Jargon,4,"Con questa macchina, il Fahrvergnügen è assicurato.",assicurato,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+39,it,Jargon,it_Jargon,5,Gesundheit!,Gesundheit,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+40,it,Jargon,it_Jargon,6,Mi hai fatto starnutire.,Mi,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+41,it,Jargon,it_Jargon,6,Mi hai fatto starnutire.,hai,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+42,it,Jargon,it_Jargon,6,Mi hai fatto starnutire.,fatto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+43,it,Jargon,it_Jargon,6,Mi hai fatto starnutire.,starnutire,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+44,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+45,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+46,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",cellulare,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+47,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+48,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",Kaputt,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+49,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",devo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",comprarne,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+51,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+52,it,Jargon,it_Jargon,7,"Il mio cellulare è Kaputt, devo comprarne uno nuovo.",nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+53,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+54,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,mia,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+55,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,bambina,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+56,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,inizia,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+57,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+58,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,Kindergarten,12,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+59,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+60,it,Jargon,it_Jargon,8,La mia bambina inizia il Kindergarten a settembre.,settembre,9,0.0,0.0,0.0,0.0,0.57,0.0,0.43,1.0
+61,it,Jargon,it_Jargon,9,Quel souvenir è davvero Kitsch.,Quel,4,0.0,0.0,0.0,0.0,0.29,0.0,0.71,1.0
+62,it,Jargon,it_Jargon,9,Quel souvenir è davvero Kitsch.,souvenir,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+63,it,Jargon,it_Jargon,9,Quel souvenir è davvero Kitsch.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+64,it,Jargon,it_Jargon,9,Quel souvenir è davvero Kitsch.,davvero,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+65,it,Jargon,it_Jargon,9,Quel souvenir è davvero Kitsch.,Kitsch,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+66,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+67,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",perso,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+68,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+69,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+70,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",Kugelschreiber,14,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+71,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",ne,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+72,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",hai,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+73,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+74,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+75,it,Jargon,it_Jargon,10,"Ho perso il mio Kugelschreiber, ne hai uno di scorta?",scorta,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+76,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+77,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,comprato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+78,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+79,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,Rucksack,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+80,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,nuovo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+81,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+82,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+83,it,Jargon,it_Jargon,11,Ho comprato un Rucksack nuovo per il viaggio.,viaggio,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+84,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,Stasera,7,0.43,0.0,0.57,0.0,0.0,0.0,0.0,1.0
+85,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,preparerò,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+86,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+87,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,Schnitzel,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+88,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+89,it,Jargon,it_Jargon,12,Stasera preparerò uno Schnitzel per cena.,cena,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+90,it,Jargon,it_Jargon,13,Questo libro è Über interessante.,Questo,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+91,it,Jargon,it_Jargon,13,Questo libro è Über interessante.,libro,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+92,it,Jargon,it_Jargon,13,Questo libro è Über interessante.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+93,it,Jargon,it_Jargon,13,Questo libro è Über interessante.,Über,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+94,it,Jargon,it_Jargon,13,Questo libro è Über interessante.,interessante,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+95,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+96,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+97,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,sogno,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+98,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+99,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,possedere,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+100,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+101,it,Jargon,it_Jargon,14,Il mio sogno è possedere una Volkswagen.,Volkswagen,10,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+102,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+103,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,vista,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+104,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,dalla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+105,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,montagna,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+106,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+107,it,Jargon,it_Jargon,15,La vista dalla montagna è Wunderbar.,Wunderbar,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+108,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,Lo,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+109,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,Zeitgeist,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+110,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+111,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,oggi,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+112,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,sembra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+113,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,molto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+114,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,diverso,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+115,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,da,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+116,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,quello,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+117,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+118,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,anni,4,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+119,it,Jargon,it_Jargon,16,Lo Zeitgeist di oggi sembra molto diverso da quello di 20 anni fa.,fa,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+120,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,Dormiremo,9,0.59,0.0,0.0,0.0,0.0,0.0,0.41,1.0
+121,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+122,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+123,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,Zelt,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+124,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,durante,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+125,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+126,it,Jargon,it_Jargon,17,Dormiremo in una Zelt durante il campeggio.,campeggio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+127,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,Mi,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+128,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,sento,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+129,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+130,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,Zugzwang,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+131,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,quando,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+132,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,mi,2,0.0,0.0,0.14,0.0,0.0,0.0,0.86,1.0
+133,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,chiedi,6,0.0,0.0,0.43,0.0,0.0,0.0,0.57,1.0
+134,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+135,it,Jargon,it_Jargon,18,Mi sento in Zugzwang quando mi chiedi di scegliere.,scegliere,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+136,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,Il,2,0.0,0.0,0.0,0.29,0.0,0.0,1.0,0.71
+137,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,guerriero,9,0.0,0.0,0.0,0.29,0.74,0.0,0.26,0.71
+138,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,impugnava,9,0.0,0.0,0.0,0.29,0.0,0.0,1.0,0.71
+139,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,un,2,0.0,0.0,0.0,0.29,1.0,0.0,0.0,0.71
+140,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,temibile,8,0.0,0.0,0.0,0.29,0.0,0.0,1.0,0.71
+141,it,Jargon,it_Jargon,19,Il guerriero impugnava un temibile Zweihänder.,Zweihänder,10,0.0,0.0,1.0,0.29,0.0,0.0,0.0,0.71
+142,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+143,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,Schadenfreude,13,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+144,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,non,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+145,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+146,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+147,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,bella,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+148,it,Jargon,it_Jargon,20,La Schadenfreude non è una bella cosa.,cosa,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+149,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,Mia,3,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0
+150,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,sorella,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+151,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,ha,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+152,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,appena,6,0.0,0.0,0.0,0.0,0.51,0.0,0.49,1.0
+153,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,avuto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+154,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+155,it,Jargon,it_Jargon,21,Mia sorella ha appena avuto un Baby.,Baby,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+156,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+157,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,incontrato,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+158,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+159,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,attore,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+160,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+161,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,Backstage,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+162,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+163,it,Jargon,it_Jargon,22,Ho incontrato l'attore nel Backstage del teatro.,teatro,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+164,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+165,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,dimenticato,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+166,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+167,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+168,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,Beauty,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+169,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,case,4,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0
+170,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+171,it,Jargon,it_Jargon,23,Ho dimenticato il mio Beauty case a casa.,casa,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+172,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+173,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,affittato,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+174,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+175,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,garage,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+176,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+177,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+178,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+179,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,Box,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+180,it,Jargon,it_Jargon,24,Ho affittato un garage per il mio Box auto.,auto,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+181,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+182,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,Budget,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+183,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+184,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+185,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,progetto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+186,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+187,it,Jargon,it_Jargon,25,Il Budget per il progetto è limitato.,limitato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+188,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+189,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,Business,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+190,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+191,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+192,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,padre,5,0.0,0.0,0.0,0.0,0.14,0.0,0.86,1.0
+193,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,sta,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+194,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,andando,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+195,it,Jargon,it_Jargon,26,Il Business di mio padre sta andando bene.,bene,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+196,it,Jargon,it_Jargon,27,"Bye-bye, ci vediamo domani.",Bye,3,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71
+197,it,Jargon,it_Jargon,27,"Bye-bye, ci vediamo domani.",bye,3,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71
+198,it,Jargon,it_Jargon,27,"Bye-bye, ci vediamo domani.",ci,2,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71
+199,it,Jargon,it_Jargon,27,"Bye-bye, ci vediamo domani.",vediamo,7,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71
+200,it,Jargon,it_Jargon,27,"Bye-bye, ci vediamo domani.",domani,6,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71
+201,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+202,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,bisogno,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+203,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+204,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,prelevare,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+205,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+206,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,Cash,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+207,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,dal,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+208,it,Jargon,it_Jargon,28,Ho bisogno di prelevare del Cash dal bancomat.,bancomat,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+209,it,Jargon,it_Jargon,29,Quel film era davvero Cool.,Quel,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+210,it,Jargon,it_Jargon,29,Quel film era davvero Cool.,film,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+211,it,Jargon,it_Jargon,29,Quel film era davvero Cool.,era,3,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0
+212,it,Jargon,it_Jargon,29,Quel film era davvero Cool.,davvero,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+213,it,Jargon,it_Jargon,29,Quel film era davvero Cool.,Cool,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+214,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+215,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,Design,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+216,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+217,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,questa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+218,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,sedia,5,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+219,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+220,it,Jargon,it_Jargon,30,Il Design di questa sedia è moderno.,moderno,7,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+221,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,Questa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+222,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,canzone,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+223,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+224,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+225,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,vero,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+226,it,Jargon,it_Jargon,31,Questa canzone è un vero Evergreen.,Evergreen,9,0.71,0.0,0.29,0.0,0.0,0.0,0.0,1.0
+227,it,Jargon,it_Jargon,32,Quella borsa sembra un Fake.,Quella,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+228,it,Jargon,it_Jargon,32,Quella borsa sembra un Fake.,borsa,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+229,it,Jargon,it_Jargon,32,Quella borsa sembra un Fake.,sembra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+230,it,Jargon,it_Jargon,32,Quella borsa sembra un Fake.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+231,it,Jargon,it_Jargon,32,Quella borsa sembra un Fake.,Fake,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+232,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+233,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,settimana,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+234,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,della,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+235,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,moda,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+236,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+237,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+238,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,evento,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+239,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,Fashion,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+240,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+241,it,Jargon,it_Jargon,33,La settimana della moda è l'evento Fashion dell'anno.,anno,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+242,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,Mi,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+243,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,dai,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+244,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+245,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,Feedback,8,0.86,0.0,0.14,0.0,0.0,0.0,0.0,1.0
+246,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,sul,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+247,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+248,it,Jargon,it_Jargon,34,Mi dai un Feedback sul mio lavoro?,lavoro,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+249,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",Devo,4,0.0,0.14,1.0,0.0,0.0,0.0,0.0,0.86
+250,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",tornare,7,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86
+251,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",in,2,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86
+252,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",forma,5,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86
+253,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",mi,2,0.0,0.14,0.14,0.0,0.0,0.0,0.86,0.86
+254,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",iscriverò,9,0.29,0.14,0.0,0.0,0.0,0.0,0.71,0.86
+255,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",in,2,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86
+256,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",palestra,8,0.0,0.14,0.0,0.0,1.0,0.0,0.0,0.86
+257,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",per,3,0.0,0.14,0.0,0.0,0.0,0.0,1.0,0.86
+258,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",fare,4,0.0,0.14,0.0,0.0,0.0,0.0,1.0,0.86
+259,it,Jargon,it_Jargon,35,"Devo tornare in forma, mi iscriverò in palestra per fare Fitness.",Fitness,7,0.0,0.14,1.0,0.0,0.0,0.0,0.0,0.86
+260,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+261,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,Food,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+262,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,truck,5,0.86,0.0,0.14,0.0,0.0,0.0,0.0,1.0
+263,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,vende,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+264,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,cibo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+265,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+266,it,Jargon,it_Jargon,36,Il Food truck vende cibo di strada.,strada,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+267,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+268,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,ricevuto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+269,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+270,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,Gadget,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+271,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,come,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+272,it,Jargon,it_Jargon,37,Ho ricevuto un Gadget come omaggio.,omaggio,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+273,it,Jargon,it_Jargon,38,Ha segnato un Goal spettacolare.,Ha,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+274,it,Jargon,it_Jargon,38,Ha segnato un Goal spettacolare.,segnato,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+275,it,Jargon,it_Jargon,38,Ha segnato un Goal spettacolare.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+276,it,Jargon,it_Jargon,38,Ha segnato un Goal spettacolare.,Goal,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+277,it,Jargon,it_Jargon,38,Ha segnato un Goal spettacolare.,spettacolare,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+278,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+279,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+280,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,Hobby,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+281,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+282,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+283,it,Jargon,it_Jargon,39,Il mio Hobby è la fotografia.,fotografia,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+284,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+285,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,Jet,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+286,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,set,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+287,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,ama,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+288,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,trascorrere,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+289,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+290,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,vacanze,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+291,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+292,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,località,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+293,it,Jargon,it_Jargon,40,La Jet set ama trascorrere le vacanze in località esclusive.,esclusive,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+294,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,Ordinerò,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+295,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+296,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,mio,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+297,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+298,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,À,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+299,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+300,it,Jargon,it_Jargon,41,Ordinerò il mio piatto À la carte.,carte,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+301,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",Dopo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+302,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+303,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",giornata,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+304,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+305,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",sci,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+306,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",ci,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+307,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",rilassiamo,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+308,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",nell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+309,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",Après,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+310,it,Jargon,it_Jargon,42,"Dopo una giornata di sci, ci rilassiamo nell'Après-ski.",ski,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+311,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,Non,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+312,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,dimenticare,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+313,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+314,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,comprare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+315,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+316,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,Baguette,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+317,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+318,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+319,it,Jargon,it_Jargon,43,Non dimenticare di comprare la Baguette per la cena.,cena,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+320,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+321,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,trovato,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+322,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+323,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,tesoro,6,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+324,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,nel,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+325,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,Bric,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+326,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,à,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+327,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,brac,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+328,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+329,it,Jargon,it_Jargon,44,Ho trovato un tesoro nel Bric-à-brac del mercatino.,mercatino,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+330,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,Stasera,7,0.57,0.0,0.43,0.0,0.0,0.0,0.0,1.0
+331,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,andiamo,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+332,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+333,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,vedere,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+334,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,uno,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+335,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,spettacolo,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+336,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+337,it,Jargon,it_Jargon,45,Stasera andiamo a vedere uno spettacolo di Cabaret.,Cabaret,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+338,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,Quel,4,0.0,0.0,0.0,0.0,0.14,0.29,0.86,0.71
+339,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,film,4,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+340,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,si,2,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+341,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,basa,4,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+342,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,su,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+343,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,un,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+344,it,Jargon,it_Jargon,46,Quel film si basa su un Cliché.,Cliché,6,0.0,0.0,0.43,0.0,0.57,0.29,0.0,0.71
+345,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+346,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+347,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,appuntamento,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+348,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,dal,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+349,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,Coiffeur,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+350,it,Jargon,it_Jargon,47,Ho un appuntamento dal Coiffeur domani.,domani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+351,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,Ordinerò,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+352,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+353,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,Crème,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+354,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,brûlée,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+355,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,come,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+356,it,Jargon,it_Jargon,48,Ordinerò la Crème brûlée come dessert.,dessert,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+357,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+358,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,avuto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+359,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+360,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,forte,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+361,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,Déjà,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+362,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,vu,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+363,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,entrando,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+364,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+365,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,questa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+366,it,Jargon,it_Jargon,49,Ho avuto un forte Déjà vu entrando in questa stanza.,stanza,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+367,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,Ho,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+368,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,conosciuto,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+369,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+370,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,persona,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+371,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,interessante,12,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+372,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,En,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+373,it,Jargon,it_Jargon,50,Ho conosciuto una persona interessante En passant.,passant,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+374,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+375,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,ballerino,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+376,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,ha,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+377,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,eseguito,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+378,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+379,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,perfetto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+380,it,Jargon,it_Jargon,51,Il ballerino ha eseguito un perfetto Entrechat.,Entrechat,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0

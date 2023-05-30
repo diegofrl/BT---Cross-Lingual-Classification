@@ -1,0 +1,238 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",No,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+1,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",problem,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+2,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",ich,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+3,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",kann,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+4,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+5,de,Expressions,de_Expressions,0,"No problem, ich kann das erledigen.",erledigen,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+6,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,Das,3,0.0,0.0,1.0,0.71,0.0,0.14,0.0,0.14
+7,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,neue,4,0.0,0.0,0.0,0.71,0.86,0.14,0.14,0.14
+8,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,Auto,4,0.0,0.0,1.0,0.71,0.0,0.14,0.0,0.14
+9,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,von,3,0.0,0.0,1.0,0.71,0.0,0.14,0.0,0.14
+10,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,Lisa,4,0.0,0.0,0.71,0.71,0.29,0.14,0.0,0.14
+11,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,ist,3,0.0,0.0,1.0,0.71,0.0,0.14,0.0,0.14
+12,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,echt,4,0.0,0.0,1.0,0.71,0.0,0.14,0.0,0.14
+13,de,Expressions,de_Expressions,1,Das neue Auto von Lisa ist echt cool!,cool,4,0.57,0.0,0.0,0.71,0.0,0.14,0.43,0.14
+14,de,Expressions,de_Expressions,2,"Bye-bye, bis später!",Bye,3,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0
+15,de,Expressions,de_Expressions,2,"Bye-bye, bis später!",bye,3,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0
+16,de,Expressions,de_Expressions,2,"Bye-bye, bis später!",bis,3,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+17,de,Expressions,de_Expressions,2,"Bye-bye, bis später!",später,6,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+18,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",Okay,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+19,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",wir,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+20,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",treffen,7,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+21,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",uns,3,0.0,0.0,0.29,1.0,0.71,0.0,0.0,0.0
+22,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",um,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+23,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",acht,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+24,de,Expressions,de_Expressions,3,"Okay, wir treffen uns um acht Uhr.",Uhr,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+25,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",Sorry,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+26,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",dass,4,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+27,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",ich,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+28,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+29,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",spät,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+30,de,Expressions,de_Expressions,4,"Sorry, dass ich zu spät bin.",bin,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+31,de,Expressions,de_Expressions,5,Vielen Dank für das Geschenk!,Vielen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+32,de,Expressions,de_Expressions,5,Vielen Dank für das Geschenk!,Dank,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+33,de,Expressions,de_Expressions,5,Vielen Dank für das Geschenk!,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+34,de,Expressions,de_Expressions,5,Vielen Dank für das Geschenk!,das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+35,de,Expressions,de_Expressions,5,Vielen Dank für das Geschenk!,Geschenk,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+36,de,Expressions,de_Expressions,6,Viel Glück bei deinem Vorstellungsgespräch!,Viel,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+37,de,Expressions,de_Expressions,6,Viel Glück bei deinem Vorstellungsgespräch!,Glück,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+38,de,Expressions,de_Expressions,6,Viel Glück bei deinem Vorstellungsgespräch!,bei,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+39,de,Expressions,de_Expressions,6,Viel Glück bei deinem Vorstellungsgespräch!,deinem,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+40,de,Expressions,de_Expressions,6,Viel Glück bei deinem Vorstellungsgespräch!,Vorstellungsgespräch,20,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+41,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,Take,4,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+42,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,it,2,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+43,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,easy,4,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+44,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,und,3,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+45,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,entspann,8,0.0,0.14,0.0,0.86,1.0,0.0,0.0,0.0
+46,de,Expressions,de_Expressions,7,Take it easy und entspann dich.,dich,4,0.0,0.14,0.0,0.86,0.0,0.0,1.0,0.0
+47,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,Break,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+48,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,a,1,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+49,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,leg,3,0.0,0.0,0.0,1.0,0.29,0.0,0.71,0.0
+50,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,bei,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+51,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,deinem,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+52,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,Auftritt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+53,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,heute,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+54,de,Expressions,de_Expressions,8,Break a leg bei deinem Auftritt heute Abend!,Abend,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+55,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",Kannst,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+56,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",du,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+57,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",bitte,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+58,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+59,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+60,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",Tasche,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+61,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",aufpassen,9,0.0,0.0,0.86,1.0,0.14,0.0,0.0,0.0
+62,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",während,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+63,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",ich,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+64,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",kurz,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+65,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",weg,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+66,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",bin,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+67,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",Au,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+68,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",revoir,6,0.0,0.0,0.0,1.0,0.86,0.0,0.14,0.0
+69,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+70,de,Expressions,de_Expressions,9,"Kannst du bitte auf meine Tasche aufpassen, während ich kurz weg bin
+
+Au revoir, bis später!",später,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+71,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,Das,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+72,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,war,3,1.0,0.0,0.0,0.71,0.0,0.29,0.0,0.0
+73,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,eine,4,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+74,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,soirée,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+75,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,très,4,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+76,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,chic,4,1.0,0.0,0.0,0.71,0.0,0.29,0.0,0.0
+77,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,gestern,7,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+78,de,Expressions,de_Expressions,10,Das war eine soirée très chic gestern Abend.,Abend,5,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+79,de,Expressions,de_Expressions,11,Merci beaucoup für deine Hilfe!,Merci,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+80,de,Expressions,de_Expressions,11,Merci beaucoup für deine Hilfe!,beaucoup,8,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+81,de,Expressions,de_Expressions,11,Merci beaucoup für deine Hilfe!,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+82,de,Expressions,de_Expressions,11,Merci beaucoup für deine Hilfe!,deine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+83,de,Expressions,de_Expressions,11,Merci beaucoup für deine Hilfe!,Hilfe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+84,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",C,1,1.0,0.0,0.0,0.57,0.0,0.43,0.0,0.0
+85,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",est,3,0.0,0.0,0.0,0.57,1.0,0.43,0.0,0.0
+86,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",la,2,0.0,0.0,0.0,0.57,1.0,0.43,0.0,0.0
+87,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",vie,3,0.0,0.0,0.0,0.57,1.0,0.43,0.0,0.0
+88,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",manchmal,8,0.97,0.0,0.0,0.57,0.0,0.43,0.0,0.0
+89,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",muss,4,0.0,0.0,0.0,0.57,1.0,0.43,0.0,0.0
+90,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",man,3,0.63,0.0,0.0,0.57,0.0,0.43,0.37,0.0
+91,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",Kompromisse,11,1.0,0.0,0.0,0.57,0.0,0.43,0.0,0.0
+92,de,Expressions,de_Expressions,12,"C'est la vie, manchmal muss man Kompromisse eingehen.",eingehen,8,0.0,0.0,1.0,0.57,0.0,0.43,0.0,0.0
+93,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",Bitte,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+94,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",mon,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+95,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",ami,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+96,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",mach,4,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+97,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",dir,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+98,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",keine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+99,de,Expressions,de_Expressions,13,"Bitte, mon ami, mach dir keine Sorgen.",Sorgen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+100,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+101,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,Essen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+102,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+103,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,französischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+104,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,Bistro,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+105,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,war,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+106,de,Expressions,de_Expressions,14,Das Essen im französischen Bistro war délicieux.,délicieux,9,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+107,de,Expressions,de_Expressions,15,Chapeau!,Chapeau,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+108,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,Du,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+109,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,hast,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+110,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,das,3,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+111,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,wirklich,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+112,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,gut,3,0.0,0.0,0.0,1.0,0.83,0.0,0.17,0.0
+113,de,Expressions,de_Expressions,16,Du hast das wirklich gut gemacht.,gemacht,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+114,de,Expressions,de_Expressions,17,"Pardon, ich habe mich vertan.",Pardon,6,0.0,0.0,0.0,1.0,0.14,0.0,0.86,0.0
+115,de,Expressions,de_Expressions,17,"Pardon, ich habe mich vertan.",ich,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+116,de,Expressions,de_Expressions,17,"Pardon, ich habe mich vertan.",habe,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+117,de,Expressions,de_Expressions,17,"Pardon, ich habe mich vertan.",mich,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+118,de,Expressions,de_Expressions,17,"Pardon, ich habe mich vertan.",vertan,6,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+119,de,Expressions,de_Expressions,18,Vive la différence!,Vive,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+120,de,Expressions,de_Expressions,18,Vive la différence!,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+121,de,Expressions,de_Expressions,18,Vive la différence!,différence,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+122,de,Expressions,de_Expressions,19,Jeder ist einzigartig.,Jeder,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+123,de,Expressions,de_Expressions,19,Jeder ist einzigartig.,ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+124,de,Expressions,de_Expressions,19,Jeder ist einzigartig.,einzigartig,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+125,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",Fait,4,0.0,0.29,0.14,0.71,0.86,0.0,0.0,0.0
+126,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",accompli,8,0.0,0.29,0.0,0.71,0.0,0.0,1.0,0.0
+127,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",es,2,0.0,0.29,0.0,0.71,1.0,0.0,0.0,0.0
+128,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",ist,3,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+129,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",bereits,7,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+130,de,Expressions,de_Expressions,20,"Fait accompli, es ist bereits erledigt.",erledigt,8,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+131,de,Expressions,de_Expressions,21,"Ciao, wie geht's?",Ciao,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+132,de,Expressions,de_Expressions,21,"Ciao, wie geht's?",wie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+133,de,Expressions,de_Expressions,21,"Ciao, wie geht's?",geht,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+134,de,Expressions,de_Expressions,21,"Ciao, wie geht's?",s,1,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+135,de,Expressions,de_Expressions,22,Grazie mille für deine Hilfe!,Grazie,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+136,de,Expressions,de_Expressions,22,Grazie mille für deine Hilfe!,mille,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+137,de,Expressions,de_Expressions,22,Grazie mille für deine Hilfe!,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+138,de,Expressions,de_Expressions,22,Grazie mille für deine Hilfe!,deine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+139,de,Expressions,de_Expressions,22,Grazie mille für deine Hilfe!,Hilfe,5,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+140,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",La,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+141,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",dolce,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+142,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",vita,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+143,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+144,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",süße,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+145,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+146,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+147,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",Italien,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+148,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+149,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",wirklich,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+150,de,Expressions,de_Expressions,23,"La dolce vita, das süße Leben in Italien, ist wirklich verlockend.",verlockend,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+151,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",Mi,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+152,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",dispiace,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+153,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",dass,4,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+154,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",ich,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+155,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+156,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",spät,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+157,de,Expressions,de_Expressions,24,"Mi dispiace, dass ich zu spät komme.",komme,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+158,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",Per,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+159,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",favore,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+160,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",kannst,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+161,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",du,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+162,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",mir,3,0.0,0.0,0.56,1.0,0.44,0.0,0.0,0.0
+163,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+164,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",Zucker,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+165,de,Expressions,de_Expressions,25,"Per favore, kannst du mir den Zucker geben?",geben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+166,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,In,2,1.0,0.0,0.0,0.71,0.0,0.0,0.0,0.29
+167,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,bocca,5,0.57,0.0,0.0,0.71,0.0,0.0,0.43,0.29
+168,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,al,2,0.0,0.0,0.0,0.71,0.0,0.0,1.0,0.29
+169,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,lupo,4,0.0,0.0,0.0,0.71,0.0,0.0,1.0,0.29
+170,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,für,3,0.0,0.0,1.0,0.71,0.0,0.0,0.0,0.29
+171,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,deine,5,0.0,0.0,1.0,0.71,0.0,0.0,0.0,0.29
+172,de,Expressions,de_Expressions,26,In bocca al lupo für deine Prüfung!,Prüfung,7,0.0,0.0,1.0,0.71,0.0,0.0,0.0,0.29
+173,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",Va,2,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+174,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",bene,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+175,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",lass,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+176,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",uns,3,0.0,0.0,0.71,1.0,0.29,0.0,0.0,0.0
+177,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+178,de,Expressions,de_Expressions,27,"Va bene, lass uns das machen.",machen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+179,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,Famiglia,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+180,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+181,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,das,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+182,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,Wichtigste,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+183,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+184,de,Expressions,de_Expressions,28,Famiglia ist das Wichtigste im Leben.,Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+185,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",Mamma,5,0.19,0.0,0.0,0.86,0.13,0.0,0.68,0.14
+186,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",mia,3,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+187,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",das,3,0.0,0.0,0.29,0.86,0.0,0.0,0.71,0.14
+188,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",Essen,5,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+189,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",in,2,1.0,0.0,0.0,0.86,0.0,0.0,0.0,0.14
+190,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",dem,3,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+191,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",italienischen,13,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+192,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",Restaurant,10,0.0,0.0,0.0,0.86,1.0,0.0,0.0,0.14
+193,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",war,3,1.0,0.0,0.0,0.86,0.0,0.0,0.0,0.14
+194,de,Expressions,de_Expressions,29,"Mamma mia, das Essen in dem italienischen Restaurant war fantastico!",fantastico,10,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+195,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",A,1,1.0,0.0,0.0,0.14,0.0,0.86,0.0,0.0
+196,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",proposito,9,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+197,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",hast,4,1.0,0.0,0.0,0.14,0.0,0.86,0.0,0.0
+198,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",du,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+199,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",die,3,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+200,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",neueste,7,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+201,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",Mode,4,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+202,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",aus,3,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+203,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",Italien,7,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+204,de,Expressions,de_Expressions,30,"A proposito, hast du die neueste Mode aus Italien gesehen?",gesehen,7,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0

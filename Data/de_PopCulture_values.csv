@@ -1,0 +1,1000 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",Die,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+1,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",Mode,4,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+2,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",dieser,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+3,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",Saison,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+4,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",ist,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+5,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",vraiment,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+6,de,PopCulture,de_PopCulture,0,"""Die Mode dieser Saison ist vraiment magnifique!",magnifique,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+7,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,Ich,3,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+8,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+9,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+10,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,französischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+11,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,Einflüsse,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+12,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,in,2,0.98,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+13,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+14,de,PopCulture,de_PopCulture,1,Ich liebe die französischen Einflüsse in den Designs.,Designs,7,0.0,0.0,0.86,1.0,0.14,0.0,0.0,0.0
+15,de,PopCulture,de_PopCulture,2,"#Mode #Trendy""
+
+""Bon Appétit!",Mode,4,0.0,0.14,1.0,0.0,0.0,0.86,0.0,0.0
+16,de,PopCulture,de_PopCulture,2,"#Mode #Trendy""
+
+""Bon Appétit!",Trendy,6,0.86,0.14,0.14,0.0,0.0,0.86,0.0,0.0
+17,de,PopCulture,de_PopCulture,2,"#Mode #Trendy""
+
+""Bon Appétit!",Bon,3,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+18,de,PopCulture,de_PopCulture,2,"#Mode #Trendy""
+
+""Bon Appétit!",Appétit,7,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+19,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,Heute,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+20,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,gibt,4,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+21,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+22,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+23,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,délicieuse,10,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+24,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,Quiche,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+25,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,zum,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+26,de,PopCulture,de_PopCulture,3,Heute gibt es eine délicieuse Quiche zum Abendessen.,Abendessen,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+27,de,PopCulture,de_PopCulture,4,"#Gourmet #Französischeküche""
+
+""Paris, mon amour!",Gourmet,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+28,de,PopCulture,de_PopCulture,4,"#Gourmet #Französischeküche""
+
+""Paris, mon amour!",Französischeküche,17,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+29,de,PopCulture,de_PopCulture,4,"#Gourmet #Französischeküche""
+
+""Paris, mon amour!",Paris,5,0.0,0.0,0.0,1.0,0.92,0.0,0.0,0.0
+30,de,PopCulture,de_PopCulture,4,"#Gourmet #Französischeküche""
+
+""Paris, mon amour!",mon,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+31,de,PopCulture,de_PopCulture,4,"#Gourmet #Französischeküche""
+
+""Paris, mon amour!",amour,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+32,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,Ich,3,0.14,0.14,0.86,0.86,0.0,0.0,0.0,0.0
+33,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,vermisse,8,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+34,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,diese,5,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+35,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,romantische,11,0.14,0.14,0.86,0.86,0.0,0.0,0.0,0.0
+36,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,Stadt,5,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+37,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,so,2,0.0,0.14,0.0,0.86,0.15,0.0,0.85,0.0
+38,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,très,4,0.0,0.14,0.0,0.86,1.0,0.0,0.0,0.0
+39,de,PopCulture,de_PopCulture,5,Ich vermisse diese romantische Stadt so très beaucoup.,beaucoup,8,0.14,0.14,0.0,0.86,0.86,0.0,0.0,0.0
+40,de,PopCulture,de_PopCulture,6,"#Reiselust #Städtereise""
+
+""Bonjour mes amis!",Reiselust,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+41,de,PopCulture,de_PopCulture,6,"#Reiselust #Städtereise""
+
+""Bonjour mes amis!",Städtereise,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+42,de,PopCulture,de_PopCulture,6,"#Reiselust #Städtereise""
+
+""Bonjour mes amis!",Bonjour,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+43,de,PopCulture,de_PopCulture,6,"#Reiselust #Städtereise""
+
+""Bonjour mes amis!",mes,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+44,de,PopCulture,de_PopCulture,6,"#Reiselust #Städtereise""
+
+""Bonjour mes amis!",amis,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+45,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,Ich,3,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+46,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,wünsche,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+47,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,euch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+48,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+49,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,fantastischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+50,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,Tag,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+51,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,voller,6,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+52,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,joie,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+53,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+54,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,vivre,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+55,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+56,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,positiver,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+57,de,PopCulture,de_PopCulture,7,Ich wünsche euch einen fantastischen Tag voller joie de vivre und positiver Energie.,Energie,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+58,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",Französisch,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+59,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",Lebensfreude,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+60,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+61,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",Kunstausstellung,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+62,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+63,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",Museum,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+64,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+65,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",absolut,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+66,de,PopCulture,de_PopCulture,8,"#Französisch #Lebensfreude""
+
+""Die Kunstausstellung im Museum ist absolut fascinant!",fascinant,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+67,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+68,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,Werke,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+69,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+70,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,französischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+71,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,Künstler,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+72,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,sind,4,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+73,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+74,de,PopCulture,de_PopCulture,9,Die Werke der französischen Künstler sind einfach beeindruckend.,beeindruckend,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+75,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",Kunst,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+76,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",Kultur,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+77,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",Heute,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+78,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",Abend,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+79,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",wird,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+80,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+81,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+82,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",glamouröse,10,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+83,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",soirée,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+84,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",geben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+85,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",bei,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+86,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+87,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",wir,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+88,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",uns,3,0.0,0.0,0.14,1.0,0.86,0.0,0.0,0.0
+89,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",chic,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+90,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",kleiden,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+91,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+92,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",den,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+93,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",Abend,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+94,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",à,1,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+95,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+96,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",française,9,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+97,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",genießen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+98,de,PopCulture,de_PopCulture,10,"#Kunst #Kultur""
+
+""Heute Abend wird es eine glamouröse soirée geben, bei der wir uns chic kleiden und den Abend à la française genießen werden.",werden,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+99,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Party,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+100,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Stilvoll,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+101,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+102,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",neue,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+103,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",französische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+104,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Bistro,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+105,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+106,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+107,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Stadt,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+108,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+109,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+110,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",kulinarischer,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+111,de,PopCulture,de_PopCulture,11,"#Party #Stilvoll""
+
+""Das neue französische Bistro in der Stadt ist ein kulinarischer Geheimtipp.",Geheimtipp,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+112,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,Die,3,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+113,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,Croissants,10,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+114,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,dort,4,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+115,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,sind,4,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+116,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,einfach,7,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+117,de,PopCulture,de_PopCulture,12,Die Croissants dort sind einfach fantastique!,fantastique,11,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+118,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",Gastronomie,11,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+119,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",Genuss,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+120,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+121,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",französische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+122,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",Sprache,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+123,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",klingt,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+124,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",so,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+125,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",mélodique,9,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+126,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+127,de,PopCulture,de_PopCulture,13,"#Gastronomie #Genuss""
+
+""Die französische Sprache klingt so mélodique und elegant.",elegant,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+128,de,PopCulture,de_PopCulture,14,J'adore!,J,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+129,de,PopCulture,de_PopCulture,14,J'adore!,adore,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+130,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Sprachen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+131,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Französisch,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+132,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+133,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Modeikonen,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+134,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",aus,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+135,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Paris,5,0.17,0.0,0.0,1.0,0.83,0.0,0.0,0.0
+136,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",setzen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+137,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",immer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+138,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",wieder,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+139,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",neue,4,0.0,0.0,0.0,1.0,0.86,0.0,0.14,0.0
+140,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Trends,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+141,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+142,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",inspirieren,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+143,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+144,de,PopCulture,de_PopCulture,15,"#Sprachen #Französisch""
+
+""Die Modeikonen aus Paris setzen immer wieder neue Trends und inspirieren die Modewelt.",Modewelt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+145,de,PopCulture,de_PopCulture,16,Très chic!,Très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+146,de,PopCulture,de_PopCulture,16,Très chic!,chic,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+147,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",Fashion,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+148,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",Trendsetter,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+149,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",Guten,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+150,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",Morgen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+151,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+152,de,PopCulture,de_PopCulture,17,"#Fashion #Trendsetter""
+
+
+
+""Guten Morgen, meine Lieben!",Lieben,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+153,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,Time,4,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0
+154,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,some,4,0.34,1.0,0.0,0.0,0.0,0.0,0.66,0.0
+156,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,coffee,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+158,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,morning,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,de,PopCulture,de_PopCulture,18,Time for some coffee and morning vibes.,vibes,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+160,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",Morgenroutine,13,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+161,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",Kaffeeliebe,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+162,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",Der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+163,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",neue,4,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+164,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",Fitness,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+165,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",Trend,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+166,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+167,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+168,de,PopCulture,de_PopCulture,19,"☕️✨ #Morgenroutine #Kaffeeliebe""
+
+""Der neue Fitness-Trend ist einfach amazing!",amazing,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+169,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",Ich,3,0.29,0.0,0.71,1.0,0.0,0.0,0.0,0.0
+170,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+171,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+172,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+173,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",Workouts,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+174,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+175,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",variieren,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+176,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+177,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",Neues,5,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+178,de,PopCulture,de_PopCulture,20,"Ich liebe es, meine Workouts zu variieren und Neues auszuprobieren.",auszuprobieren,14,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+179,de,PopCulture,de_PopCulture,21,"#FitFam #FitnessGoals""
+
+""TGIF!",FitFam,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+180,de,PopCulture,de_PopCulture,21,"#FitFam #FitnessGoals""
+
+""TGIF!",FitnessGoals,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+181,de,PopCulture,de_PopCulture,21,"#FitFam #FitnessGoals""
+
+""TGIF!",TGIF,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+182,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",Endlich,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+183,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+184,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+185,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",wieder,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+186,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",Friyay,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+187,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+188,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",Zeit,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+189,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",das,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+190,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",Wochenende,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+191,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+192,de,PopCulture,de_PopCulture,22,"Endlich ist es wieder Friyay und Zeit, das Wochenende zu genießen.",genießen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+193,de,PopCulture,de_PopCulture,23,Was habt ihr geplant?,Was,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+194,de,PopCulture,de_PopCulture,23,Was habt ihr geplant?,habt,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+195,de,PopCulture,de_PopCulture,23,Was habt ihr geplant?,ihr,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+196,de,PopCulture,de_PopCulture,23,Was habt ihr geplant?,geplant,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+197,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",Wochenende,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+198,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",Entspannung,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+199,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",Back,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+200,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",to,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+201,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",work,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+202,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",nach,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+203,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",einem,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+204,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",erholsamen,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+205,de,PopCulture,de_PopCulture,24,"#Wochenende #Entspannung""
+
+""Back to work nach einem erholsamen Urlaub.",Urlaub,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+206,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,Time,4,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0
+207,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,to,2,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0
+208,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,get,3,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+209,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,things,6,1.0,0.43,0.0,0.57,0.0,0.0,0.0,0.0
+210,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,done,4,0.0,0.43,0.0,0.57,0.0,0.0,1.0,0.0
+211,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,und,3,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+212,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,produktiv,9,0.12,0.43,0.29,0.57,0.0,0.0,0.59,0.0
+213,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,zu,2,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+214,de,PopCulture,de_PopCulture,25,Time to get things done und produktiv zu sein.,sein,4,0.0,0.43,1.0,0.57,0.0,0.0,0.0,0.0
+215,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",Arbeit,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+216,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",Effizienz,9,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+217,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",Habe,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+218,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",gerade,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+219,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+220,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",tolles,6,0.14,0.0,0.0,1.0,0.0,0.0,0.86,0.0
+221,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",Buch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+222,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",beendet,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+223,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+224,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",bin,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+225,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",immer,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+226,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",noch,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+227,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",geflasht,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+228,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+229,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+230,de,PopCulture,de_PopCulture,26,"#Arbeit #Effizienz""
+
+""Habe gerade ein tolles Buch beendet und bin immer noch geflasht von der story.",story,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+231,de,PopCulture,de_PopCulture,27,Es ist so inspirierend!,Es,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+232,de,PopCulture,de_PopCulture,27,Es ist so inspirierend!,ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+233,de,PopCulture,de_PopCulture,27,Es ist so inspirierend!,so,2,0.0,0.0,0.0,1.0,0.13,0.0,0.87,0.0
+234,de,PopCulture,de_PopCulture,27,Es ist so inspirierend!,inspirierend,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+235,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Bücherliebe,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+236,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Leseratte,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+237,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Ich,3,0.29,0.0,0.71,1.0,0.0,0.0,0.0,0.0
+238,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+239,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+240,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+241,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",kreative,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+242,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Seite,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+243,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",auszuleben,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+244,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+245,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",beim,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+246,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Malen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+247,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+248,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",Gedanken,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+249,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",schweifen,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+250,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+251,de,PopCulture,de_PopCulture,28,"#Bücherliebe #Leseratte""
+
+""Ich liebe es, meine kreative Seite auszuleben und beim Malen meine Gedanken schweifen zu lassen.",lassen,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+252,de,PopCulture,de_PopCulture,29,Art is my passion!,Art,3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+253,de,PopCulture,de_PopCulture,29,Art is my passion!,is,2,0.0,1.0,0.94,0.0,0.0,0.0,0.0,0.0
+254,de,PopCulture,de_PopCulture,29,Art is my passion!,my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,de,PopCulture,de_PopCulture,29,Art is my passion!,passion,7,0.0,1.0,0.0,0.0,0.0,0.0,0.98,0.0
+256,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",Kreativität,11,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+257,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",Malen,5,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+258,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",Girls,5,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+259,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",night,5,1.0,0.29,0.0,0.71,0.0,0.0,0.0,0.0
+260,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",out,3,0.0,0.29,0.0,0.71,1.0,0.0,0.0,0.0
+261,de,PopCulture,de_PopCulture,30,"🎨✨ #Kreativität #Malen""
+
+""Girls' night out heute!",heute,5,0.0,0.29,1.0,0.71,0.0,0.0,0.0,0.0
+262,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,Wir,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+263,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,werden,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+264,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,uns,3,0.0,0.0,0.15,1.0,0.85,0.0,0.0,0.0
+265,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,schick,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+266,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,machen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+267,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+268,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+269,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,City,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+270,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,unsicher,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+271,de,PopCulture,de_PopCulture,31,Wir werden uns schick machen und die City unsicher machen.,machen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+272,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",Freunde,7,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+273,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",Partytime,9,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+274,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",Der,3,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+275,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",Sonnenuntergang,15,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+276,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",am,2,0.0,0.14,0.0,0.86,0.0,0.0,1.0,0.0
+277,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",Strand,6,0.0,0.14,1.0,0.86,0.0,0.0,0.0,0.0
+278,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",war,3,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+279,de,PopCulture,de_PopCulture,32,"#Freunde #Partytime""
+
+""Der Sonnenuntergang am Strand war breathtaking!",breathtaking,12,1.0,0.14,0.0,0.86,0.0,0.0,0.0,0.0
+280,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",Es,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+281,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",gibt,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+282,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",nichts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+283,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",Schöneres,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+284,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",als,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+285,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+286,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",Natur,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+287,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+288,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",vollen,6,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+289,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",Zügen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+290,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",zu,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+291,de,PopCulture,de_PopCulture,33,"Es gibt nichts Schöneres, als die Natur in vollen Zügen zu genießen.",genießen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+292,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",Natur,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+293,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",Sonnenschein,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+294,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",Feeling,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+295,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",blessed,7,0.86,0.0,0.0,1.0,0.14,0.0,0.0,0.0
+296,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+297,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",all,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+298,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+299,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",wonderful,9,0.29,0.0,0.71,1.0,0.0,0.0,0.0,0.0
+300,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",Menschen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+301,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+302,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",meinem,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+303,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+304,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+305,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",mich,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+306,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",unterstützen,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+307,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+308,de,PopCulture,de_PopCulture,34,"#Natur #Sonnenschein""
+
+""Feeling blessed für all die wonderful Menschen in meinem Leben, die mich unterstützen und inspirieren.",inspirieren,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+309,de,PopCulture,de_PopCulture,35,Danke!,Danke,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+310,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",Dankbarkeit,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+311,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",Gesegnet,8,0.0,0.0,0.57,1.0,0.0,0.0,0.43,0.0
+312,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",Buongiorno,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+313,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",meine,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+314,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",lieben,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+315,de,PopCulture,de_PopCulture,36,"#Dankbarkeit #Gesegnet""
+
+
+
+
+""Buongiorno, meine lieben amici!",amici,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+316,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,Starte,6,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+317,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,den,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+318,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,Tag,3,1.0,0.0,0.0,0.57,0.0,0.0,0.0,0.43
+319,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,mit,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+320,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,einem,5,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+321,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,cappuccino,10,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+322,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,und,3,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+323,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,positiven,9,0.0,0.0,0.0,0.57,0.0,0.0,1.0,0.43
+324,de,PopCulture,de_PopCulture,37,Starte den Tag mit einem cappuccino und positiven Vibes.,Vibes,5,0.0,0.0,1.0,0.57,0.0,0.0,0.0,0.43
+325,de,PopCulture,de_PopCulture,38,"☕️✨ #GutenMorgen #Kaffeeliebe""
+
+""La dolce vita!",GutenMorgen,11,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+326,de,PopCulture,de_PopCulture,38,"☕️✨ #GutenMorgen #Kaffeeliebe""
+
+""La dolce vita!",Kaffeeliebe,11,0.0,0.0,1.0,0.86,0.0,0.0,0.0,0.14
+327,de,PopCulture,de_PopCulture,38,"☕️✨ #GutenMorgen #Kaffeeliebe""
+
+""La dolce vita!",La,2,0.0,0.0,0.0,0.86,1.0,0.0,0.0,0.14
+328,de,PopCulture,de_PopCulture,38,"☕️✨ #GutenMorgen #Kaffeeliebe""
+
+""La dolce vita!",dolce,5,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+329,de,PopCulture,de_PopCulture,38,"☕️✨ #GutenMorgen #Kaffeeliebe""
+
+""La dolce vita!",vita,4,0.0,0.0,0.0,0.86,0.0,0.0,1.0,0.14
+330,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",Das,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+331,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",süße,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+332,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",Leben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+333,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",genießen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+334,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+335,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",gutem,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+336,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",Essen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+337,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",gutem,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+338,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",Wein,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+339,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+340,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",guter,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+341,de,PopCulture,de_PopCulture,39,"Das süße Leben genießen mit gutem Essen, gutem Wein und guter Gesellschaft.",Gesellschaft,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+342,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",Genuss,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+343,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",Lebensfreude,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+344,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+345,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",Pasta,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+346,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",im,2,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+347,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",neuen,5,0.0,0.0,0.0,1.0,0.86,0.0,0.14,0.0
+348,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",italienischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+349,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",Restaurant,10,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+350,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+351,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+352,de,PopCulture,de_PopCulture,40,"#Genuss #Lebensfreude""
+
+""Die Pasta im neuen italienischen Restaurant ist einfach delizioso!",delizioso,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+353,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,Ich,3,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+354,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+355,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+356,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,vielfältigen,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+357,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,Geschmacksrichtungen,20,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+358,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+359,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,italienischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+360,de,PopCulture,de_PopCulture,41,Ich liebe die vielfältigen Geschmacksrichtungen der italienischen Küche.,Küche,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+361,de,PopCulture,de_PopCulture,42,"#Gastronomie #Italienischeküche""
+
+""Einfach amore!",Gastronomie,11,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+362,de,PopCulture,de_PopCulture,42,"#Gastronomie #Italienischeküche""
+
+""Einfach amore!",Italienischeküche,17,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+363,de,PopCulture,de_PopCulture,42,"#Gastronomie #Italienischeküche""
+
+""Einfach amore!",Einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+364,de,PopCulture,de_PopCulture,42,"#Gastronomie #Italienischeküche""
+
+""Einfach amore!",amore,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+365,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Ein,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+366,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,romantischer,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+367,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Spaziergang,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+368,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,am,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+369,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Flussufer,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+370,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,bei,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+371,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Sonnenuntergang,15,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+372,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+373,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Balsam,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+374,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,für,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+375,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+376,de,PopCulture,de_PopCulture,43,Ein romantischer Spaziergang am Flussufer bei Sonnenuntergang ist Balsam für die Seele.,Seele,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+377,de,PopCulture,de_PopCulture,44,"#Romantik #Liebe""
+
+""Ciao a tutti!",Romantik,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+378,de,PopCulture,de_PopCulture,44,"#Romantik #Liebe""
+
+""Ciao a tutti!",Liebe,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+379,de,PopCulture,de_PopCulture,44,"#Romantik #Liebe""
+
+""Ciao a tutti!",Ciao,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+380,de,PopCulture,de_PopCulture,44,"#Romantik #Liebe""
+
+""Ciao a tutti!",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+381,de,PopCulture,de_PopCulture,44,"#Romantik #Liebe""
+
+""Ciao a tutti!",tutti,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+382,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,Wünsche,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+383,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,euch,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+384,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,einen,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+385,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,fantastischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+386,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,Tag,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+387,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,voller,6,0.0,0.0,0.14,1.0,0.0,0.0,0.86,0.0
+388,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,bella,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+389,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,vita,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+390,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+391,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,positiver,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+392,de,PopCulture,de_PopCulture,45,Wünsche euch einen fantastischen Tag voller bella vita und positiver Energie.,Energie,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+393,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",Italienisch,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+394,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",Lebensfreude,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+395,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+396,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",Kunstwerke,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+397,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",in,2,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+398,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+399,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",neuen,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+400,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",Ausstellung,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+401,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",sind,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+402,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+403,de,PopCulture,de_PopCulture,46,"#Italienisch #Lebensfreude""
+
+""Die Kunstwerke in der neuen Ausstellung sind einfach magnifico!",magnifico,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+404,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+405,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",italienischen,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+406,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",Künstler,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+407,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",haben,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+408,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+409,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",faszinierende,13,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+410,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",Art,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+411,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",ihre,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+412,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",Emotionen,9,0.86,0.0,0.0,1.0,0.0,0.0,0.14,0.0
+413,de,PopCulture,de_PopCulture,47,"Die italienischen Künstler haben eine faszinierende Art, ihre Emotionen auszudrücken.",auszudrücken,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+414,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Kunst,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+415,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Kultur,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+416,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Heute,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+417,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Abend,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+418,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",gibt,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+419,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",es,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+420,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",eine,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+421,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",gemütliche,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+422,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",serata,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+423,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",italiana,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+424,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",mit,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+425,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",leckerer,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+426,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Antipasti,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+427,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+428,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",gutem,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+429,de,PopCulture,de_PopCulture,48,"#Kunst #Kultur""
+
+""Heute Abend gibt es eine gemütliche serata italiana mit leckerer Antipasti und gutem Wein.",Wein,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+430,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",Genuss,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+431,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",Geselligkeit,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+432,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",Die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+433,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",italienische,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+434,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",Mode,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+435,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+436,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+437,de,PopCulture,de_PopCulture,49,"#Genuss #Geselligkeit""
+
+""Die italienische Mode ist einfach fantastico!",fantastico,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+438,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,Ich,3,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+439,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,liebe,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+440,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+441,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,stilvollen,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+442,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,Designs,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+443,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+444,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,hochwertigen,12,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+445,de,PopCulture,de_PopCulture,50,Ich liebe die stilvollen Designs und hochwertigen Materialien.,Materialien,11,0.0,0.0,0.29,1.0,0.0,0.0,0.71,0.0
+446,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",Mode,4,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+447,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",Trendy,6,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+448,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",La,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+449,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",lingua,6,0.14,0.0,0.0,1.0,0.0,0.0,0.86,0.0
+450,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",italiana,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+451,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",ist,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+452,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",so,2,0.0,0.0,0.0,1.0,0.23,0.0,0.77,0.0
+453,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",melodiös,8,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+454,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+455,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",klingt,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+456,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",einfach,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+457,de,PopCulture,de_PopCulture,51,"#Mode #Trendy""
+
+""La lingua italiana ist so melodiös und klingt einfach wunderschön.",wunderschön,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+458,de,PopCulture,de_PopCulture,52,Adoro!,Adoro,5,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+459,de,PopCulture,de_PopCulture,53,"#Sprachen #Italienisch""",Sprachen,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+460,de,PopCulture,de_PopCulture,53,"#Sprachen #Italienisch""",Italienisch,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0

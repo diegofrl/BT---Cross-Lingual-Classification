@@ -1,0 +1,447 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Parti,5,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+1,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,in,2,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+2,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,direzione,9,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+3,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,sud,3,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+4,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,ovest,5,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+5,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+6,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Rue,3,0.0,0.0,1.0,0.0,0.0,0.29,0.0,0.71
+7,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+8,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Rivoli,6,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+9,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,verso,5,0.0,0.0,1.0,0.0,0.0,0.29,0.0,0.71
+10,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,la,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+11,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Place,5,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+12,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+13,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,l,1,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+14,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Hôtel,5,0.0,0.0,0.14,0.0,0.86,0.29,0.0,0.71
+15,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+16,it,Navigation,it_Navigation,0,Parti in direzione sud-ovest sulla Rue de Rivoli verso la Place de l'Hôtel de Ville.,Ville,5,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+17,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,Continua,8,0.71,0.0,0.0,0.0,0.0,0.57,0.29,0.43
+18,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,dritto,6,0.0,0.0,0.0,0.0,0.0,0.57,1.0,0.43
+19,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,su,2,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+20,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,Quai,4,0.0,0.0,0.0,0.0,0.71,0.57,0.29,0.43
+21,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,des,3,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+22,it,Navigation,it_Navigation,1,Continua dritto su Quai des Célestins.,Célestins,9,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+23,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+24,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+25,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+26,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+27,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+28,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+29,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+30,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,rimani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+31,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+32,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,Quai,4,0.0,0.0,0.0,0.0,0.71,0.0,0.29,1.0
+33,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,des,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+34,it,Navigation,it_Navigation,2,Alla rotonda prendi la seconda uscita e rimani su Quai des Célestins.,Célestins,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+35,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+36,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+37,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+38,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+39,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+40,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,prima,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+41,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+42,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+43,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,continua,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+44,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+45,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,Quai,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+46,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+47,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+48,it,Navigation,it_Navigation,3,Alla successiva rotonda prendi la prima uscita e continua su Quai de la Rapée.,Rapée,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+49,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,Svolta,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+50,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+51,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,sinistra,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+52,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+53,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,Boulevard,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+54,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+55,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+56,it,Navigation,it_Navigation,4,Svolta a sinistra su Boulevard de la Bastille.,Bastille,8,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0
+57,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,Continua,8,0.57,0.0,0.0,0.0,0.0,1.0,0.43,0.0
+58,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,su,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+59,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,Rue,3,0.0,0.0,0.86,0.0,0.14,1.0,0.0,0.0
+60,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+61,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,Faubourg,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+62,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,Saint,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+63,it,Navigation,it_Navigation,5,Continua su Rue du Faubourg Saint-Antoine.,Antoine,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+64,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,Svolta,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+65,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+66,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,destra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+67,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+68,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,Avenue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+69,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,Ledru,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+70,it,Navigation,it_Navigation,6,Svolta a destra su Avenue Ledru-Rollin.,Rollin,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+71,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+72,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+73,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+74,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+75,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+76,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+77,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+78,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,rimani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+79,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+80,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Avenue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+81,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Ledru,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+82,it,Navigation,it_Navigation,7,Alla rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Rollin,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+83,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+84,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+85,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+86,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+87,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+88,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+89,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+90,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+91,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,rimani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+92,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+93,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Avenue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+94,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Ledru,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+95,it,Navigation,it_Navigation,8,Alla successiva rotonda prendi la seconda uscita e rimani su Avenue Ledru-Rollin.,Rollin,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+96,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,Svolta,6,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.86
+97,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,a,1,1.0,0.0,0.0,0.0,0.0,0.14,0.0,0.86
+98,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,destra,6,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+99,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,su,2,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+100,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,Rue,3,0.0,0.0,1.0,0.0,0.0,0.14,0.0,0.86
+101,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,Claude,6,0.0,0.0,0.0,0.0,1.0,0.14,0.0,0.86
+102,it,Navigation,it_Navigation,9,Svolta a destra su Rue Claude Decaen.,Decaen,6,0.86,0.0,0.14,0.0,0.0,0.14,0.0,0.86
+103,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+104,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+105,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+106,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+107,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+108,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+109,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+110,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+111,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,rimani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+112,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+113,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,Rue,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+114,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,Claude,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+115,it,Navigation,it_Navigation,10,Alla successiva rotonda prendi la seconda uscita e rimani su Rue Claude Decaen.,Decaen,6,0.71,0.0,0.29,0.0,0.0,0.0,0.0,1.0
+116,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+117,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+118,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+119,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+120,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+121,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,prima,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+122,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+123,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+124,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,continua,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+125,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+126,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,Avenue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+127,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+128,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+129,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,Porte,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+130,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+131,it,Navigation,it_Navigation,11,Alla successiva rotonda prendi la prima uscita e continua su Avenue de la Porte de Charenton.,Charenton,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+132,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+133,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+134,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+135,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+136,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+137,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,terza,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+138,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+139,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+140,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,rimani,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+141,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+142,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,Avenue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+143,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+144,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+145,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,Porte,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+146,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+147,it,Navigation,it_Navigation,12,Alla successiva rotonda prendi la terza uscita e rimani su Avenue de la Porte de Charenton.,Charenton,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+148,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,Inizia,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+149,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+150,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+151,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+152,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+153,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,sud,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+154,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,ovest,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+155,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+156,it,Navigation,it_Navigation,13,Inizia sulla A1 in direzione sud-ovest verso Köln.,Köln,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+157,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,Prendi,6,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+158,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,l,1,0.0,0.0,0.0,0.14,1.0,0.0,0.0,0.86
+159,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,uscita,6,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+160,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,Kreuz,5,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+161,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,Leverkusen,10,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+162,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,per,3,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+163,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,la,2,0.0,0.0,0.0,0.14,1.0,0.0,0.0,0.86
+164,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,A,1,1.0,0.0,0.0,0.14,0.0,0.0,0.0,0.86
+165,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,in,2,1.0,0.0,0.0,0.14,0.0,0.0,0.0,0.86
+166,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,direzione,9,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+167,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,di,2,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+168,it,Navigation,it_Navigation,14,Prendi l'uscita 104-Kreuz Leverkusen per la A3 in direzione di Frankfurt.,Frankfurt,9,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+169,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,Continua,8,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0
+170,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+171,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+172,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+173,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+174,it,Navigation,it_Navigation,15,Continua sulla A3 per circa 180 km.,km,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+175,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,Prendi,6,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+176,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,l,1,0.0,0.0,0.0,0.14,1.0,0.0,0.0,0.86
+177,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,uscita,6,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+178,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,Würzburg,8,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+179,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,Est,3,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86
+180,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,in,2,0.99,0.0,0.0,0.14,0.0,0.0,0.0,0.86
+181,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,direzione,9,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+182,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,di,2,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86
+183,it,Navigation,it_Navigation,16,Prendi l'uscita 51-Würzburg/Est in direzione di A81.,A,1,1.0,0.0,0.0,0.14,0.0,0.0,0.0,0.86
+184,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,Continua,8,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+185,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+186,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+187,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+188,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+189,it,Navigation,it_Navigation,17,Continua sulla A81 per circa 140 km.,km,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+190,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,Prendi,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+191,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+192,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+193,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,Heilbronn,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+194,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,Untergruppenbach,16,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+195,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+196,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,segui,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+197,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,le,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+198,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,indicazioni,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+199,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+200,it,Navigation,it_Navigation,18,Prendi l'uscita 38-Heilbronn/Untergruppenbach e segui le indicazioni per Heilbronn.,Heilbronn,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+201,it,Navigation,it_Navigation,19,Svolta a destra sulla B27.,Svolta,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+202,it,Navigation,it_Navigation,19,Svolta a destra sulla B27.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+203,it,Navigation,it_Navigation,19,Svolta a destra sulla B27.,destra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+204,it,Navigation,it_Navigation,19,Svolta a destra sulla B27.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+205,it,Navigation,it_Navigation,19,Svolta a destra sulla B27.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+206,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+207,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+208,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+209,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+210,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+211,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+212,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+213,it,Navigation,it_Navigation,20,Alla rotonda prendi la seconda uscita sulla B293.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+214,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+215,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+216,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+217,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+218,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+219,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+220,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+221,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+222,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+223,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+224,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+225,it,Navigation,it_Navigation,21,Alla rotonda prendi la seconda uscita sulla B27 in direzione di Tübingen.,Tübingen,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+226,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+227,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+228,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+229,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+230,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+231,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+232,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+233,it,Navigation,it_Navigation,22,Alla rotonda prendi la seconda uscita sulla B28.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+234,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+235,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+236,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+237,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+238,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,seconda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+239,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+240,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+241,it,Navigation,it_Navigation,23,Alla rotonda prendi la seconda uscita sulla B27.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+242,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+243,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+244,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+245,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+246,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,terza,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+247,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+248,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+249,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+250,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,in,2,0.88,0.0,0.12,0.0,0.0,0.0,0.0,1.0
+251,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+252,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+253,it,Navigation,it_Navigation,24,Alla rotonda prendi la terza uscita sulla B27 in direzione di Ulm.,Ulm,3,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0
+254,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+255,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+256,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+257,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+258,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,prima,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+259,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+260,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+261,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,B,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+262,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+263,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+264,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+265,it,Navigation,it_Navigation,25,Alla rotonda prendi la prima uscita sulla B19 in direzione di Memmingen.,Memmingen,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+266,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",Alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+267,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",rotonda,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+268,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",successiva,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+269,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+270,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+271,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",terza,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+272,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+273,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+274,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+275,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+276,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+277,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+278,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+279,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",Heathrow,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+280,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+281,it,Navigation,it_Navigation,26,"Alla rotonda successiva, prendi la terza uscita per la A4 in direzione di Heathrow e Hounslow.",Hounslow,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+282,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",Continua,8,0.71,0.0,0.0,0.0,0.0,0.0,0.29,1.0
+283,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+284,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+285,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+286,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+287,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+288,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+289,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+290,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+291,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+292,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+293,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+294,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",M,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+295,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+296,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+297,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+298,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",Watford,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+299,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+300,it,Navigation,it_Navigation,27,"Continua sulla A30 per circa 12 chilometri, poi prendi l'uscita per la M25 in direzione di Watford e Heathrow.",Heathrow,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+301,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",Dopo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+302,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+303,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+304,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+305,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+306,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+307,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+308,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+309,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",M,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+310,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",in,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+311,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",direzione,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+312,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+313,it,Navigation,it_Navigation,28,"Dopo circa 10 chilometri, prendi l'uscita per la M40 in direzione di Oxford.",Oxford,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+314,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",Continua,8,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0
+315,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+316,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",M,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+317,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+318,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+319,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+320,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+321,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+322,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+323,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+324,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+325,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+326,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+327,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+328,it,Navigation,it_Navigation,29,"Continua sulla M40 per circa 66 chilometri, poi prendi l'uscita per la A34 verso Newbury.",Newbury,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+329,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",Continua,8,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0
+330,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+331,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+332,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+333,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+334,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+335,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+336,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+337,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+338,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+339,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+340,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+341,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+342,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+343,it,Navigation,it_Navigation,30,"Continua sulla A34 per circa 24 chilometri, poi prendi l'uscita per la A303 verso Andover.",Andover,7,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0
+344,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",Continua,8,0.72,0.0,0.0,0.0,0.0,0.0,0.28,1.0
+345,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+346,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+347,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+348,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+349,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+350,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+351,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+352,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+353,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+354,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+355,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+356,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+357,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+358,it,Navigation,it_Navigation,31,"Continua sulla A303 per circa 40 chilometri, poi prendi l'uscita per la A30 verso Salisbury.",Salisbury,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+359,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",Continua,8,0.86,0.0,0.0,0.0,0.0,0.0,0.14,1.0
+360,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+361,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+362,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+363,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+364,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+365,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+366,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+367,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+368,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+369,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+370,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+371,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+372,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+373,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",Dorchester,10,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+374,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+375,it,Navigation,it_Navigation,32,"Continua sulla A338 per circa 32 chilometri, poi prendi l'uscita per la A31 verso Dorchester e Wimborne.",Wimborne,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+376,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",Continua,8,0.56,0.0,0.0,0.0,0.0,0.0,0.44,1.0
+377,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+378,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+379,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+380,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+381,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",chilometri,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+382,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+383,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",prendi,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+384,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+385,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",uscita,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+386,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+387,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",la,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+388,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",A,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+389,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",verso,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+390,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",Poole,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+391,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+392,it,Navigation,it_Navigation,33,"Continua sulla A31 per circa 24 chilometri, poi prendi l'uscita per la A35 verso Poole e Bournemouth.",Bournemouth,11,0.86,0.0,0.0,0.0,0.14,0.0,0.0,1.0
+393,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",Dopo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+394,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+395,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",chilometro,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+396,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",svoltare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+397,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+398,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",sinistra,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+399,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",sulla,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+400,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",Bath,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+401,it,Navigation,it_Navigation,34,"Dopo circa 1 chilometro, svoltare a sinistra sulla Bath Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+402,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",Dopo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+403,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+404,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",metri,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+405,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",svoltare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+406,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+407,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",destra,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+408,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+409,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",West,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+410,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",Hill,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+411,it,Navigation,it_Navigation,35,"Dopo circa 500 metri, svoltare a destra su West Hill Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+412,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Continua,8,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0
+413,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",dritto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+414,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+415,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",West,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+416,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Hill,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+417,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+418,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+419,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+420,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",metri,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+421,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+422,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",svoltare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+423,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+424,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",sinistra,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+425,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+426,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Durley,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+427,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Chine,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+428,it,Navigation,it_Navigation,36,"Continua dritto su West Hill Road per circa 500 metri, poi svoltare a sinistra su Durley Chine Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+429,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Continua,8,0.57,0.0,0.0,0.0,0.0,0.0,0.43,1.0
+430,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",dritto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+431,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+432,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Durley,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+433,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Chine,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+434,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+435,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",per,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+436,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",circa,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+437,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",chilometro,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+438,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",poi,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+439,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",svoltare,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+440,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+441,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",sinistra,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+442,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",su,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+443,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",West,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+444,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Cliff,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+445,it,Navigation,it_Navigation,37,"Continua dritto su Durley Chine Road per circa 1 chilometro, poi svoltare a sinistra su West Cliff Road.",Road,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

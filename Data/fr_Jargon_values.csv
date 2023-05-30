@@ -1,0 +1,502 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+1,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+2,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",réservé,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+3,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+4,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",session,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+5,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+6,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",coaching,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+7,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+8,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",mon,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+9,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",personal,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+10,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",trainer,7,0.39,0.0,0.0,0.0,0.61,1.0,0.0,0.0
+11,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",demain,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+12,fr,Jargon,fr_Jargon,0,"J'ai réservé une session de ""coaching"" avec mon ""personal trainer"" demain matin.",matin,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+13,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+14,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",team,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+15,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",building,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+16,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",organisé,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+17,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",par,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+18,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",notre,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+19,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",entreprise,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+20,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",était,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+21,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+22,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",amusant,7,0.0,0.0,0.0,0.0,0.34,1.0,0.66,0.0
+23,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+24,fr,Jargon,fr_Jargon,1,"Le ""team building"" organisé par notre entreprise était très amusant et productif.",productif,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+25,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+26,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",start,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+27,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",ups,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+28,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",ont,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+29,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+30,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+31,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",mal,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+32,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+33,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",obtenir,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+34,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+35,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",financements,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+36,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+37,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",leur,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+38,fr,Jargon,fr_Jargon,2,"Les ""start-ups"" ont souvent du mal à obtenir des financements pour leur développement.",développement,13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+39,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+40,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",aime,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+41,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",écouter,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+42,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+43,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+44,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",musique,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+45,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",indie,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+46,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",rock,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+47,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+48,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",mon,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+49,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",temps,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+50,fr,Jargon,fr_Jargon,3,"J'aime écouter de la musique ""indie rock"" pendant mon temps libre.",libre,5,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+51,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+52,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",restaurant,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+53,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",que,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+54,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+55,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+56,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",visité,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+57,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",hier,4,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+58,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",soir,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+59,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",avait,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+60,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+61,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",menu,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+62,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+63,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",varié,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+64,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+65,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+66,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",plats,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+67,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",fusion,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+68,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+69,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+70,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",cocktails,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+71,fr,Jargon,fr_Jargon,4,"Le restaurant que j'ai visité hier soir avait un menu très varié, avec des plats ""fusion"" et des cocktails ""mixology"".",mixology,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+72,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+73,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+74,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",récemment,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+75,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",suivi,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+76,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+77,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",cours,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+78,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+79,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",mindfulness,11,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+80,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+81,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",apprendre,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+82,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+83,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",mieux,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+84,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",gérer,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+85,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",mon,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+86,fr,Jargon,fr_Jargon,5,"J'ai récemment suivi un cours de ""mindfulness"" pour apprendre à mieux gérer mon stress.",stress,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+87,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+88,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",utilise,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+89,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+90,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",application,11,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+91,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+92,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",fitness,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+93,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+94,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",suivre,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+95,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",mes,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+96,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",progrès,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+97,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+98,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",mes,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+99,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",séances,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+100,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+101,fr,Jargon,fr_Jargon,6,"J'utilise une application de ""fitness"" pour suivre mes progrès et mes séances d'entraînement.",entraînement,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+102,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",Lorsque,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+103,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+104,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+105,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",voyagé,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+106,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+107,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+108,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",étranger,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+109,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+110,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+111,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",utilisé,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+112,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+113,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",carte,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+114,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+115,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",crédit,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+116,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",prepaid,7,0.57,0.0,0.0,0.0,0.43,1.0,0.0,0.0
+117,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+118,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",éviter,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+119,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+120,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",frais,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+121,fr,Jargon,fr_Jargon,7,"Lorsque j'ai voyagé à l'étranger, j'ai utilisé une carte de crédit ""prepaid"" pour éviter les frais bancaires.",bancaires,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+122,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+123,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+124,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",acheté,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+125,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+126,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",sneakers,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+127,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+128,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",marque,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+129,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+130,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",courir,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+131,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",car,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+132,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",ils,3,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+133,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+134,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",confortables,12,0.14,0.0,0.0,0.0,0.86,1.0,0.0,0.0
+135,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+136,fr,Jargon,fr_Jargon,8,"J'ai acheté des ""sneakers"" de marque pour courir, car ils sont confortables et durables.",durables,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+137,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+138,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",blockchain,10,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+139,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+140,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",utilisées,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+141,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+142,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",sécuriser,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+143,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+144,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",transactions,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+145,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+146,fr,Jargon,fr_Jargon,9,"Les ""blockchain"" sont utilisées pour sécuriser les transactions de cryptomonnaies.",cryptomonnaies,14,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+147,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",Mon,3,0.82,0.0,0.0,0.0,0.18,1.0,0.0,0.0
+148,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",entreprise,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+149,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",utilise,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+150,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+151,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",chatbots,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+152,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+153,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",répondre,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+154,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",rapidement,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+155,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",aux,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+156,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",demandes,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+157,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+158,fr,Jargon,fr_Jargon,10,"Mon entreprise utilise des ""chatbots"" pour répondre rapidement aux demandes des clients.",clients,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+159,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+160,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+161,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",lu,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+162,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+163,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",e,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+164,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",book,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+165,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+166,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+167,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",investissement,14,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+168,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+169,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",bourse,6,0.43,0.0,0.0,0.0,0.57,1.0,0.0,0.0
+170,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+171,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",apprendre,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+172,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+173,fr,Jargon,fr_Jargon,11,"J'ai lu un ""e-book"" sur l'investissement en bourse pour apprendre les bases.",bases,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+174,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+175,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",branding,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+176,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+177,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",essentiel,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+178,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+179,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",se,2,0.0,0.0,0.0,0.0,0.7,1.0,0.3,0.0
+180,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",différencier,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+181,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+182,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",concurrents,11,0.14,0.0,0.0,0.0,0.86,1.0,0.0,0.0
+183,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+184,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",attirer,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+185,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+186,fr,Jargon,fr_Jargon,12,"Le ""branding"" est essentiel pour se différencier des concurrents et attirer les clients.",clients,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+187,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,J,1,0.0,0.0,1.0,0.0,0.0,0.71,0.0,0.29
+188,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,ai,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+189,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,commandé,8,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+190,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,une,3,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+191,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,pizza,5,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29
+192,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,Margherita,10,1.0,0.0,0.0,0.0,0.0,0.71,0.0,0.29
+193,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,avec,4,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+194,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,de,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+195,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,la,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+196,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,mozzarella,10,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29
+197,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,di,2,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29
+198,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,buffala,7,1.0,0.0,0.0,0.0,0.0,0.71,0.0,0.29
+199,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,pour,4,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+200,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,le,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+201,fr,Jargon,fr_Jargon,13,J'ai commandé une pizza Margherita avec de la mozzarella di buffala pour le déjeuner.,déjeuner,8,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+202,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+203,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+204,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,acheté,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+205,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+206,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,nouveau,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+207,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,scooter,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+208,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,Vespa,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+209,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+210,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,me,2,0.0,0.0,0.0,0.0,0.0,1.0,0.99,0.0
+211,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,déplacer,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+212,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+213,fr,Jargon,fr_Jargon,14,J'ai acheté un nouveau scooter Vespa pour me déplacer en ville.,ville,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+214,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+215,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,tiramisu,8,0.0,0.0,0.0,0.0,0.19,1.0,0.81,0.0
+216,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,était,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+217,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,délicieux,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+218,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+219,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,dessert,7,0.0,0.0,0.86,0.0,0.14,1.0,0.0,0.0
+220,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,après,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+221,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+222,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,repas,5,0.71,0.0,0.0,0.0,0.29,1.0,0.0,0.0
+223,fr,Jargon,fr_Jargon,15,Le tiramisu était délicieux en dessert après le repas italien.,italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+224,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,Nous,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+225,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,avons,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+226,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,décidé,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+227,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+228,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,peindre,7,0.0,0.0,0.71,0.0,0.29,1.0,0.0,0.0
+229,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+230,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,chambre,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+231,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+232,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,couleur,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+233,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,terra,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+234,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,di,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+235,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,Siena,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+236,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+237,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+238,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,style,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+239,fr,Jargon,fr_Jargon,16,Nous avons décidé de peindre la chambre en couleur terra di Siena pour un style toscan.,toscan,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+240,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+241,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,chanteur,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+242,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,a,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+243,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,utilisé,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+244,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+245,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,bel,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+246,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,canto,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+247,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+248,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,interpréter,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+249,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,cette,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+250,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,aria,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+251,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+252,fr,Jargon,fr_Jargon,17,Le chanteur a utilisé un bel canto pour interpréter cette aria d'opéra.,opéra,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+253,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,Nous,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+254,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,avons,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+255,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,pris,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+256,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+257,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,apéritif,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+258,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,Aperol,6,0.86,0.0,0.0,0.0,0.0,1.0,0.14,0.0
+259,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,Spritz,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+260,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+261,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+262,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,terrasse,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+263,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+264,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,vue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+265,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+266,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+267,fr,Jargon,fr_Jargon,18,Nous avons pris un apéritif Aperol Spritz sur la terrasse avec vue sur la mer.,mer,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+268,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+269,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+270,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,acheté,6,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+271,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+272,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,nouvelle,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+273,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,machine,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+274,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+275,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,espresso,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+276,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+277,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,préparer,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+278,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+279,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,caffè,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+280,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,latte,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+281,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,maison,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+282,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,tous,4,0.86,0.0,0.0,0.0,0.14,1.0,0.0,0.0
+283,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+284,fr,Jargon,fr_Jargon,19,J'ai acheté une nouvelle machine à espresso pour préparer un caffè latte maison tous les matins.,matins,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+285,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+286,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",adore,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+287,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+288,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",pâtes,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+289,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",fraîches,8,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+290,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",surtout,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+291,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+292,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",tagliatelle,11,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+293,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+294,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+295,fr,Jargon,fr_Jargon,20,"J'adore les pâtes fraîches, surtout les tagliatelle à la carbonara.",carbonara,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+296,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+297,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,chaussures,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+298,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+299,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,cuir,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+300,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+301,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+302,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,réputées,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+303,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+304,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,leur,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+305,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,qualité,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+306,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+307,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,leur,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+308,fr,Jargon,fr_Jargon,21,Les chaussures en cuir italien sont réputées pour leur qualité et leur durabilité.,durabilité,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+309,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+310,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+311,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,assisté,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+312,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+313,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+314,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,représentation,14,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+315,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+316,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,Commedia,8,0.86,0.0,0.0,0.0,0.0,1.0,0.14,0.0
+317,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,dell,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+318,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,arte,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+319,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,au,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+320,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,théâtre,7,0.14,0.0,0.0,0.0,0.86,1.0,0.0,0.0
+321,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+322,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,c,1,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+323,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,était,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+324,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+325,fr,Jargon,fr_Jargon,22,J'ai assisté à une représentation de Commedia dell'arte au théâtre et c'était très drôle.,drôle,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+326,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+327,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",coureur,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+328,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+329,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",a,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+330,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",remporté,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+331,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+332,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",Giro,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+333,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+334,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",Italia,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+335,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",cette,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+336,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",année,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+337,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",c,1,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+338,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+339,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+340,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",grand,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+341,fr,Jargon,fr_Jargon,23,"Le coureur italien a remporté le Giro d'Italia cette année, c'est un grand exploit.",exploit,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+342,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",Pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+343,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",avoir,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+344,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+345,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",bonne,5,0.14,0.0,0.0,0.0,0.86,1.0,0.0,0.0
+346,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",gemütlichkeit,13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+347,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+348,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",mon,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+349,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",salon,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+350,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+351,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+352,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",choisi,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+353,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+354,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",canapé,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+355,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",confortable,11,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+356,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+357,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+358,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+359,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",décoration,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+360,fr,Jargon,fr_Jargon,24,"Pour avoir une bonne gemütlichkeit dans mon salon, j'ai choisi un canapé confortable et de la décoration chaleureuse.",chaleureuse,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+361,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",Ce,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+362,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",weekend,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+363,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+364,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+365,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",fait,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+366,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+367,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",randonnée,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+368,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+369,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",montagne,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+370,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+371,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+372,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+373,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",utilisé,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+374,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",mes,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+375,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",wanderschuhe,12,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+376,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+377,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",ne,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+378,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",pas,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+379,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",glisser,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+380,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+381,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+382,fr,Jargon,fr_Jargon,25,"Ce weekend, j'ai fait une randonnée en montagne et j'ai utilisé mes wanderschuhe pour ne pas glisser sur les rochers.",rochers,7,0.43,0.0,0.57,0.0,0.0,1.0,0.0,0.0
+383,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,Mon,3,0.88,0.0,0.0,0.0,0.12,1.0,0.0,0.0
+384,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,entreprise,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+385,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,utilise,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+386,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+387,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,méthode,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+388,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+389,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,travail,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+390,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,basée,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+391,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+392,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+393,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,philosophie,11,0.57,0.0,0.0,0.0,0.43,1.0,0.0,0.0
+394,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,kaizen,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+395,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+396,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,améliorer,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+397,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,continuellement,15,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+398,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,nos,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+399,fr,Jargon,fr_Jargon,26,Mon entreprise utilise une méthode de travail basée sur la philosophie kaizen pour améliorer continuellement nos processus.,processus,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+400,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+401,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+402,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,acheté,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+403,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+404,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,nouvel,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+405,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,ordinateur,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+406,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+407,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+408,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,blitzschnelle,13,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+409,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,vitesse,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+410,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+411,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,traitement,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+412,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+413,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,gagner,6,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+414,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+415,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,temps,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+416,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+417,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,mon,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+418,fr,Jargon,fr_Jargon,27,J'ai acheté un nouvel ordinateur avec une blitzschnelle vitesse de traitement pour gagner du temps dans mon travail.,travail,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+419,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,J,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+420,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,aime,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+421,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,cuisiner,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+422,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+423,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,plats,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+424,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,allemands,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+425,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,traditionnels,13,0.0,0.0,0.0,0.0,0.43,1.0,0.57,0.0
+426,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,comme,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+427,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+428,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,saumagen,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+429,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+430,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+431,fr,Jargon,fr_Jargon,28,J'aime cuisiner des plats allemands traditionnels comme le saumagen et le sauerkraut.,sauerkraut,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+432,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",Pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+433,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",garder,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+434,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",ma,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+435,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",forme,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+436,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",physique,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+437,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",je,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+438,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",pratique,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+439,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+440,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",jogging,7,0.43,0.0,0.0,0.0,0.0,1.0,0.57,0.0
+441,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",tous,4,0.57,0.0,0.0,0.0,0.43,1.0,0.0,0.0
+442,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+443,fr,Jargon,fr_Jargon,29,"Pour garder ma forme physique, je pratique le jogging tous les matins.",matins,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+444,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",Lorsque,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+445,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+446,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",étudiais,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+447,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+448,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",histoire,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+449,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+450,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+451,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",art,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+452,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+453,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+454,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",appris,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+455,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+456,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",apprécier,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+457,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+458,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",mouvement,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+459,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",artistique,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+460,fr,Jargon,fr_Jargon,30,"Lorsque j'étudiais l'histoire de l'art, j'ai appris à apprécier le mouvement artistique Bauhaus.",Bauhaus,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+461,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",Je,2,0.0,0.0,0.0,0.0,0.95,1.0,0.0,0.0
+462,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",suis,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+463,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",passionné,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+464,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",par,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+465,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+466,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",voitures,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+467,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",allemandes,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+468,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+469,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",particulier,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+470,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+471,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",marques,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+472,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",Volkswagen,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+473,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+474,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",Mercedes,8,0.86,0.0,0.14,0.0,0.0,1.0,0.0,0.0
+475,fr,Jargon,fr_Jargon,31,"Je suis passionné par les voitures allemandes, en particulier les marques Volkswagen et Mercedes-Benz.",Benz,4,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+476,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",Pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+477,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",résoudre,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+478,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+479,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",problème,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+480,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",complexe,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+481,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",j,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+482,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",ai,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+483,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",utilisé,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+484,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+485,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",méthode,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+486,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+487,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",résolution,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+488,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+489,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",problèmes,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+490,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",TRIZ,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+491,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",qui,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+492,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+493,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+494,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",origine,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+495,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",russe,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+496,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",mais,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+497,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+498,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",populaire,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+499,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+500,fr,Jargon,fr_Jargon,32,"Pour résoudre un problème complexe, j'ai utilisé la méthode de résolution de problèmes TRIZ qui est d'origine russe mais très populaire en Allemagne.",Allemagne,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0

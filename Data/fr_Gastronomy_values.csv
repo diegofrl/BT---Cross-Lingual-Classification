@@ -1,0 +1,399 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+1,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",risotto,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+2,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+3,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",plat,4,0.45,0.0,0.0,0.0,0.55,1.0,0.0,0.0
+4,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+5,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+6,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+7,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",riz,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+8,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",cuit,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+9,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",lentement,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+10,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+11,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+12,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",bouillon,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+13,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",généralement,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+14,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+15,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+16,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",parmesan,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+17,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+18,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+19,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",autres,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+20,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",ingrédients,11,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+21,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",tels,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+22,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",que,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+23,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+24,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",champignons,11,0.0,0.0,0.0,0.0,0.71,1.0,0.29,0.0
+25,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+26,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+27,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",fruits,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+28,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+29,fr,Gastronomy,fr_Gastronomy,0,"Le risotto, un plat italien, est un riz cuit lentement dans du bouillon, généralement avec du parmesan et d'autres ingrédients tels que les champignons ou les fruits de mer.",mer,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+30,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",Le,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+31,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",schnitzel,9,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+32,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",un,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+33,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",plat,4,0.41,0.0,0.0,0.14,0.59,0.86,0.0,0.0
+34,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",autrichien,10,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+35,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",est,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+36,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",une,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+37,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",escalope,8,0.0,0.0,0.0,0.14,0.14,0.86,0.86,0.0
+38,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",de,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+39,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",viande,6,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+40,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",panée,5,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+41,fr,Gastronomy,fr_Gastronomy,1,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",frite,5,1.0,0.0,0.0,0.14,0.0,0.86,0.0,0.0
+42,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+43,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",schnitzels,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+44,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+45,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+46,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",servis,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+47,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+48,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+49,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+50,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",salade,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+51,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+52,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",pommes,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+53,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+54,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",terre,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+55,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+56,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+57,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",spätzles,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+58,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+59,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",pâtes,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+60,fr,Gastronomy,fr_Gastronomy,2,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",allemandes,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+61,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+62,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",burger,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+63,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+64,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",plat,4,0.44,0.0,0.0,0.0,0.56,1.0,0.0,0.0
+65,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",américain,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+66,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+67,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+68,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",sandwich,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+69,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+70,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",viande,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+71,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",hachée,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+72,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",généralement,12,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+73,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+74,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",bœuf,4,0.0,0.0,0.86,0.0,0.14,1.0,0.0,0.0
+75,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",servi,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+76,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+77,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+78,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",pain,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+79,fr,Gastronomy,fr_Gastronomy,3,"Le burger, un plat américain, est un sandwich de viande hachée, généralement du bœuf, servi sur un pain rond.",rond,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+80,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+81,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",burgers,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+82,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",peuvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+83,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",être,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+84,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",garnis,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+85,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+86,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",fromage,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+87,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+88,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",laitue,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+89,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+90,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",tomate,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+91,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+92,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",oignon,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+93,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+94,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+95,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",autres,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+96,fr,Gastronomy,fr_Gastronomy,4,"Les burgers peuvent être garnis de fromage, de laitue, de tomate, d'oignon et d'autres ingrédients.",ingrédients,11,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+97,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+98,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",tiramisu,8,0.0,0.0,0.0,0.0,0.31,1.0,0.69,0.0
+99,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+100,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",dessert,7,0.0,0.0,0.86,0.0,0.14,1.0,0.0,0.0
+101,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+102,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+103,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+104,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",gâteau,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+105,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+106,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",couches,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+107,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+108,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+109,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",biscuits,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+110,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+111,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+112,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",cuillère,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+113,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",imbibés,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+114,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+115,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",café,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+116,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+117,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+118,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",liqueur,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+119,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",alternés,8,0.0,0.0,0.43,0.0,0.57,1.0,0.0,0.0
+120,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+121,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+122,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",crème,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+123,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",mascarpone,10,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+124,fr,Gastronomy,fr_Gastronomy,5,"Le tiramisu, un dessert italien, est un gâteau en couches avec des biscuits à la cuillère imbibés de café et de liqueur, alternés avec une crème mascarpone sucrée.",sucrée,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+125,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+126,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",currywurst,10,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+127,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+128,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",spécialité,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+129,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",allemande,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+130,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+131,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+132,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",saucisse,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+133,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",frite,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+134,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",servie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+135,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+136,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+137,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",sauce,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+138,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",au,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+139,fr,Gastronomy,fr_Gastronomy,6,"Le currywurst, une spécialité allemande, est une saucisse frite servie avec une sauce au curry.",curry,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+140,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,Cette,5,0.0,0.0,0.0,0.0,0.57,1.0,0.43,0.0
+141,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,collation,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+142,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+143,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+144,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+145,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,populaire,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+146,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+147,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,Allemagne,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+148,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+149,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+150,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+151,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,autres,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+152,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,pays,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+153,fr,Gastronomy,fr_Gastronomy,7,Cette collation de rue est populaire en Allemagne et dans d'autres pays européens.,européens,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+154,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+155,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",cappuccino,10,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+156,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+157,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",café,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+158,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",italien,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+159,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+160,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+161,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",espresso,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+162,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+163,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+164,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+165,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",mousse,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+166,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+167,fr,Gastronomy,fr_Gastronomy,8,"Le cappuccino, un café italien, est un espresso avec de la mousse de lait.",lait,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+168,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",Il,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+169,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+170,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+171,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",servi,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+172,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+173,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",matin,5,0.99,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+174,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+175,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",Italie,6,0.14,0.0,0.0,0.0,0.0,1.0,0.86,0.0
+176,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",mais,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+177,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+178,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",également,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+179,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",populaire,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+180,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+181,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+182,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",monde,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+183,fr,Gastronomy,fr_Gastronomy,9,"Il est souvent servi le matin en Italie, mais est également populaire dans le monde entier.",entier,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+184,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+185,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",sushi,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+186,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+187,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",plat,4,0.37,0.0,0.0,0.0,0.63,1.0,0.0,0.0
+188,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",japonais,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+189,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+190,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+191,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",petit,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+192,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",rouleau,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+193,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+194,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",riz,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+195,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",vinaigré,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+196,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",garni,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+197,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+198,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",poisson,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+199,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",cru,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+200,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+201,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+202,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",autres,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+203,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",ingrédients,11,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+204,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",tels,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+205,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",que,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+206,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+207,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",avocat,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+208,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+209,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+210,fr,Gastronomy,fr_Gastronomy,10,"Le sushi, un plat japonais, est un petit rouleau de riz vinaigré garni de poisson cru et d'autres ingrédients, tels que l'avocat ou les concombres.",concombres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+211,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,Ce,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+212,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,plat,4,0.42,0.0,0.0,0.0,0.58,1.0,0.0,0.0
+213,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+214,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,devenu,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+215,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,très,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+216,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,populaire,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+217,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+218,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+219,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,monde,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+220,fr,Gastronomy,fr_Gastronomy,11,Ce plat est devenu très populaire dans le monde entier.,entier,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+221,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+222,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",bratwurst,9,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+223,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+224,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",saucisse,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+225,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",allemande,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+226,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+227,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+228,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",servie,6,0.0,0.0,0.0,0.0,0.98,1.0,0.0,0.0
+229,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+230,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+231,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+232,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",moutarde,8,0.43,0.0,0.0,0.0,0.57,1.0,0.0,0.0
+233,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+234,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+235,fr,Gastronomy,fr_Gastronomy,12,"Le bratwurst, une saucisse allemande, est souvent servie avec de la moutarde et du pain.",pain,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+236,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,Il,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+237,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+238,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+239,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,accompagné,10,0.0,0.0,0.0,0.0,0.57,1.0,0.43,0.0
+240,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+241,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,bière,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+242,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+243,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+244,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,festivals,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+245,fr,Gastronomy,fr_Gastronomy,13,Il est souvent accompagné de bière dans les festivals allemands.,allemands,9,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+246,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",La,2,0.0,0.0,0.0,0.0,0.99,0.29,0.0,0.71
+247,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",margherita,10,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+248,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",une,3,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+249,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",pizza,5,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+250,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",italienne,9,0.0,0.0,0.0,0.0,0.14,0.29,0.86,0.71
+251,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",est,3,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+252,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",garnie,6,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+253,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+254,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",sauce,5,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+255,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",tomate,6,1.0,0.0,0.0,0.0,0.0,0.29,0.0,0.71
+256,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+257,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",mozzarella,10,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+258,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",et,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+259,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",de,2,0.0,0.0,0.0,0.0,1.0,0.29,0.0,0.71
+260,fr,Gastronomy,fr_Gastronomy,14,"La margherita, une pizza italienne, est garnie de sauce tomate, de mozzarella et de basilic.",basilic,7,0.0,0.0,0.0,0.0,0.0,0.29,1.0,0.71
+261,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,C,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+262,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+263,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+264,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+265,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+266,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,pizzas,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+267,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+268,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,plus,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+269,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,populaires,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+270,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,au,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+271,fr,Gastronomy,fr_Gastronomy,15,C'est l'une des pizzas les plus populaires au monde.,monde,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+272,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",Le,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+273,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",rösti,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+274,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+275,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",plat,4,0.29,0.0,0.0,0.0,0.71,1.0,0.0,0.0
+276,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",suisse,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+277,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+278,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+279,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",galette,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+280,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+281,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",pommes,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+282,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+283,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",terre,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+284,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",râpées,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+285,fr,Gastronomy,fr_Gastronomy,16,"Le rösti, un plat suisse, est une galette de pommes de terre râpées frites.",frites,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+286,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,Il,2,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+287,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+288,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+289,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,servi,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+290,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,comme,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+291,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,accompagnement,14,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+292,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+293,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+294,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,plats,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+295,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+296,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,viande,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+297,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+298,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+299,fr,Gastronomy,fr_Gastronomy,17,Il est souvent servi comme accompagnement pour les plats de viande ou de légumes.,légumes,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+300,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",Le,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+301,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",schnitzel,9,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+302,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",un,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+303,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",plat,4,0.47,0.0,0.0,0.14,0.53,0.86,0.0,0.0
+304,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",autrichien,10,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+305,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",est,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+306,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",une,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+307,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",escalope,8,0.0,0.0,0.0,0.14,0.14,0.86,0.86,0.0
+308,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",de,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+309,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",viande,6,0.0,0.0,0.0,0.14,0.0,0.86,1.0,0.0
+310,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",panée,5,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+311,fr,Gastronomy,fr_Gastronomy,18,"Le schnitzel, un plat autrichien, est une escalope de viande panée frite.",frite,5,1.0,0.0,0.0,0.14,0.0,0.86,0.0,0.0
+312,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+313,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",schnitzels,10,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+314,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+315,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+316,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",servis,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+317,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+318,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+319,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+320,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",salade,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+321,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+322,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",pommes,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+323,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+324,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",terre,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+325,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+326,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+327,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",spätzles,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+328,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+329,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",pâtes,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+330,fr,Gastronomy,fr_Gastronomy,19,"Les schnitzels sont souvent servis avec de la salade de pommes de terre ou des spätzles, des pâtes allemandes.",allemandes,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+331,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+332,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",bagels,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+333,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+334,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",pain,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+335,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+336,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",forme,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+337,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",d,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+338,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",anneau,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+339,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",originaire,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+340,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+341,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+342,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",communauté,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+343,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",juive,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+344,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+345,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",Pologne,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+346,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+347,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",devenus,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+348,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",un,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+349,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",aliment,7,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+350,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+351,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",base,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+352,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",dans,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+353,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+354,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",nombreux,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+355,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",endroits,8,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+356,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+357,fr,Gastronomy,fr_Gastronomy,20,"Les bagels, un pain en forme d'anneau originaire de la communauté juive en Pologne, sont devenus un aliment de base dans de nombreux endroits du monde.",monde,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+358,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,Ils,3,0.0,0.0,0.0,0.0,0.2,1.0,0.8,0.0
+359,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+360,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+361,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,servis,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+362,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+363,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+364,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,fromage,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+365,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+366,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+367,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,crème,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+368,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+369,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+370,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,saumon,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+371,fr,Gastronomy,fr_Gastronomy,21,Ils sont souvent servis avec du fromage à la crème et du saumon fumé.,fumé,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+372,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",Les,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+373,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",spätzles,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+374,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",des,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+375,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",pâtes,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+376,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",allemandes,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+377,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",sont,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+378,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",souvent,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+379,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",servies,7,0.71,0.0,0.0,0.0,0.29,1.0,0.0,0.0
+380,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+381,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",une,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+382,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",sauce,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+383,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+384,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+385,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",crème,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+386,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+387,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",aux,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+388,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",champignons,11,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+389,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",ou,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+390,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",avec,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+391,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+392,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",fromage,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+393,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",râpé,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+394,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+395,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",du,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+396,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",beurre,6,0.0,0.0,0.86,0.0,0.14,1.0,0.0,0.0
+397,fr,Gastronomy,fr_Gastronomy,22,"Les spätzles, des pâtes allemandes, sont souvent servies avec une sauce à la crème et aux champignons ou avec du fromage râpé et du beurre fondu.",fondu,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0

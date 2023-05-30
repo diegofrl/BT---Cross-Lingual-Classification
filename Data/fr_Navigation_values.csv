@@ -1,0 +1,471 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,Départ,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+1,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+2,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,direction,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+3,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+4,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+5,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+6,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,High,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+7,fr,Navigation,fr_Navigation,0,Départ en direction de la rue High Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+8,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,Tournez,7,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+9,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+10,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+11,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+12,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+13,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+14,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,Queen,5,0.86,0.0,0.0,0.0,0.14,1.0,0.0,0.0
+15,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,s,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+16,fr,Navigation,fr_Navigation,1,Tournez à droite sur la rue Queen's Road.,Road,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+17,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,Continuez,9,0.0,0.14,0.0,0.0,0.14,0.86,0.86,0.0
+18,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,tout,4,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+19,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,droit,5,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+20,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,sur,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+21,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,la,2,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+22,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,rue,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+23,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,King,4,0.29,0.14,0.71,0.0,0.0,0.86,0.0,0.0
+24,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,s,1,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+25,fr,Navigation,fr_Navigation,2,Continuez tout droit sur la rue King's Avenue.,Avenue,6,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+26,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+27,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+28,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+29,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+30,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+31,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+32,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,Windsor,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+33,fr,Navigation,fr_Navigation,3,Prenez à gauche sur la rue Windsor Road.,Road,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+34,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+35,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+36,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+37,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+38,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,Victoria,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+39,fr,Navigation,fr_Navigation,4,Continuez sur la rue Victoria Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+40,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,Tournez,7,0.0,0.0,0.43,0.0,0.57,1.0,0.0,0.0
+41,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+42,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+43,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+44,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+45,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+46,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,Albert,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+47,fr,Navigation,fr_Navigation,5,Tournez à droite sur la rue Albert Road.,Road,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+48,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+49,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+50,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+51,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+52,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,Main,4,0.71,0.0,0.29,0.0,0.0,1.0,0.0,0.0
+53,fr,Navigation,fr_Navigation,6,Continuez sur la rue Main Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+54,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,Tournez,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+55,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+56,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+57,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+58,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+59,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+60,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,Park,4,0.37,0.0,0.63,0.0,0.0,1.0,0.0,0.0
+61,fr,Navigation,fr_Navigation,7,Tournez à gauche sur la rue Park Avenue.,Avenue,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+62,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+63,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+64,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+65,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+66,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+67,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+68,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,Elm,3,0.0,0.0,0.57,0.0,0.43,1.0,0.0,0.0
+69,fr,Navigation,fr_Navigation,8,Prenez à droite sur la rue Elm Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+70,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,Tournez,7,0.0,0.0,0.29,0.0,0.71,1.0,0.0,0.0
+71,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+72,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+73,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+74,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+75,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+76,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,Oak,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+77,fr,Navigation,fr_Navigation,9,Tournez à droite sur la rue Oak Avenue.,Avenue,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+78,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+79,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+80,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+81,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+82,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+83,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+84,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,Church,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+85,fr,Navigation,fr_Navigation,10,Continuez tout droit sur la rue Church Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+86,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,Prenez,6,0.0,0.14,1.0,0.0,0.0,0.86,0.0,0.0
+87,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,à,1,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+88,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,droite,6,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+89,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,sur,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+90,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,la,2,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+91,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,rue,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+92,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,Highfield,9,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+93,fr,Navigation,fr_Navigation,11,Prenez à droite sur la rue Highfield Road.,Road,4,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+94,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+95,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+96,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+97,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+98,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,Hillcrest,9,0.86,0.0,0.0,0.0,0.14,1.0,0.0,0.0
+99,fr,Navigation,fr_Navigation,12,Continuez sur la rue Hillcrest Avenue.,Avenue,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+100,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,Tournez,7,0.0,0.0,0.29,0.0,0.71,1.0,0.0,0.0
+101,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+102,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+103,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+104,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+105,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+106,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,Sunnydale,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+107,fr,Navigation,fr_Navigation,13,Tournez à gauche sur la rue Sunnydale Drive.,Drive,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+108,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+109,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+110,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+111,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+112,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+113,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+114,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,Woodland,8,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+115,fr,Navigation,fr_Navigation,14,Prenez à droite sur la rue Woodland Drive.,Drive,5,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+116,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,Continuez,9,0.0,0.14,0.0,0.0,0.0,0.86,1.0,0.0
+117,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,sur,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+118,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,la,2,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+119,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,rue,3,0.0,0.14,0.0,0.0,1.0,0.86,0.0,0.0
+120,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,Broad,5,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+121,fr,Navigation,fr_Navigation,15,Continuez sur la rue Broad Street.,Street,6,1.0,0.14,0.0,0.0,0.0,0.86,0.0,0.0
+122,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,Tournez,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+123,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+124,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+125,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+126,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+127,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+128,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,Market,6,0.57,0.0,0.43,0.0,0.0,1.0,0.0,0.0
+129,fr,Navigation,fr_Navigation,16,Tournez à gauche sur la rue Market Square.,Square,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+130,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+131,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+132,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+133,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+134,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+135,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+136,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,Bridge,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+137,fr,Navigation,fr_Navigation,17,Continuez tout droit sur la rue Bridge Street.,Street,6,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+138,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+139,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+140,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+141,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+142,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+143,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+144,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,Station,7,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+145,fr,Navigation,fr_Navigation,18,Prenez à droite sur la rue Station Road.,Road,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+146,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,Tournez,7,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+147,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+148,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+149,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+150,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+151,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+152,fr,Navigation,fr_Navigation,19,Tournez à droite sur la rue Goethestraße.,Goethestraße,12,0.57,0.0,0.43,0.0,0.0,1.0,0.0,0.0
+153,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+154,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,tout,4,0.86,0.0,0.0,0.0,0.14,1.0,0.0,0.0
+155,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+156,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+157,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+158,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+159,fr,Navigation,fr_Navigation,20,Continuez tout droit sur la rue Schillerstraße.,Schillerstraße,14,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+160,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,Tournez,7,0.0,0.0,0.14,0.14,0.86,0.86,0.0,0.0
+161,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,à,1,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+162,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,gauche,6,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+163,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,sur,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+164,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,la,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+165,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,rue,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+166,fr,Navigation,fr_Navigation,21,Tournez à gauche sur la rue Hauptstraße.,Hauptstraße,11,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+167,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+168,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,tout,4,0.86,0.0,0.0,0.0,0.14,1.0,0.0,0.0
+169,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+170,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+171,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+172,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+173,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,Berliner,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+174,fr,Navigation,fr_Navigation,22,Continuez tout droit sur la rue Berliner Straße.,Straße,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+175,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+176,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+177,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,sortie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+178,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+179,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,rejoindre,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+180,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+181,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,autoroute,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+182,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+183,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+184,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,direction,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+185,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+186,fr,Navigation,fr_Navigation,23,Prenez la sortie pour rejoindre l'autoroute A2 en direction de Hannover.,Hannover,8,0.0,0.0,0.57,0.0,0.0,1.0,0.43,0.0
+187,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,Restez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+188,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+189,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+190,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,autoroute,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+191,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+192,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+193,fr,Navigation,fr_Navigation,24,Restez sur l'autoroute A2 pendant 100 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+194,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+195,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+196,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,sortie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+197,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+198,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,rejoindre,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+199,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+200,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,autoroute,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+201,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+202,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+203,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,direction,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+204,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+205,fr,Navigation,fr_Navigation,25,Prenez la sortie 16 pour rejoindre l'autoroute A33 en direction de Paderborn.,Paderborn,9,0.71,0.0,0.29,0.0,0.0,1.0,0.0,0.0
+206,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,Restez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+207,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+208,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+209,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,autoroute,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+210,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+211,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+212,fr,Navigation,fr_Navigation,26,Restez sur l'autoroute A33 pendant 45 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+213,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+214,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+215,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,sortie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+216,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+217,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,rejoindre,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+218,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+219,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,route,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+220,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,B,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+221,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+222,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,direction,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+223,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+224,fr,Navigation,fr_Navigation,27,Prenez la sortie 22 pour rejoindre la route B64 en direction de Warburg.,Warburg,7,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+225,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+226,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+227,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+228,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+229,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+230,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,route,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+231,fr,Navigation,fr_Navigation,28,Continuez tout droit sur la route B64.,B,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+232,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,Tournez,7,0.0,0.0,0.29,0.0,0.71,1.0,0.0,0.0
+233,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+234,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+235,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+236,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+237,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+238,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,Kasseler,8,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+239,fr,Navigation,fr_Navigation,29,Tournez à droite sur la rue Kasseler Straße.,Straße,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+240,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,Tournez,7,0.0,0.0,0.29,0.43,0.71,0.57,0.0,0.0
+241,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,à,1,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+242,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,gauche,6,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+243,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,sur,3,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+244,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,la,2,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+245,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,rue,3,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+246,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,Lütmarser,9,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+247,fr,Navigation,fr_Navigation,30,Tournez à gauche sur la rue Lütmarser Straße.,Straße,6,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+248,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+249,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+250,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+251,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+252,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+253,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+254,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,Im,2,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+255,fr,Navigation,fr_Navigation,31,Continuez tout droit sur la rue Im Sacke.,Sacke,5,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+256,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,Tournez,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+257,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+258,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+259,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+260,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+261,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+262,fr,Navigation,fr_Navigation,32,Tournez à droite sur la rue Holsterfeld.,Holsterfeld,11,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+263,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,Tournez,7,0.0,0.0,0.43,0.14,0.57,0.86,0.0,0.0
+264,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,à,1,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+265,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,gauche,6,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+266,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,sur,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+267,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,la,2,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+268,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,rue,3,0.0,0.0,0.0,0.14,1.0,0.86,0.0,0.0
+269,fr,Navigation,fr_Navigation,33,Tournez à gauche sur la rue Bahnhofstraße.,Bahnhofstraße,13,0.0,0.0,1.0,0.14,0.0,0.86,0.0,0.0
+270,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,Tournez,7,0.0,0.0,0.57,0.0,0.43,1.0,0.0,0.0
+271,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+272,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+273,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+274,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+275,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+276,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,Bremer,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+277,fr,Navigation,fr_Navigation,34,Tournez à droite sur la rue Bremer Straße.,Straße,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+278,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,Tournez,7,0.0,0.0,0.29,0.43,0.71,0.57,0.0,0.0
+279,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,à,1,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+280,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,gauche,6,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+281,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,sur,3,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+282,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,la,2,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+283,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,rue,3,0.0,0.0,0.0,0.43,1.0,0.57,0.0,0.0
+284,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,Kasseler,8,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+285,fr,Navigation,fr_Navigation,35,Tournez à gauche sur la rue Kasseler Straße.,Straße,6,0.0,0.0,1.0,0.43,0.0,0.57,0.0,0.0
+286,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,Continuez,9,0.0,0.0,0.0,0.0,0.14,1.0,0.86,0.0
+287,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+288,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+289,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+290,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+291,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,rue,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+292,fr,Navigation,fr_Navigation,36,Continuez tout droit sur la rue B7.,B,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+293,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+294,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+295,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,sortie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+296,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+297,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,rejoindre,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+298,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+299,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,autoroute,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+300,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+301,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+302,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,direction,9,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+303,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+304,fr,Navigation,fr_Navigation,37,Prenez la sortie pour rejoindre l'autoroute A7 en direction de Kassel.,Kassel,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+305,fr,Navigation,fr_Navigation,38,Partez de Piazza del Popolo.,Partez,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+306,fr,Navigation,fr_Navigation,38,Partez de Piazza del Popolo.,de,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+307,fr,Navigation,fr_Navigation,38,Partez de Piazza del Popolo.,Piazza,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+308,fr,Navigation,fr_Navigation,38,Partez de Piazza del Popolo.,del,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+309,fr,Navigation,fr_Navigation,38,Partez de Piazza del Popolo.,Popolo,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+310,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,Prenez,6,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+311,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+312,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,Via,3,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+313,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,Flaminia,8,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+314,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,en,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+315,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,direction,9,0.0,0.0,0.0,0.0,0.86,0.86,0.14,0.14
+316,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,de,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+317,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,nord,4,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+318,fr,Navigation,fr_Navigation,39,Prenez la Via Flaminia en direction de nord-est.,est,3,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+319,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+320,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+321,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+322,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+323,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+324,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+325,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,Flaminia,8,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+326,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+327,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+328,fr,Navigation,fr_Navigation,40,Continuez tout droit sur la Via Flaminia pendant environ 10 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+329,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,Prenez,6,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+330,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+331,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,sortie,6,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+332,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,pour,4,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+333,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,l,1,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+334,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,A,1,1.0,0.0,0.0,0.0,0.0,0.86,0.0,0.14
+335,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,E,1,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+336,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,en,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+337,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,direction,9,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+338,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,de,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+339,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,Firenze,7,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+340,fr,Navigation,fr_Navigation,41,Prenez la sortie pour l'A1/E35 en direction de Firenze/Roma.,Roma,4,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+341,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,Restez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+342,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+343,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+344,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+345,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,E,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+346,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+347,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+348,fr,Navigation,fr_Navigation,42,Restez sur l'A1/E35 pendant environ 150 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+349,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,Prenez,6,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+350,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+351,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,sortie,6,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+352,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,pour,4,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+353,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,l,1,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+354,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,A,1,1.0,0.0,0.0,0.0,0.0,0.86,0.0,0.14
+355,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,E,1,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+356,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,en,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+357,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,direction,9,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+358,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,de,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+359,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,Ancona,6,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+360,fr,Navigation,fr_Navigation,43,Prenez la sortie pour l'A14/E45 en direction de Ancona/Bologna.,Bologna,7,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+361,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,Restez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+362,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+363,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,l,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+364,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,A,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+365,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,E,1,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+366,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+367,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+368,fr,Navigation,fr_Navigation,44,Restez sur l'A14/E45 pendant environ 100 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+369,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,Prenez,6,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+370,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+371,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,sortie,6,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+372,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,pour,4,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+373,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+374,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,SS,2,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+375,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,en,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+376,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,direction,9,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+377,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,de,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+378,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,Pescara,7,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+379,fr,Navigation,fr_Navigation,45,Prenez la sortie pour la SS16 en direction de Pescara/Napoli.,Napoli,6,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+380,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+381,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+382,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+383,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,SS,2,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+384,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+385,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+386,fr,Navigation,fr_Navigation,46,Continuez sur la SS16 pendant environ 35 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+387,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,Prenez,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+388,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+389,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,sortie,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+390,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,pour,4,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+391,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+392,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,SP,2,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+393,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,en,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+394,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,direction,9,0.0,0.0,0.0,0.0,0.86,1.0,0.14,0.0
+395,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,de,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+396,fr,Navigation,fr_Navigation,47,Prenez la sortie pour la SP214 en direction de Vasto.,Vasto,5,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+397,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,Tournez,7,0.14,0.0,0.14,0.0,0.71,1.0,0.0,0.0
+398,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+399,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+400,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+401,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+402,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,SP,2,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+403,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,et,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+404,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+405,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+406,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+407,fr,Navigation,fr_Navigation,48,Tournez à gauche sur la SP214 et continuez pendant environ 10 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+408,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,Tournez,7,0.0,0.0,0.29,0.0,0.71,1.0,0.0,0.0
+409,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+410,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+411,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+412,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+413,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+414,fr,Navigation,fr_Navigation,49,Tournez à droite sur la Via Torino.,Torino,6,0.71,0.0,0.0,0.0,0.0,1.0,0.29,0.0
+415,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,Tournez,7,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+416,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+417,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,gauche,6,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+418,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+419,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+420,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+421,fr,Navigation,fr_Navigation,50,Tournez à gauche sur la Via Napoli.,Napoli,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+422,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,Continuez,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+423,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,tout,4,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+424,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,droit,5,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+425,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+426,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+427,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+428,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,Napoli,6,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+429,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,pendant,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+430,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,environ,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+431,fr,Navigation,fr_Navigation,51,Continuez tout droit sur la Via Napoli pendant environ 2 kilomètres.,kilomètres,10,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+432,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,Tournez,7,0.0,0.0,0.57,0.0,0.43,1.0,0.0,0.0
+433,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+434,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+435,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+436,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+437,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+438,fr,Navigation,fr_Navigation,52,Tournez à droite sur la Via Carducci.,Carducci,8,0.14,0.0,0.0,0.0,0.0,1.0,0.86,0.0
+439,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,Tournez,7,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+440,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,à,1,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+441,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,gauche,6,0.0,0.0,1.0,0.0,0.0,0.71,0.0,0.29
+442,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,sur,3,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+443,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,la,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29
+444,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,Via,3,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29
+445,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,D,1,0.0,0.0,1.0,0.0,0.0,0.71,0.0,0.29
+446,fr,Navigation,fr_Navigation,53,Tournez à gauche sur la Via D'Annunzio.,Annunzio,8,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29
+447,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,Tournez,7,0.0,0.0,0.14,0.0,0.86,1.0,0.0,0.0
+448,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,à,1,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+449,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,droite,6,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+450,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,sur,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+451,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+452,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,Via,3,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+453,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,San,3,0.0,0.0,0.71,0.0,0.0,1.0,0.29,0.0
+454,fr,Navigation,fr_Navigation,54,Tournez à droite sur la Via San Francesco.,Francesco,9,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+455,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,Tournez,7,0.0,0.0,0.43,0.0,0.57,0.86,0.0,0.14
+456,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,à,1,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+457,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,gauche,6,0.0,0.0,1.0,0.0,0.0,0.86,0.0,0.14
+458,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,sur,3,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+459,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,la,2,0.0,0.0,0.0,0.0,1.0,0.86,0.0,0.14
+460,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,Via,3,0.0,0.0,0.0,0.0,0.0,0.86,1.0,0.14
+461,fr,Navigation,fr_Navigation,55,Tournez à gauche sur la Via Genova.,Genova,6,0.0,0.0,0.14,0.0,0.0,0.86,0.86,0.14
+462,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,Tournez,7,0.0,0.0,0.43,0.0,0.57,0.57,0.0,0.43
+463,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,à,1,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+464,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,droite,6,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+465,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,sur,3,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+466,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,la,2,0.0,0.0,0.0,0.0,1.0,0.57,0.0,0.43
+467,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,Via,3,0.0,0.0,0.0,0.0,0.0,0.57,1.0,0.43
+468,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,Regina,6,0.0,0.0,0.71,0.0,0.0,0.57,0.29,0.43
+469,fr,Navigation,fr_Navigation,56,Tournez à droite sur la Via Regina Elena.,Elena,5,0.0,0.0,1.0,0.0,0.0,0.57,0.0,0.43

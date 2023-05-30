@@ -1,0 +1,429 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word_x,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT,Word_y,Language
+0,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+1,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,chef,4,0.43,1.0,0.57,0.0,0.0,0.0,0.0,0.0,chef,en
+2,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,prepared,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,prepared,en
+3,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+4,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,delicious,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,delicious,en
+5,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,amuse,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,amuse,fr
+6,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,bouche,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,bouche,fr
+7,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+8,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,start,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,start,en
+9,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+10,en,Jargon,en_Jargon,0,The chef prepared a delicious amuse-bouche to start the meal.,meal,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,meal,en
+11,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,She,en
+12,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,wore,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,wore,en
+13,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+14,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,chic,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,chic,fr
+15,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,outfit,6,0.71,1.0,0.0,0.0,0.29,0.0,0.0,0.0,outfit,en
+16,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,with,en
+17,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+18,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,touch,5,0.71,1.0,0.0,0.0,0.29,0.0,0.0,0.0,touch,en
+19,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+20,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,je,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,je,fr
+21,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,ne,2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ne,fr
+22,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,sais,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,sais,fr
+23,en,Jargon,en_Jargon,1,She wore a chic outfit with a touch of je ne sais quoi.,quoi,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,quoi,fr
+24,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,He,en
+25,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+26,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,fr
+27,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",pièce,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,pièce,fr
+28,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",de,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,de,fr
+29,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",résistance,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,résistance,fr
+30,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,at,en
+31,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+32,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",party,5,0.71,1.0,0.0,0.0,0.29,0.0,0.0,0.0,party,en
+33,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",drawing,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,drawing,en
+34,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",everyone,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,everyone,en
+35,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+36,en,Jargon,en_Jargon,2,"He was the pièce de résistance at the party, drawing everyone's attention.",attention,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,attention,en
+37,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",Her,3,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Her,en
+38,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",performance,11,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,performance,en
+39,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+40,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+41,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",tour,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,tour,fr
+42,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",de,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,de,fr
+43,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",force,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,force,fr
+44,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",leaving,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,leaving,en
+45,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+46,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",audience,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,audience,en
+47,en,Jargon,en_Jargon,3,"Her performance was a tour de force, leaving the audience mesmerized.",mesmerized,10,0.57,1.0,0.0,0.0,0.0,0.0,0.43,0.0,mesmerized,en
+48,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,He,en
+49,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,had,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,had,en
+50,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+51,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,certain,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,certain,en
+52,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,savoir,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,savoir,fr
+53,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,faire,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,faire,fr
+54,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+55,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,his,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,his,en
+56,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,approach,8,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,approach,en
+57,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+58,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,business,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,business,en
+59,en,Jargon,en_Jargon,4,He had a certain savoir-faire in his approach to business negotiations.,negotiations,12,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,negotiations,en
+60,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+61,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,art,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,art,en
+62,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,exhibit,7,0.29,1.0,0.0,0.0,0.57,0.0,0.14,0.0,exhibit,en
+63,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,showcased,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,showcased,en
+64,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,avant,5,0.0,1.0,0.0,0.0,0.4,0.0,0.6,0.0,avant,fr
+65,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,garde,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,garde,fr
+66,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,pieces,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,pieces,en
+67,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,that,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,that,en
+68,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,were,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,were,en
+69,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,both,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,both,en
+70,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,innovative,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,innovative,en
+71,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+72,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,thought,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,thought,en
+73,en,Jargon,en_Jargon,5,The art exhibit showcased avant-garde pieces that were both innovative and thought-provoking.,provoking,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,provoking,en
+74,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+75,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",hotel,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,hotel,en
+76,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+77,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",concierge,9,0.0,1.0,0.0,0.0,0.29,0.0,0.71,0.0,concierge,en
+78,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",provided,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,provided,en
+79,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",impeccable,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,impeccable,en
+80,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",service,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,service,en
+81,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",attending,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,attending,en
+82,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+83,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",every,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,every,en
+84,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",guest,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,guest,en
+85,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+86,en,Jargon,en_Jargon,6,"The hotel's concierge provided impeccable service, attending to every guest's needs.",needs,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,needs,en
+87,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,She,en
+88,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,had,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,had,en
+89,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+90,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,penchant,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,penchant,fr
+91,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+92,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,haute,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,haute,fr
+93,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,cuisine,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,cuisine,fr
+94,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+95,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,frequented,10,0.29,1.0,0.0,0.0,0.71,0.0,0.0,0.0,frequented,en
+96,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,Michelin,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Michelin,fr
+97,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,starred,7,0.96,1.0,0.0,0.0,0.0,0.0,0.0,0.0,starred,en
+98,en,Jargon,en_Jargon,7,She had a penchant for haute cuisine and frequented Michelin-starred restaurants.,restaurants,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,restaurants,en
+99,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+100,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,fashionista,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,fashionista,en
+101,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+102,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,known,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,known,en
+103,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+104,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,her,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,her,en
+105,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,impeccable,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,impeccable,en
+106,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,sense,5,0.0,1.0,0.57,0.0,0.43,0.0,0.0,0.0,sense,en
+107,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+108,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,style,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,style,en
+109,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+110,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,penchant,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,penchant,fr
+111,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+112,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,haute,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,haute,fr
+113,en,Jargon,en_Jargon,8,The fashionista was known for her impeccable sense of style and penchant for haute couture.,couture,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,couture,fr
+114,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+115,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,sommelier,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,sommelier,fr
+116,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,recommended,11,0.86,1.0,0.0,0.0,0.14,0.0,0.0,0.0,recommended,en
+117,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+118,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,fine,4,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,fine,en
+119,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,Bordeaux,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Bordeaux,fr
+120,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+121,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,accompany,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,accompany,en
+122,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+123,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,filet,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,filet,fr
+124,en,Jargon,en_Jargon,9,The sommelier recommended a fine Bordeaux to accompany the filet mignon.,mignon,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,mignon,fr
+125,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+126,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",fashionista,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,fashionista,en
+127,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+128,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",known,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,known,en
+129,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+130,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",her,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,her,en
+131,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",impeccable,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,impeccable,en
+132,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",sense,5,0.0,1.0,0.52,0.0,0.48,0.0,0.0,0.0,sense,en
+133,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+134,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",moda,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,moda,it
+135,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",always,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,always,en
+136,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",dressed,7,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,dressed,en
+137,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+138,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+139,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",latest,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,latest,en
+140,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+141,en,Jargon,en_Jargon,10,"The fashionista was known for her impeccable sense of moda, always dressed in the latest Italian trends.",trends,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,trends,en
+142,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+143,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",chef,4,0.71,1.0,0.29,0.0,0.0,0.0,0.0,0.0,chef,en
+144,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",prepared,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,prepared,en
+145,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+146,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",delicious,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,delicious,en
+147,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",plate,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,plate,en
+148,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+149,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",spaghetti,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,spaghetti,it
+150,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",carbonara,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,carbonara,it
+151,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+152,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",classic,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,classic,en
+153,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",Italian,7,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,Italian,en
+154,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",pasta,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,pasta,en
+155,en,Jargon,en_Jargon,11,"The chef prepared a delicious plate of spaghetti carbonara, a classic Italian pasta dish.",dish,4,0.71,1.0,0.29,0.0,0.0,0.0,0.0,0.0,dish,en
+156,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+157,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,interior,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,interior,en
+158,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,designer,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,designer,en
+159,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,used,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,used,en
+160,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,fresco,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,fresco,it
+161,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,painting,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,painting,en
+162,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,to,en
+163,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,create,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,create,en
+164,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+165,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,stunning,8,0.14,1.0,0.86,0.0,0.0,0.0,0.0,0.0,stunning,en
+166,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+167,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,inspired,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,inspired,en
+168,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,mural,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,mural,en
+169,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+170,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+171,en,Jargon,en_Jargon,12,The interior designer used fresco painting to create a stunning Italian-inspired mural on the wall.,wall,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,wall,en
+172,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+173,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",musician,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,musician,en
+174,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",played,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,played,en
+175,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+176,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",beautiful,9,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,beautiful,en
+177,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",allegro,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,allegro,it
+178,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+179,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+180,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",piano,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,piano,en
+181,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",showcasing,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,showcasing,en
+182,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",their,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,their,en
+183,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",musical,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,musical,en
+184,en,Jargon,en_Jargon,13,"The musician played a beautiful allegro on the piano, showcasing their musical prowess.",prowess,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,prowess,en
+185,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,He,en
+186,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",showed,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,showed,en
+187,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",off,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,off,en
+188,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",his,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,his,en
+189,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",sprezzatura,11,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,sprezzatura,it
+190,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",effortlessly,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,effortlessly,en
+191,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",pulling,7,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,pulling,en
+192,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",off,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,off,en
+193,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+194,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",stylish,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,stylish,en
+195,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+196,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",casual,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,casual,en
+197,en,Jargon,en_Jargon,14,"He showed off his sprezzatura, effortlessly pulling off a stylish and casual look.",look,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,look,en
+198,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+199,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",art,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,art,en
+200,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",gallery,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,gallery,en
+201,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",featured,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,featured,en
+202,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",an,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,an,en
+203,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",exhibit,7,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,exhibit,en
+204,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+205,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",Renaissance,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Renaissance,fr
+206,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",masterpieces,12,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,masterpieces,en
+207,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",showcasing,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,showcasing,en
+208,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+209,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",beauty,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,beauty,en
+210,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+211,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",Italian,7,0.14,1.0,0.0,0.0,0.0,0.0,0.86,0.0,Italian,en
+212,en,Jargon,en_Jargon,15,"The art gallery featured an exhibit on Renaissance masterpieces, showcasing the beauty of Italian art.",art,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,art,en
+213,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",They,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,They,en
+214,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",gathered,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,gathered,en
+215,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+216,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+217,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",piazza,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,piazza,it
+218,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+219,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+220,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",lively,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,lively,en
+221,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",game,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,game,en
+222,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+223,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",calcio,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,calcio,it
+224,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+225,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",beloved,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,beloved,en
+226,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+227,en,Jargon,en_Jargon,16,"They gathered in the piazza for a lively game of calcio, the beloved Italian sport.",sport,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,sport,en
+228,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+229,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,gelato,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,gelato,it
+230,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,vendor,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,vendor,en
+231,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,offered,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,offered,en
+232,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+233,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,wide,4,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0,wide,en
+234,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,selection,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,selection,en
+235,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+236,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,delicious,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,delicious,en
+237,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+238,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,ice,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,ice,en
+239,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,cream,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,cream,en
+240,en,Jargon,en_Jargon,17,The gelato vendor offered a wide selection of delicious Italian ice cream flavors.,flavors,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,flavors,en
+241,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,She,en
+242,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",hosted,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,hosted,en
+243,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+244,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",dinner,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,dinner,en
+245,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",party,5,0.43,1.0,0.0,0.0,0.57,0.0,0.0,0.0,party,en
+246,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,with,en
+247,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+248,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",menu,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,menu,en
+249,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",full,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,full,en
+250,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+251,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+252,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",culinary,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,culinary,en
+253,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",delights,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,delights,en
+254,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",including,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,including,en
+255,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",bruschetta,10,0.0,1.0,0.86,0.0,0.0,0.0,0.14,0.0,bruschetta,it
+256,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+257,en,Jargon,en_Jargon,18,"She hosted a dinner party with a menu full of Italian culinary delights, including bruschetta and tiramisu.",tiramisu,8,0.0,1.0,0.0,0.0,0.15,0.0,0.85,0.0,tiramisu,it
+258,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+259,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",architecture,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,architecture,en
+260,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+261,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+262,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",building,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,building,en
+263,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+264,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",reminiscent,11,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,reminiscent,en
+265,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+266,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",an,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,an,en
+267,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",Italian,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,Italian,en
+268,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",palazzo,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,palazzo,it
+269,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,with,en
+270,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",its,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,its,en
+271,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",grandeur,8,0.0,1.0,0.14,0.0,0.86,0.0,0.0,0.0,grandeur,fr
+272,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+273,en,Jargon,en_Jargon,19,"The architecture of the building was reminiscent of an Italian palazzo, with its grandeur and elegance.",elegance,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,elegance,fr
+274,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+275,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",team,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,team,en
+276,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+277,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",project,7,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,project,en
+278,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+279,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+280,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",real,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,real,en
+281,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",Fahrvergnügen,13,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Fahrvergnügen,de
+282,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",as,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,as,en
+283,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",they,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,they,en
+284,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",implemented,11,0.43,1.0,0.0,0.0,0.29,0.0,0.29,0.0,implemented,en
+285,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",cutting,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,cutting,en
+286,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",edge,4,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0,edge,en
+287,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+288,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",engineering,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,engineering,en
+289,en,Jargon,en_Jargon,20,"The team's project was a real Fahrvergnügen, as they implemented cutting-edge German engineering techniques.",techniques,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,techniques,en
+290,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,She,en
+291,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",has,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,has,en
+292,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+293,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",keen,4,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0,keen,en
+294,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",sense,5,0.0,1.0,0.29,0.0,0.71,0.0,0.0,0.0,sense,en
+295,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+296,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",Zeitgeist,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Zeitgeist,de
+297,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",always,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,always,en
+298,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",staying,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,staying,en
+299,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",ahead,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,ahead,en
+300,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+301,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+302,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",latest,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,latest,en
+303,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",trends,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,trends,en
+304,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+305,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+306,en,Jargon,en_Jargon,21,"She has a keen sense of Zeitgeist, always staying ahead of the latest trends in the industry.",industry,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,industry,en
+307,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+308,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",manager,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,manager,en
+309,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+310,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",Planung,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Planung,de
+311,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+312,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",meticulous,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,meticulous,en
+313,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",resulting,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,resulting,en
+314,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+315,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+316,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",successful,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,successful,en
+317,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",product,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,product,en
+318,en,Jargon,en_Jargon,22,"The manager's Planung was meticulous, resulting in a successful product launch.",launch,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,launch,en
+319,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+320,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",artist,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,artist,en
+321,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+322,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",work,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,work,en
+323,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",is,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,is,en
+324,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",reminiscent,11,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,reminiscent,en
+325,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+326,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+327,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",Bauhaus,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Bauhaus,de
+328,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",style,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,style,en
+329,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,with,en
+330,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",its,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,its,en
+331,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",minimalist,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,minimalist,en
+332,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+333,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",functional,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,functional,en
+334,en,Jargon,en_Jargon,23,"The artist's work is reminiscent of the Bauhaus style, with its minimalist and functional design.",design,6,0.0,1.0,0.0,0.0,0.86,0.0,0.14,0.0,design,en
+335,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,He,en
+336,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,has,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,has,en
+337,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+338,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,natural,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,natural,en
+339,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,talent,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,talent,en
+340,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,for,en
+341,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,mimicry,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,mimicry,en
+342,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+343,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,can,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,can,en
+344,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,effortlessly,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,effortlessly,en
+345,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,pull,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,pull,en
+346,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,off,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,off,en
+347,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+348,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,Doppelgänger,12,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Doppelgänger,de
+349,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+350,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,famous,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,famous,en
+351,en,Jargon,en_Jargon,24,He has a natural talent for mimicry and can effortlessly pull off a Doppelgänger of famous personalities.,personalities,13,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,personalities,en
+352,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+353,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",linguist,8,0.57,1.0,0.0,0.0,0.43,0.0,0.0,0.0,linguist,en
+354,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",is,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,is,en
+355,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",fascinated,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,fascinated,en
+356,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",by,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,by,en
+357,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+358,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",unique,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,unique,en
+359,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",phonetics,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,phonetics,en
+360,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+361,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",Deutsche,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Deutsche,de
+362,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",Sprache,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Sprache,de
+363,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",especially,10,0.57,1.0,0.0,0.0,0.0,0.0,0.43,0.0,especially,en
+364,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+365,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",use,3,0.29,1.0,0.0,0.0,0.71,0.0,0.0,0.0,use,en
+366,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+367,en,Jargon,en_Jargon,25,"The linguist is fascinated by the unique phonetics of Deutsche Sprache, especially the use of umlauts.",umlauts,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,umlauts,en
+368,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+369,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,historian,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,historian,en
+370,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,conducted,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,conducted,en
+371,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,in,2,0.96,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+372,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,depth,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,depth,en
+373,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,research,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,research,en
+374,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,on,en
+375,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+376,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,impact,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,impact,en
+377,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+378,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+379,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,Reichstag,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Reichstag,de
+380,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,during,6,0.0,1.0,0.29,0.0,0.71,0.0,0.0,0.0,during,en
+381,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,German,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,German,en
+382,en,Jargon,en_Jargon,26,The historian conducted in-depth research on the impact of the Reichstag during German history.,history,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,history,en
+383,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+384,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",politician,10,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,politician,en
+385,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+386,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",proposed,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,proposed,en
+387,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",solution,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,solution,en
+388,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,was,en
+389,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",viewed,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,viewed,en
+390,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",by,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,by,en
+391,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",some,4,0.73,1.0,0.0,0.0,0.0,0.0,0.27,0.0,some,en
+392,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",as,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,as,en
+393,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+394,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",Diktat,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Diktat,de
+395,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",imposed,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,imposed,en
+396,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",without,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,without,en
+397,en,Jargon,en_Jargon,27,"The politician's proposed solution was viewed by some as a Diktat, imposed without consensus.",consensus,9,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,consensus,en
+398,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+399,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,art,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,art,en
+400,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,critic,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,critic,en
+401,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,praised,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,praised,en
+402,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+403,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,artist,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,artist,en
+404,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,s,en
+405,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,use,3,0.57,1.0,0.0,0.0,0.43,0.0,0.0,0.0,use,en
+406,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,of,en
+407,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,Expressionism,13,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,Expressionism,en
+408,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+409,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,depicting,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,depicting,en
+410,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,raw,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,raw,en
+411,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,human,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,human,en
+412,en,Jargon,en_Jargon,28,The art critic praised the artist's use of Expressionism in depicting raw human emotions.,emotions,8,0.14,1.0,0.0,0.0,0.86,0.0,0.0,0.0,emotions,en
+413,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,The,en
+414,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",cultural,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,cultural,en
+415,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",anthropologist,14,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,anthropologist,en
+416,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",studied,7,0.86,1.0,0.0,0.0,0.0,0.0,0.14,0.0,studied,en
+417,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,the,en
+418,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",Kulturkampf,11,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Kulturkampf,de
+419,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,a,en
+420,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",historical,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,historical,en
+421,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",conflict,8,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0,conflict,en
+422,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",between,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,between,en
+423,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",church,6,0.29,1.0,0.71,0.0,0.0,0.0,0.0,0.0,church,en
+424,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,and,en
+425,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",state,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,state,en
+426,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,in,en
+427,en,Jargon,en_Jargon,29,"The cultural anthropologist studied the Kulturkampf, a historical conflict between church and state in Germany.",Germany,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Germany,en

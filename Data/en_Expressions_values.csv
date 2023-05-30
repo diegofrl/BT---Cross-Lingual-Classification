@@ -1,0 +1,300 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+1,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,chef,4,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0
+2,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,prepared,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,delicious,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+5,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,three,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,course,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+7,en,Expressions,en_Expressions,0,The chef prepared a delicious three-course dinner.,dinner,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+8,en,Expressions,en_Expressions,1,Bon appétit!,Bon,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+9,en,Expressions,en_Expressions,1,Bon appétit!,appétit,7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+10,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",I,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+11,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",didn,4,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+12,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",t,1,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+13,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",get,3,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+14,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",the,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+15,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",promotion,9,0.14,0.0,0.0,0.0,0.0,1.0,0.86,0.0
+16,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",but,3,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+17,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",c,1,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+18,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",est,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+19,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",la,2,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+20,en,Expressions,en_Expressions,2,"I didn't get the promotion, but c'est la vie.",vie,3,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+21,en,Expressions,en_Expressions,3,I'll keep working hard.,I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+22,en,Expressions,en_Expressions,3,I'll keep working hard.,ll,2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+23,en,Expressions,en_Expressions,3,I'll keep working hard.,keep,4,0.43,1.0,0.57,0.0,0.0,0.0,0.0,0.0
+24,en,Expressions,en_Expressions,3,I'll keep working hard.,working,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+25,en,Expressions,en_Expressions,3,I'll keep working hard.,hard,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+26,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,Kindly,6,0.14,1.0,0.86,0.0,0.0,0.0,0.0,0.0
+27,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,RSVP,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+28,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,by,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+29,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,Friday,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+30,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,if,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+31,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,you,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,will,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+33,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,be,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+34,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,attending,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+35,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+36,en,Expressions,en_Expressions,4,Kindly RSVP by Friday if you will be attending the event.,event,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+37,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",accidentally,12,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+39,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",wore,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+40,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",white,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+41,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+42,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+43,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",wedding,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+44,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",which,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+45,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",is,2,0.0,1.0,0.98,0.0,0.0,0.0,0.0,0.0
+46,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+47,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",faux,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+48,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",pas,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+49,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+50,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",many,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,en,Expressions,en_Expressions,5,"She accidentally wore white to a wedding, which is a faux pas in many cultures.",cultures,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+52,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",As,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+54,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",walked,6,0.71,1.0,0.29,0.0,0.0,0.0,0.0,0.0
+55,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",into,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+56,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+57,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",old,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+58,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",house,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+59,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+60,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",had,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+61,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+62,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",strong,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+63,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",sense,5,0.0,1.0,0.44,0.0,0.56,0.0,0.0,0.0
+64,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+65,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",déjà,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+66,en,Expressions,en_Expressions,6,"As I walked into the old house, I had a strong sense of déjà vu.",vu,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+67,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+68,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",approached,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+69,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",every,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+70,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",day,3,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+71,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+72,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+73,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",sense,5,0.0,1.0,0.86,0.0,0.14,0.0,0.0,0.0
+74,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+75,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",joie,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+76,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",de,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+77,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",vivre,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+78,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",making,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+79,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+80,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",most,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+81,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+82,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",every,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+83,en,Expressions,en_Expressions,7,"She approached every day with a sense of joie de vivre, making the most of every moment.",moment,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+84,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+85,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,package,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+86,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,is,2,0.0,1.0,0.99,0.0,0.0,0.0,0.0,0.0
+87,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,en,2,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+88,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,route,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+89,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+90,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,should,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+91,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,arrive,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+92,en,Expressions,en_Expressions,8,The package is en route and should arrive tomorrow.,tomorrow,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+93,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+94,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,have,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+95,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+96,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,rendez,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+97,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,vous,4,0.0,1.0,0.29,0.0,0.71,0.0,0.0,0.0
+98,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+100,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,colleague,9,0.43,1.0,0.0,0.0,0.0,0.0,0.57,0.0
+101,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+102,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+103,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,coffee,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+104,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,shop,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+105,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,this,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+106,en,Expressions,en_Expressions,9,I have a rendez-vous with my colleague at the coffee shop this afternoon.,afternoon,9,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0
+107,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+108,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,saw,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+109,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,someone,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+110,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+111,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+112,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,party,5,0.57,1.0,0.0,0.0,0.43,0.0,0.0,0.0
+113,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,who,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+114,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,looked,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+115,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,exactly,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,like,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+117,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,my,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,friend,6,0.0,1.0,0.86,0.0,0.14,0.0,0.0,0.0
+119,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+120,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,true,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+121,en,Expressions,en_Expressions,10,I saw someone at the party who looked exactly like my friend - a true doppelgänger!,doppelgänger,12,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+122,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",always,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+124,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",had,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+125,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+126,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",sense,5,0.0,1.0,0.57,0.0,0.43,0.0,0.0,0.0
+127,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",wanderlust,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+129,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",constantly,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",planning,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",her,3,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0
+132,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",next,4,0.0,1.0,0.0,0.0,0.71,0.0,0.29,0.0
+133,en,Expressions,en_Expressions,11,"She always had a sense of wanderlust, constantly planning her next adventure.",adventure,9,0.73,1.0,0.0,0.0,0.27,0.0,0.0,0.0
+134,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+135,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,felt,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+136,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,pang,4,0.71,1.0,0.0,0.0,0.29,0.0,0.0,0.0
+138,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+139,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,schadenfreude,13,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+140,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,when,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,he,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+142,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,saw,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+143,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,his,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+144,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,rival,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+145,en,Expressions,en_Expressions,12,He felt a pang of schadenfreude when he saw his rival fail.,fail,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+146,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+147,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,fashion,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+148,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+149,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+150,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+151,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,perfectly,9,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+152,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,captured,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+153,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+154,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,zeitgeist,9,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+155,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+157,en,Expressions,en_Expressions,13,The fashion of the 1920s perfectly captured the zeitgeist of the era.,era,3,0.0,1.0,0.71,0.0,0.0,0.0,0.29,0.0
+158,en,Expressions,en_Expressions,14,I'm about to sneeze!,I,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+159,en,Expressions,en_Expressions,14,I'm about to sneeze!,m,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+160,en,Expressions,en_Expressions,14,I'm about to sneeze!,about,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+161,en,Expressions,en_Expressions,14,I'm about to sneeze!,to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+162,en,Expressions,en_Expressions,14,I'm about to sneeze!,sneeze,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+163,en,Expressions,en_Expressions,15,Achoo!,Achoo,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,en,Expressions,en_Expressions,16,Gesundheit!,Gesundheit,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+165,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,army,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+167,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,launched,8,0.57,1.0,0.43,0.0,0.0,0.0,0.0,0.0
+168,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+169,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,blitzkrieg,10,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+170,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,against,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+171,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,enemy,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+173,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,s,1,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+174,en,Expressions,en_Expressions,17,The army launched a blitzkrieg against the enemy's defenses.,defenses,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+175,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+176,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,enrolled,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+177,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,her,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+178,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,toddler,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+179,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+180,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+181,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,local,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+182,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,kindergarten,12,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+183,en,Expressions,en_Expressions,18,She enrolled her toddler in a local kindergarten program.,program,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+184,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+185,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,experienced,11,0.29,1.0,0.0,0.0,0.71,0.0,0.0,0.0
+186,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+187,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,sense,5,0.0,1.0,0.15,0.0,0.85,0.0,0.0,0.0
+188,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+189,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,existential,11,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+190,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,angst,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+191,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,as,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+192,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,he,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,pondered,8,0.57,1.0,0.0,0.0,0.0,0.0,0.43,0.0
+194,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+195,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,meaning,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+196,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+197,en,Expressions,en_Expressions,19,He experienced a sense of existential angst as he pondered the meaning of life.,life,4,0.86,1.0,0.0,0.0,0.14,0.0,0.0,0.0
+198,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",After,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+199,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",working,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+200,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",hard,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+201,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+202,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",years,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+203,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",he,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",decided,7,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+205,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+206,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",retire,6,0.0,1.0,0.0,0.0,0.87,0.0,0.13,0.0
+207,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+208,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",embrace,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+209,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+210,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",dolce,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+211,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",vita,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+212,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",in,2,0.99,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+213,en,Expressions,en_Expressions,20,"After working hard for years, he decided to retire and embrace the dolce vita in Italy.",Italy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+214,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",always,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+216,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",dresses,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+217,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",impeccably,10,0.71,1.0,0.0,0.0,0.0,0.0,0.29,0.0
+218,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",wanting,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+219,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",maintain,8,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+221,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+222,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",bella,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+223,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",figura,6,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+224,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",in,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+225,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",any,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+226,en,Expressions,en_Expressions,21,"She always dresses impeccably, wanting to maintain a bella figura in any situation.",situation,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+227,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+228,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",lead,4,0.71,1.0,0.0,0.0,0.29,0.0,0.0,0.0
+229,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",actress,7,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+230,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+231,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",acting,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+232,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",like,4,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+233,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+234,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",prima,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+235,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",donna,5,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+236,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",making,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+237,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",outrageous,10,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+238,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",demands,7,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+239,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+240,en,Expressions,en_Expressions,22,"The lead actress was acting like a prima donna, making outrageous demands on set.",set,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+241,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+242,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",prefers,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+243,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",his,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+244,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",spaghetti,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+245,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",cooked,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+246,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",al,2,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+247,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",dente,5,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+248,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+249,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+250,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",slight,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+251,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",bite,4,0.14,1.0,0.14,0.0,0.0,0.0,0.71,0.0
+252,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",to,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+253,en,Expressions,en_Expressions,23,"He prefers his spaghetti cooked al dente, with a slight bite to it.",it,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+254,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",She,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",greeted,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+256,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",her,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+257,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",friend,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+258,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+259,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+260,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",warm,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+261,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",ciao,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+262,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",as,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",they,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+264,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",met,3,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+265,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",at,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+266,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+267,en,Expressions,en_Expressions,24,"She greeted her friend with a warm ""ciao"" as they met at the café.",café,4,0.0,1.0,0.0,0.0,0.86,0.0,0.14,0.0
+268,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",He,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+269,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",is,2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+270,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",a,1,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",maestro,7,0.0,1.0,0.0,0.0,0.43,0.0,0.57,0.0
+272,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",of,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+273,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",classical,9,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+274,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",music,5,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+275,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",renowned,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+276,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",for,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+277,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",his,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+278,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",conducting,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+279,en,Expressions,en_Expressions,25,"He is a maestro of classical music, renowned for his conducting skills.",skills,6,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0
+280,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,The,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+281,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,park,4,0.86,1.0,0.0,0.0,0.14,0.0,0.0,0.0
+282,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,was,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+283,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,filled,6,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+284,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,with,4,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,happy,5,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+286,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,bambinos,8,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+287,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,playing,7,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+288,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,on,2,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+289,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+290,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,swings,6,0.86,1.0,0.14,0.0,0.0,0.0,0.0,0.0
+291,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,and,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,en,Expressions,en_Expressions,26,The park was filled with happy bambinos playing on the swings and slides.,slides,6,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+293,en,Expressions,en_Expressions,27,Can you pass the salt?,Can,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+294,en,Expressions,en_Expressions,27,Can you pass the salt?,you,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+295,en,Expressions,en_Expressions,27,Can you pass the salt?,pass,4,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+296,en,Expressions,en_Expressions,27,Can you pass the salt?,the,3,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+297,en,Expressions,en_Expressions,27,Can you pass the salt?,salt,4,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0
+298,en,Expressions,en_Expressions,28,Prego.,Prego,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0

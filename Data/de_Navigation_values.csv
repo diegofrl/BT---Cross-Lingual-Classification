@@ -1,0 +1,503 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT
+0,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Fahren,6,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+1,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Sie,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+2,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,von,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+3,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Avenue,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+4,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Anatole,7,0.0,0.0,0.0,0.71,0.0,0.29,1.0,0.0
+5,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,France,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+6,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,zur,3,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+7,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Avenue,6,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+8,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,de,2,0.0,0.0,0.0,0.71,1.0,0.29,0.0,0.0
+9,de,Navigation,de_Navigation,0,Fahren Sie von Avenue Anatole France zur Avenue de Suffren.,Suffren,7,0.0,0.0,1.0,0.71,0.0,0.29,0.0,0.0
+10,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+11,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+12,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+13,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+14,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+15,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+16,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+17,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+18,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Suffren,7,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+19,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+20,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+21,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+22,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+23,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+24,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+25,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+26,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+27,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+28,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+29,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",Bourdonnais,11,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+30,de,Navigation,de_Navigation,1,"Biegen Sie rechts ab auf die Avenue de Suffren und fahren Sie weiter, bis Sie zur Avenue de la Bourdonnais kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+31,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+32,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+33,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+34,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+35,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+36,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+37,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+38,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+39,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+40,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Bourdonnais,11,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+41,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+42,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",folgen,6,0.29,0.0,0.71,1.0,0.0,0.0,0.0,0.0
+43,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+44,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+45,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Straße,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+46,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+47,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+48,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+49,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Rue,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+50,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Saint,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+51,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",Dominique,9,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+52,de,Navigation,de_Navigation,2,"Biegen Sie links ab auf die Avenue de la Bourdonnais und folgen Sie der Straße, bis Sie zur Rue Saint-Dominique kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+53,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+54,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+55,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+56,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+57,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+58,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+59,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Rue,3,0.0,0.0,0.86,1.0,0.14,0.0,0.0,0.0
+60,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Saint,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+61,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Dominique,9,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+62,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+63,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+64,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+65,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+66,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+67,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+68,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+69,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+70,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+71,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+72,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Motte,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+73,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",Picquet,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+74,de,Navigation,de_Navigation,3,"Biegen Sie rechts ab auf die Rue Saint-Dominique und fahren Sie weiter, bis Sie zur Avenue de la Motte-Picquet kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+75,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+76,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+77,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+78,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+79,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+80,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+81,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+82,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+83,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+84,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Motte,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+85,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Picquet,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+86,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+87,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+88,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+89,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+90,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+91,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+92,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+93,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Rue,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+94,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",Cler,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+95,de,Navigation,de_Navigation,4,"Biegen Sie links ab auf die Avenue de la Motte-Picquet und fahren Sie weiter, bis Sie zur Rue Cler kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+96,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+97,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+98,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+99,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+100,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+101,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",die,3,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+102,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Rue,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+103,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Cler,4,0.99,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+104,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+105,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+106,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+107,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+108,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+109,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+110,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+111,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Rue,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+112,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Saint,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+113,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",Honoré,6,0.14,0.0,0.0,1.0,0.86,0.0,0.0,0.0
+114,de,Navigation,de_Navigation,5,"Biegen Sie rechts ab auf die Rue Cler und fahren Sie weiter, bis Sie zur Rue Saint-Honoré kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+115,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+116,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+117,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+118,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+119,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+120,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+121,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Rue,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+122,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Saint,5,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+123,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Honoré,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+124,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+125,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+126,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+127,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+128,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+129,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+130,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+131,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Place,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+132,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+133,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+134,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",Concorde,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+135,de,Navigation,de_Navigation,6,"Biegen Sie rechts ab auf die Rue Saint-Honoré und fahren Sie weiter, bis Sie zur Place de la Concorde kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+136,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+137,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+138,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+139,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+140,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+141,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+142,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Place,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+143,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",de,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+144,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",la,2,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+145,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Concorde,8,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+146,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+147,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+148,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+149,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+150,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+151,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+152,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+153,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Avenue,6,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+154,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",des,3,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+155,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Champs,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+156,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",Élysées,7,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+157,de,Navigation,de_Navigation,7,"Biegen Sie links ab auf die Place de la Concorde und fahren Sie weiter, bis Sie zur Avenue des Champs-Élysées kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+158,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Biegen,6,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+159,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Sie,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+160,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",rechts,6,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+161,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",ab,2,0.0,0.0,0.0,0.86,0.0,0.14,1.0,0.0
+162,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",auf,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+163,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",die,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+164,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Avenue,6,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+165,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",des,3,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+166,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Champs,6,1.0,0.0,0.0,0.86,0.0,0.14,0.0,0.0
+167,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Élysées,7,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+168,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",und,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+169,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",fahren,6,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+170,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Sie,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+171,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",weiter,6,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+172,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",bis,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+173,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Sie,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+174,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",zur,3,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+175,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Avenue,6,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+176,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",Montaigne,9,0.0,0.0,0.0,0.86,1.0,0.14,0.0,0.0
+177,de,Navigation,de_Navigation,8,"Biegen Sie rechts ab auf die Avenue des Champs-Élysées und fahren Sie weiter, bis Sie zur Avenue Montaigne kommen.",kommen,6,0.0,0.0,1.0,0.86,0.0,0.14,0.0,0.0
+178,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,Fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+179,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+180,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,von,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+181,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+182,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,The,3,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+183,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,Mall,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+184,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+185,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,Pall,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+186,de,Navigation,de_Navigation,9,Fahren Sie von der The Mall zur Pall Mall.,Mall,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+187,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+188,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+189,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+190,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+191,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+192,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+193,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Pall,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+194,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Mall,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+195,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+196,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+197,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+198,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+199,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+200,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+201,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+202,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Trafalgar,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+203,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",Square,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+204,de,Navigation,de_Navigation,10,"Biegen Sie links ab auf die Pall Mall und fahren Sie weiter, bis Sie zur Trafalgar Square kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+205,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Nehmen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+206,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+207,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+208,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,dritte,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+209,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Ausfahrt,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+210,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+211,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,dem,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+212,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Trafalgar,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+213,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Square,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+214,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+215,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+216,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+217,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+218,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+219,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+220,de,Navigation,de_Navigation,11,Nehmen Sie die dritte Ausfahrt auf dem Trafalgar Square und fahren Sie weiter auf der Whitehall.,Whitehall,9,0.71,0.0,0.29,1.0,0.0,0.0,0.0,0.0
+221,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+222,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+223,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+224,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+225,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+226,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+227,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Downing,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+228,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Street,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+229,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+230,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+231,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+232,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+233,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+234,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+235,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+236,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Parliament,10,0.57,0.0,0.0,1.0,0.0,0.0,0.43,0.0
+237,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",Street,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+238,de,Navigation,de_Navigation,12,"Biegen Sie rechts ab auf die Downing Street und fahren Sie weiter, bis Sie zur Parliament Street kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+239,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+240,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+241,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+242,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+243,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+244,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+245,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Parliament,10,0.6,0.0,0.0,1.0,0.0,0.0,0.4,0.0
+246,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Street,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+247,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+248,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+249,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+250,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+251,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+252,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+253,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+254,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Bridge,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+255,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",Street,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+256,de,Navigation,de_Navigation,13,"Biegen Sie links ab auf die Parliament Street und fahren Sie weiter, bis Sie zur Bridge Street kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+257,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+258,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+259,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+260,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+261,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+262,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+263,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Bridge,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+264,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Street,6,0.86,0.0,0.14,1.0,0.0,0.0,0.0,0.0
+265,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+266,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+267,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+268,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+269,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+270,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+271,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+272,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Victoria,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+273,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",Embankment,10,0.14,0.0,0.86,1.0,0.0,0.0,0.0,0.0
+274,de,Navigation,de_Navigation,14,"Biegen Sie rechts ab auf die Bridge Street und fahren Sie weiter, bis Sie zur Victoria Embankment kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+275,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+276,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+277,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+278,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+279,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+280,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+281,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Victoria,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+282,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Embankment,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+283,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+284,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+285,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+286,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+287,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+288,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+289,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+290,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Westminster,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+291,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",Bridge,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+292,de,Navigation,de_Navigation,15,"Biegen Sie links ab auf die Victoria Embankment und fahren Sie weiter, bis Sie zur Westminster Bridge kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+293,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Überqueren,10,0.0,0.0,0.71,1.0,0.29,0.0,0.0,0.0
+294,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+295,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+296,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Westminster,11,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+297,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Bridge,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+298,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+299,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+300,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+301,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+302,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+303,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+304,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Lambeth,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+305,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Palace,6,0.87,0.0,0.0,1.0,0.11,0.0,0.0,0.0
+306,de,Navigation,de_Navigation,16,Überqueren Sie die Westminster Bridge und fahren Sie weiter auf der Lambeth Palace Road.,Road,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+307,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+308,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+309,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+310,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+311,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+312,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+313,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Lambeth,7,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+314,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Road,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+315,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+316,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+317,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+318,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+319,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+320,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+321,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+322,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Kennington,10,0.71,0.0,0.29,1.0,0.0,0.0,0.0,0.0
+323,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",Road,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+324,de,Navigation,de_Navigation,17,"Biegen Sie rechts ab auf die Lambeth Road und fahren Sie weiter, bis Sie zur Kennington Road kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+325,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+326,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+327,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+328,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+329,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+330,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+331,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Kennington,10,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+332,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Road,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+333,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+334,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+335,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+336,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+337,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+338,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+339,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+340,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Kennington,10,0.43,0.0,0.57,1.0,0.0,0.0,0.0,0.0
+341,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",Oval,4,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+342,de,Navigation,de_Navigation,18,"Biegen Sie links ab auf die Kennington Road und fahren Sie weiter, bis Sie zur Kennington Oval kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+343,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Fahren,6,0.0,0.0,1.0,0.43,0.0,0.0,0.0,0.57
+344,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Sie,3,0.0,0.0,1.0,0.43,0.0,0.0,0.0,0.57
+345,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,von,3,0.0,0.0,1.0,0.43,0.0,0.0,0.0,0.57
+346,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,der,3,0.0,0.0,1.0,0.43,0.0,0.0,0.0,0.57
+347,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Piazza,6,0.0,0.0,0.0,0.43,0.0,0.0,1.0,0.57
+348,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,del,3,0.0,0.0,0.0,0.43,0.0,0.0,1.0,0.57
+349,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Duomo,5,0.0,0.0,0.0,0.43,0.0,0.0,1.0,0.57
+350,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,zur,3,0.0,0.0,1.0,0.43,0.0,0.0,0.0,0.57
+351,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Via,3,0.0,0.0,0.0,0.43,0.0,0.0,1.0,0.57
+352,de,Navigation,de_Navigation,19,Fahren Sie von der Piazza del Duomo zur Via Cordusio.,Cordusio,8,1.0,0.0,0.0,0.43,0.0,0.0,0.0,0.57
+353,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+354,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+355,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+356,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+357,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+358,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+359,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Via,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+360,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Cordusio,8,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+361,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+362,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+363,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+364,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+365,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+366,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+367,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+368,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Piazza,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+369,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",Missori,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+370,de,Navigation,de_Navigation,20,"Biegen Sie rechts ab auf die Via Cordusio und fahren Sie weiter, bis Sie zur Piazza Missori kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+371,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Überqueren,10,0.0,0.0,0.43,1.0,0.57,0.0,0.0,0.0
+372,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+373,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+374,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Piazza,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+375,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Missori,7,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+376,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+377,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+378,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+379,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+380,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+381,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,der,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+382,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Via,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+383,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Santa,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+384,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Maria,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+385,de,Navigation,de_Navigation,21,Überqueren Sie die Piazza Missori und fahren Sie weiter auf der Via Santa Maria Fulcorina.,Fulcorina,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+386,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+387,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+388,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+389,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+390,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+391,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+392,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Via,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+393,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Santa,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+394,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Maria,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+395,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Fulcorina,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+396,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+397,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+398,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+399,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+400,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+401,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+402,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+403,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Piazza,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+404,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Santo,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+405,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",Stefano,7,0.0,0.0,0.71,1.0,0.0,0.0,0.29,0.0
+406,de,Navigation,de_Navigation,22,"Biegen Sie links ab auf die Via Santa Maria Fulcorina und fahren Sie weiter, bis Sie zur Piazza Santo Stefano kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+407,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+408,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+409,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+410,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+411,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+412,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+413,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Via,3,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+414,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",dei,3,0.0,0.0,0.43,1.0,0.0,0.0,0.57,0.0
+415,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Cappuccini,10,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+416,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+417,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+418,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+419,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+420,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+421,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+422,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+423,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Corso,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+424,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",di,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+425,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Porta,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+426,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",Romana,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+427,de,Navigation,de_Navigation,23,"Biegen Sie rechts ab auf die Via dei Cappuccini und fahren Sie weiter, bis Sie zur Corso di Porta Romana kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+428,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+429,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+430,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+431,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+432,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+433,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",die,3,0.0,0.0,0.86,1.0,0.0,0.0,0.14,0.0
+434,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Corso,5,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+435,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",di,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+436,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Porta,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+437,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Romana,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+438,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+439,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+440,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+441,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+442,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+443,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+444,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+445,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+446,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",Montenero,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+447,de,Navigation,de_Navigation,24,"Biegen Sie links ab auf die Corso di Porta Romana und fahren Sie weiter, bis Sie zur Viale Montenero kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+448,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+449,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+450,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+451,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+452,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+453,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+454,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+455,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Montenero,9,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+456,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+457,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+458,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+459,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+460,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+461,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+462,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+463,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+464,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",Umbria,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+465,de,Navigation,de_Navigation,25,"Biegen Sie rechts ab auf die Viale Montenero und fahren Sie weiter, bis Sie zur Viale Umbria kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+466,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+467,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+468,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",links,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+469,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+470,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+471,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+472,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+473,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Umbria,6,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+474,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+475,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+476,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+477,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+478,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+479,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+480,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+481,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+482,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",Argonne,7,0.0,0.0,0.0,1.0,0.43,0.0,0.57,0.0
+483,de,Navigation,de_Navigation,26,"Biegen Sie links ab auf die Viale Umbria und fahren Sie weiter, bis Sie zur Viale Argonne kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+484,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Biegen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+485,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+486,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",rechts,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+487,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",ab,2,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+488,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",auf,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+489,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",die,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+490,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+491,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Argonne,7,0.0,0.0,0.0,1.0,0.14,0.0,0.86,0.0
+492,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",und,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+493,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",fahren,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+494,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+495,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",weiter,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+496,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",bis,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+497,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Sie,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+498,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",zur,3,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+499,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Viale,5,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+500,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",Corsica,7,0.63,0.0,0.0,1.0,0.0,0.0,0.37,0.0
+501,de,Navigation,de_Navigation,27,"Biegen Sie rechts ab auf die Viale Argonne und fahren Sie weiter, bis Sie zur Viale Corsica kommen.",kommen,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0

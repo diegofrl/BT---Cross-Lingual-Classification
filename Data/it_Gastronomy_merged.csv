@@ -1,0 +1,372 @@
+index,MainLanguage,Category,Filename,SentenceIndex,Sentence,Word_x,wordLength,wordIsEN,sentenceIsEN,wordIsDE,sentenceIsDE,wordIsFR,sentenceIsFR,wordIsIT,sentenceIsIT,Word_y,Language
+0,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,Oggi,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Oggi,it
+1,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,vi,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,vi,it
+2,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,parleremo,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,parleremo,it
+3,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+4,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,alcuni,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,alcuni,it
+5,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,piatti,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatti,it
+6,it,Gastronomy,it_Gastronomy,0,Oggi vi parleremo di alcuni piatti internazionali.,internazionali,14,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,internazionali,it
+7,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+8,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,primo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,primo,it
+9,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+10,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,il,it
+11,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,famoso,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,famoso,it
+12,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,Ratatouille,11,0.0,0.0,0.0,0.0,0.71,0.0,0.29,1.0,Ratatouille,fr
+13,it,Gastronomy,it_Gastronomy,1,Il primo è il famoso Ratatouille francese.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+14,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,Questo,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Questo,it
+15,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+16,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,vegetariano,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,vegetariano,it
+17,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+18,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,composto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,composto,it
+19,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,da,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,da,it
+20,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,verdure,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,verdure,it
+21,it,Gastronomy,it_Gastronomy,2,Questo piatto vegetariano è composto da verdure cotte.,cotte,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,cotte,it
+22,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",In,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,In,it
+23,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",Germania,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Germania,it
+24,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+25,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",tipico,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tipico,it
+26,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",lo,2,0.0,0.0,0.0,0.0,0.71,0.0,0.29,1.0,lo,it
+27,it,Gastronomy,it_Gastronomy,3,"In Germania, è tipico lo Sauerbraten.",Sauerbraten,11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Sauerbraten,de
+28,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,Lo,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Lo,it
+29,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,Sauerbraten,11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Sauerbraten,de
+30,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+31,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+32,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,arrosto,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,arrosto,it
+33,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+34,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,manzo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,manzo,it
+35,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,marinato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,marinato,it
+36,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,nell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,nell,it
+37,it,Gastronomy,it_Gastronomy,4,Lo Sauerbraten è un arrosto di manzo marinato nell'aceto.,aceto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,aceto,it
+38,it,Gastronomy,it_Gastronomy,5,Non dimentichiamo l'English Breakfast.,Non,3,1.0,0.86,0.0,0.0,0.0,0.0,0.0,0.14,Non,it
+39,it,Gastronomy,it_Gastronomy,5,Non dimentichiamo l'English Breakfast.,dimentichiamo,13,0.0,0.86,0.0,0.0,0.0,0.0,1.0,0.14,dimentichiamo,it
+40,it,Gastronomy,it_Gastronomy,5,Non dimentichiamo l'English Breakfast.,l,1,0.0,0.86,0.0,0.0,1.0,0.0,0.0,0.14,l,en
+41,it,Gastronomy,it_Gastronomy,5,Non dimentichiamo l'English Breakfast.,English,7,1.0,0.86,0.0,0.0,0.0,0.0,0.0,0.14,English,en
+42,it,Gastronomy,it_Gastronomy,5,Non dimentichiamo l'English Breakfast.,Breakfast,9,0.86,0.86,0.14,0.0,0.0,0.0,0.0,0.14,Breakfast,en
+43,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",L,1,0.0,0.14,0.0,0.0,1.0,0.0,0.0,0.86,L,en
+44,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",English,7,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86,English,en
+45,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",Breakfast,9,1.0,0.14,0.0,0.0,0.0,0.0,0.0,0.86,Breakfast,en
+46,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",comprende,9,0.0,0.14,0.0,0.0,0.0,0.0,1.0,0.86,comprende,it
+47,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",uova,4,0.0,0.14,0.0,0.0,0.0,0.0,1.0,0.86,uova,it
+48,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",bacon,5,0.86,0.14,0.0,0.0,0.0,0.0,0.14,0.86,bacon,en
+49,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",e,1,0.0,0.14,0.0,0.0,1.0,0.0,0.0,0.86,e,it
+50,it,Gastronomy,it_Gastronomy,6,"L'English Breakfast comprende uova, bacon e salsicce.",salsicce,8,0.0,0.14,0.0,0.0,0.0,0.0,1.0,0.86,salsicce,it
+51,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,La,2,0.0,0.0,0.0,0.0,0.97,0.0,0.0,1.0,La,it
+52,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,Baguette,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Baguette,fr
+53,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+54,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+55,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,pane,4,0.0,0.0,0.0,0.0,0.63,0.0,0.37,1.0,pane,it
+56,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+57,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,molto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,molto,it
+58,it,Gastronomy,it_Gastronomy,7,La Baguette è un pane francese molto conosciuto.,conosciuto,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,conosciuto,it
+59,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,I,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,I,it
+60,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,Croissant,9,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Croissant,fr
+61,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,sono,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,sono,it
+62,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+63,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,altra,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,altra,it
+64,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,specialità,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,specialità,it
+65,it,Gastronomy,it_Gastronomy,8,I Croissant sono un'altra specialità francese.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+66,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+67,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,Quiche,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Quiche,fr
+68,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,Lorraine,8,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Lorraine,fr
+69,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+70,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+71,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+72,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,tipico,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tipico,it
+73,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,dell,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dell,it
+74,it,Gastronomy,it_Gastronomy,9,La Quiche Lorraine è un piatto tipico dell'Alsazia.,Alsazia,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Alsazia,it
+75,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,Questa,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Questa,it
+76,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,quiche,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,quiche,it
+77,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+78,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,fatta,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,fatta,it
+79,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,con,it
+80,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,pancetta,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pancetta,it
+81,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+82,it,Gastronomy,it_Gastronomy,10,Questa quiche è fatta con pancetta e formaggio.,formaggio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,formaggio,it
+83,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,La,2,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0,La,it
+84,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,Bouillabaisse,13,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Bouillabaisse,fr
+85,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+86,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+87,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,zuppa,5,0.0,0.0,0.57,0.0,0.0,0.0,0.43,1.0,zuppa,it
+88,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+89,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,pesce,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pesce,it
+90,it,Gastronomy,it_Gastronomy,11,La Bouillabaisse è una zuppa di pesce provenzale.,provenzale,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,provenzale,it
+91,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,La,2,0.0,0.0,0.0,0.0,0.95,0.0,0.0,1.0,La,it
+92,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,Wiener,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Wiener,de
+93,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,Schnitzel,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Schnitzel,de
+94,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+95,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+96,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,cotoletta,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,cotoletta,it
+97,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,alla,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,alla,it
+98,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,milanese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,milanese,it
+99,it,Gastronomy,it_Gastronomy,12,La Wiener Schnitzel è una cotoletta alla milanese austriaca.,austriaca,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,austriaca,it
+100,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,L,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,L,de
+101,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,Apfelstrudel,12,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Apfelstrudel,de
+102,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+103,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+104,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,dolce,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dolce,it
+105,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,tedesco,7,0.43,0.0,0.0,0.0,0.0,0.0,0.57,1.0,tedesco,it
+106,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+107,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+108,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+109,it,Gastronomy,it_Gastronomy,13,L'Apfelstrudel è un dolce tedesco a base di mele.,mele,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,mele,it
+110,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",In,2,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71,In,it
+111,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",Inghilterra,11,0.29,0.29,0.57,0.0,0.0,0.0,0.14,0.71,Inghilterra,it
+112,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",il,2,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71,il,it
+113,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",Fish,4,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71,Fish,en
+114,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",and,3,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71,and,en
+115,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",Chips,5,1.0,0.29,0.0,0.0,0.0,0.0,0.0,0.71,Chips,en
+116,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",è,1,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71,è,it
+117,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",molto,5,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71,molto,it
+118,it,Gastronomy,it_Gastronomy,14,"In Inghilterra, il Fish and Chips è molto popolare.",popolare,8,0.0,0.29,0.0,0.0,0.0,0.0,1.0,0.71,popolare,it
+119,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+120,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,Coq,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Coq,fr
+121,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,au,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,au,fr
+122,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,Vin,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Vin,fr
+123,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+124,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+125,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+126,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+127,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+128,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+129,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+130,it,Gastronomy,it_Gastronomy,15,Il Coq au Vin è un piatto francese a base di pollo.,pollo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pollo,it
+131,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,La,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,La,it
+132,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,Crème,5,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,Crème,fr
+133,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,Brûlée,6,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,Brûlée,fr
+134,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,è,1,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29,è,it
+135,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,un,2,0.0,0.0,0.0,0.0,1.0,0.71,0.0,0.29,un,it
+136,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,dessert,7,0.0,0.0,1.0,0.0,0.0,0.71,0.0,0.29,dessert,it
+137,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,francese,8,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29,francese,it
+138,it,Gastronomy,it_Gastronomy,16,La Crème Brûlée è un dessert francese cremoso.,cremoso,7,0.0,0.0,0.0,0.0,0.0,0.71,1.0,0.29,cremoso,it
+139,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+140,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,Currywurst,10,0.71,0.0,0.29,0.0,0.0,0.0,0.0,1.0,Currywurst,de
+141,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+142,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+143,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,salsiccia,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,salsiccia,it
+144,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,tedesca,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tedesca,it
+145,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,con,it
+146,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,salsa,5,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0,salsa,it
+147,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,al,it
+148,it,Gastronomy,it_Gastronomy,17,Il Currywurst è una salsiccia tedesca con salsa al curry.,curry,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,curry,it
+149,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+150,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,Bœuf,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Bœuf,fr
+151,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,Bourguignon,11,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Bourguignon,fr
+152,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+153,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+154,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+155,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+156,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,manzo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,manzo,it
+157,it,Gastronomy,it_Gastronomy,18,Il Bœuf Bourguignon è un piatto di manzo francese.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+158,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,La,2,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0,La,it
+159,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,Soupe,5,0.14,0.0,0.0,0.0,0.86,0.0,0.0,1.0,Soupe,fr
+160,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,à,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,à,fr
+161,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,l,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,l,fr
+162,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,Oignon,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Oignon,fr
+163,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+164,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+165,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,zuppa,5,0.0,0.0,0.57,0.0,0.0,0.0,0.43,1.0,zuppa,it
+166,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+167,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,cipolle,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,cipolle,it
+168,it,Gastronomy,it_Gastronomy,19,La Soupe à l'Oignon è una zuppa di cipolle francese.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+169,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,Gli,3,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Gli,it
+170,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,Spätzle,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Spätzle,de
+171,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,sono,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,sono,it
+172,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+173,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,tipo,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tipo,it
+174,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+175,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,pasta,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pasta,it
+176,it,Gastronomy,it_Gastronomy,20,Gli Spätzle sono un tipo di pasta tedesca.,tedesca,7,0.29,0.0,0.0,0.0,0.0,0.0,0.71,1.0,tedesca,it
+177,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+178,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,Sachertorte,11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Sachertorte,de
+179,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+180,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+181,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,torta,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,torta,it
+182,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,al,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,al,it
+183,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,cioccolato,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,cioccolato,it
+184,it,Gastronomy,it_Gastronomy,21,La Sachertorte è una torta al cioccolato austriaca.,austriaca,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,austriaca,it
+185,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+186,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,Tiramisù,8,0.14,0.0,0.0,0.0,0.0,0.0,0.86,1.0,Tiramisù,it
+187,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+188,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+189,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,dessert,7,0.0,0.0,0.86,0.0,0.14,0.0,0.0,1.0,dessert,it
+190,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,italiano,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,italiano,it
+191,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,conosciuto,10,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,conosciuto,it
+192,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,in,2,0.97,0.0,0.0,0.0,0.0,0.0,0.0,1.0,in,it
+193,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,tutto,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tutto,it
+194,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,il,it
+195,it,Gastronomy,it_Gastronomy,22,Il Tiramisù è un dessert italiano conosciuto in tutto il mondo.,mondo,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,mondo,it
+196,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+197,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,Crêpe,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Crêpe,fr
+198,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,Suzette,7,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0,Suzette,fr
+199,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+200,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+201,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,dolce,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dolce,it
+202,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+203,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+204,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+205,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+206,it,Gastronomy,it_Gastronomy,23,Il Crêpe Suzette è un dolce francese a base di crepes.,crepes,6,0.14,0.0,0.0,0.0,0.86,0.0,0.0,1.0,crepes,it
+207,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+208,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,Choucroute,10,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Choucroute,fr
+209,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+210,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+211,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+212,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,alsaziano,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,alsaziano,it
+213,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+214,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+215,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+216,it,Gastronomy,it_Gastronomy,24,La Choucroute è un piatto alsaziano a base di crauti.,crauti,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,crauti,it
+217,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+218,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,Bangers,7,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Bangers,en
+219,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,and,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,and,en
+220,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,Mash,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Mash,en
+221,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+222,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+223,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+224,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,inglese,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,inglese,it
+225,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,con,it
+226,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,salsicce,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,salsicce,it
+227,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+228,it,Gastronomy,it_Gastronomy,25,Il Bangers and Mash è un piatto inglese con salsicce e purè.,purè,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,purè,it
+229,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+230,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,Fondue,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Fondue,fr
+231,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+232,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+233,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+234,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,svizzero,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,svizzero,it
+235,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+236,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+237,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+238,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,formaggio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,formaggio,it
+239,it,Gastronomy,it_Gastronomy,26,La Fondue è un piatto svizzero a base di formaggio fuso.,fuso,4,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,fuso,it
+240,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,Il,2,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86,Il,it
+241,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,Schwarzwälder,13,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86,Schwarzwälder,de
+242,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,Kirschtorte,11,0.0,0.0,1.0,0.14,0.0,0.0,0.0,0.86,Kirschtorte,de
+243,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,è,1,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86,è,it
+244,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,una,3,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86,una,it
+245,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,torta,5,1.0,0.0,0.0,0.14,0.0,0.0,0.0,0.86,torta,it
+246,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,tedesca,7,0.14,0.0,0.0,0.14,0.0,0.0,0.86,0.86,tedesca,it
+247,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,con,3,0.0,0.0,0.0,0.14,0.0,0.0,1.0,0.86,con,it
+248,it,Gastronomy,it_Gastronomy,27,Il Schwarzwälder Kirschtorte è una torta tedesca con ciliegie.,ciliegie,8,0.0,0.0,0.14,0.14,0.0,0.0,0.86,0.86,ciliegie,it
+249,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+250,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,Paella,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Paella,it
+251,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+252,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+253,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+254,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,spagnolo,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,spagnolo,it
+255,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+256,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+257,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+258,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,riso,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,riso,it
+259,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+260,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,frutti,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,frutti,it
+261,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+262,it,Gastronomy,it_Gastronomy,28,La Paella è un piatto spagnolo a base di riso e frutti di mare.,mare,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,mare,it
+263,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+264,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,Shepherd,8,0.86,0.0,0.14,0.0,0.0,0.0,0.0,1.0,Shepherd,en
+265,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,s,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,s,en
+266,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,Pie,3,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Pie,en
+267,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+268,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+269,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,pasticcio,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pasticcio,it
+270,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,inglese,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,inglese,it
+271,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,con,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,con,it
+272,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,carne,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,carne,it
+273,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+274,it,Gastronomy,it_Gastronomy,29,Il Shepherd's Pie è un pasticcio inglese con carne e patate.,patate,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,patate,it
+275,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+276,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,Haggis,6,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0,Haggis,en
+277,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+278,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+279,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+280,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,scozzese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,scozzese,it
+281,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+282,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+283,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+284,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,interiora,9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,interiora,it
+285,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+286,it,Gastronomy,it_Gastronomy,30,Il Haggis è un piatto scozzese a base di interiora di pecora.,pecora,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,pecora,it
+287,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,La,2,0.0,0.0,0.0,0.0,0.86,0.0,0.14,1.0,La,it
+288,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,Moules,6,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Moules,fr
+289,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,frites,6,0.84,0.0,0.0,0.0,0.16,0.0,0.0,1.0,frites,fr
+290,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+291,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+292,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+293,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,belga,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,belga,it
+294,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+295,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,cozze,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,cozze,it
+296,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+297,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,patatine,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,patatine,it
+298,it,Gastronomy,it_Gastronomy,31,La Moules-frites è un piatto belga di cozze e patatine fritte.,fritte,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,fritte,it
+299,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+300,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,Chateaubriand,13,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Chateaubriand,fr
+301,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+302,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+303,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,taglio,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,taglio,it
+304,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+305,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,carne,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,carne,it
+306,it,Gastronomy,it_Gastronomy,32,Il Chateaubriand è un taglio di carne francese.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+307,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+308,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,Gravlax,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,Gravlax,it
+309,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+310,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+311,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+312,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,svedese,7,0.0,0.0,0.29,0.0,0.0,0.0,0.71,1.0,svedese,it
+313,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+314,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+315,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+316,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,salmone,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,salmone,it
+317,it,Gastronomy,it_Gastronomy,33,Il Gravlax è un piatto svedese a base di salmone marinato.,marinato,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,marinato,it
+318,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+319,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,Gazpacho,8,0.43,0.0,0.57,0.0,0.0,0.0,0.0,1.0,Gazpacho,it
+320,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+321,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,una,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,una,it
+322,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,zuppa,5,0.0,0.0,0.86,0.0,0.0,0.0,0.14,1.0,zuppa,it
+323,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,fredda,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,fredda,it
+324,it,Gastronomy,it_Gastronomy,34,Il Gazpacho è una zuppa fredda spagnola.,spagnola,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,spagnola,it
+325,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,La,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,La,it
+326,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,Tarte,5,0.54,0.0,0.46,0.0,0.0,0.0,0.0,1.0,Tarte,fr
+327,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,Tatin,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Tatin,fr
+328,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+329,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+330,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,dolce,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,dolce,it
+331,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+332,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+333,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+334,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+335,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,mele,4,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,mele,it
+336,it,Gastronomy,it_Gastronomy,35,La Tarte Tatin è un dolce francese a base di mele caramellate.,caramellate,11,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,caramellate,it
+337,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+338,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,Goulash,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Goulash,de
+339,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+340,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+341,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,piatto,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,piatto,it
+342,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,ungherese,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,ungherese,it
+343,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+344,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+345,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+346,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,carne,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,carne,it
+347,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+348,it,Gastronomy,it_Gastronomy,36,Il Goulash è un piatto ungherese a base di carne e paprika.,paprika,7,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,paprika,it
+349,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+350,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,Foie,4,0.0,0.0,0.86,0.0,0.14,0.0,0.0,1.0,Foie,fr
+351,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,Gras,4,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Gras,fr
+352,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+353,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+354,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,prodotto,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,prodotto,it
+355,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,francese,8,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,francese,it
+356,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,a,1,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,a,it
+357,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,base,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,base,it
+358,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,di,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,di,it
+359,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,fegato,6,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,fegato,it
+360,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,d,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,d,it
+361,it,Gastronomy,it_Gastronomy,37,Il Foie Gras è un prodotto francese a base di fegato d'oca.,oca,3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,oca,it
+362,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,Il,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Il,it
+363,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,Pumpernickel,12,0.29,0.0,0.71,0.0,0.0,0.0,0.0,1.0,Pumpernickel,de
+364,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,è,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,è,it
+365,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,un,2,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,un,it
+366,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,pane,4,0.0,0.0,0.0,0.0,0.38,0.0,0.62,1.0,pane,it
+367,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,tedesco,7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,tedesco,it
+368,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,scuro,5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,scuro,it
+369,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,e,1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,e,it
+370,it,Gastronomy,it_Gastronomy,38,Il Pumpernickel è un pane tedesco scuro e denso.,denso,5,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,denso,it

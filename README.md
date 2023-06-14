@@ -19,7 +19,7 @@ Two notebooks are available. One is covering the research carried out and the ot
 ### Try the proof-of-concept
 You can try out the proof-of-concept by opening the notebook from this link https://colab.research.google.com/github/diegofrl/BT---Cross-Lingual-Classification/blob/main/POC.ipynb. Just click on Runtime, then Run all. After a few moments, a user interface will appear at the bottom of the notebook.
 
-![](https://github.com/diegofrl/BT---Cross-Lingual-Classification/blob/main/HowToNotebookGithub.gif)
+![https://github.com/diegofrl/BT---Cross-Lingual-Classification/blob/main/HowToNotebookGithub.gif](https://github.com/diegofrl/BT---Cross-Lingual-Classification/blob/main/HowToNotebookGithub.gif)
 
 ## License
 
